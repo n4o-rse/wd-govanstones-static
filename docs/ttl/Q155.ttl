@@ -4,6 +4,7 @@
 # The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
 
 @prefix cc: <http://creativecommons.org/ns#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
@@ -111,3 +112,9 @@ gvss:Q155-E1BCD879-EF01-5175-90FB-E2F8A0FEB747
 gvsref:363cebf872345803b81734fe12e65742694d51cd
     a wikibase:Reference ;
     gvspr:P6 <https://www.wikidata.org/wiki/Q141497173> .
+
+# CIDOC CRM anchoring (wikibase-static): the classes of this site tied to classes of the CIDOC CRM and its extensions (data/crm.csv) and the DCAT classes of this file (data/dcat-crm.csv),
+# with the superclasses of an extension class up to its first class of the CIDOC CRM, and subclass of / instance of spelled out as rdfs:subClassOf / rdf:type. Not part of the Wikibase data model.
+
+gvs:Q155
+    rdfs:subClassOf crm:E22_Human-Made_Object .

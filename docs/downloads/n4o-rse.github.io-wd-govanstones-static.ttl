@@ -1,5 +1,5 @@
 # RDF export of Govan Stones (static Wikibase), Wikibase data model; base URI https://n4o-rse.github.io/wd-govanstones-static
-# Generated with wikibase-static 0.27.1; data as of 2026-11-18T00:00:00Z
+# Generated with wikibase-static 0.32.0; data as of 2026-11-18T00:00:00Z
 # Licence: CC0 1.0
 # The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
 
@@ -14119,6 +14119,151 @@ gvst:P3
 
 # CIDOC CRM anchoring (wikibase-static): the classes of this site tied to classes of the CIDOC CRM and its extensions (data/crm.csv) and the DCAT classes of this file (data/dcat-crm.csv),
 # with the superclasses of an extension class up to its first class of the CIDOC CRM, and subclass of / instance of spelled out as rdfs:subClassOf / rdf:type. Not part of the Wikibase data model.
+
+gvs:Q100
+    a gvs:Q108,
+        gvs:Q109,
+        gvs:Q110 .
+
+gvs:Q108
+    rdfs:subClassOf crm:E78_Curated_Holding .
+
+gvs:Q109
+    rdfs:subClassOf crm:E22_Human-Made_Object .
+
+gvs:Q110
+    rdfs:subClassOf crm:E27_Site .
+
+gvs:Q113
+    a gvs:Q109,
+        gvs:Q151 .
+
+gvs:Q114
+    a gvs:Q109,
+        gvs:Q154 .
+
+gvs:Q115
+    a gvs:Q109,
+        gvs:Q151 .
+
+gvs:Q116
+    a gvs:Q109,
+        gvs:Q151 .
+
+gvs:Q117
+    a gvs:Q109,
+        gvs:Q151 .
+
+gvs:Q118
+    a gvs:Q109,
+        gvs:Q151 .
+
+gvs:Q119
+    a gvs:Q109 .
+
+gvs:Q120
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q121
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q122
+    a gvs:Q109 .
+
+gvs:Q123
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q124
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q125
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q126
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q127
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q128
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q129
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q130
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q131
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q132
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q133
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q134
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q135
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q136
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q137
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q138
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q139
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q140
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q141
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q142
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q143
+    a gvs:Q109,
+        gvs:Q155 .
+
+gvs:Q151
+    rdfs:subClassOf crm:E22_Human-Made_Object .
+
+gvs:Q154
+    rdfs:subClassOf crm:E22_Human-Made_Object .
+
+gvs:Q155
+    rdfs:subClassOf crm:E22_Human-Made_Object .
 
 crmdig:D1_Digital_Object
     rdfs:subClassOf crm:E73_Information_Object .
