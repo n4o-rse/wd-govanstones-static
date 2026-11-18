@@ -1,7 +1,7 @@
 class,crm_class,note
-Q108,crm:E78_Curated_Holding,A collection of objects: crm:E78 Curated Holding (proposal)
-Q109,crm:E22_Human-Made_Object,An archaeological artefact is a human-made object: crm:E22 (proposal)
-Q110,crm:E27_Site,An archaeological site: crm:E27 Site (proposal)
-Q151,crm:E22_Human-Made_Object,A hogback is a carved stone: crm:E22 Human-Made Object (proposal)
-Q154,crm:E22_Human-Made_Object,A sarcophagus is a carved stone container: crm:E22 Human-Made Object (proposal)
-Q155,crm:E22_Human-Made_Object,A cross slab is a carved stone: crm:E22 Human-Made Object (proposal)
+Q108,crm:E78_Curated_Holding,A collection of objects: crm:E78 Curated Holding [confirmed]
+Q109,crm:E22_Human-Made_Object,An archaeological artefact is a human-made object: crm:E22 [confirmed]
+Q110,crm:E27_Site,An archaeological site: crm:E27 Site [confirmed]
+Q151,crm:E22_Human-Made_Object,A hogback is a carved stone: crm:E22 Human-Made Object [confirmed]
+Q154,crm:E22_Human-Made_Object,A sarcophagus is a carved stone container: crm:E22 Human-Made Object [confirmed]
+Q155,crm:E22_Human-Made_Object,A cross slab is a carved stone: crm:E22 Human-Made Object [confirmed]
