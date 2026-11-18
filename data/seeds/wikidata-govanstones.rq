@@ -1,0 +1,8 @@
+# The Govan Stones: the items that the WikiProject GovanStones (Q141962030) maintains (P6104, "maintained by WikiProject").
+# The verb seeds-from-sparql runs this query at query.wikidata.org; the kind of every seed is "govanstones" (the name of this file).
+# If the answer is empty, the stones are not marked with P6104 yet: list their ids in wikidata-qids.txt instead (or as well).
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  ?item wdt:P6104 wd:Q141962030 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,de,mul". }
+}
+ORDER BY ?item
