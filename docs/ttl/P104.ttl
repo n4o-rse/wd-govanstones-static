@@ -1,0 +1,187 @@
+# P104: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P104.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Foto, Grafik etc. des Subjekts aus Wikimedia Commons (ohne „File:“)"@de,
+        "image of relevant illustration of the subject; if available, also use more specific properties (sample: coat of arms image, locator map, flag image, signature image, logo image, collage image)"@en ;
+    dcterms:identifier "P104" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P104 ;
+    dcterms:title "Bild"@de,
+        "image"@en ;
+    schema:about gvs:P104 ;
+    dcat:distribution gvsdist:P104-html,
+        gvsdist:P104-json,
+        gvsdist:P104-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P104.html> .
+
+gvsdist:P104-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P104, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P104.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P104-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P104, as archived from the Wikibase API"@en ;
+    dcat:byteSize "4561"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P104.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P104-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P104, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P104.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P104
+    a wikibase:Property ;
+    schema:description "Foto, Grafik etc. des Subjekts aus Wikimedia Commons (ohne „File:“)"@de,
+        "image of relevant illustration of the subject; if available, also use more specific properties (sample: coat of arms image, locator map, flag image, signature image, logo image, collage image)"@en ;
+    schema:name "Bild"@de,
+        "image"@en ;
+    wikibase:claim gvsp:P104 ;
+    wikibase:directClaim gvst:P104 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P104 ;
+    wikibase:propertyType wikibase:CommonsMedia ;
+    wikibase:qualifier gvspq:P104 ;
+    wikibase:qualifierValue gvspqv:P104 ;
+    wikibase:reference gvspr:P104 ;
+    wikibase:referenceValue gvsprv:P104 ;
+    wikibase:statementProperty gvsps:P104 ;
+    wikibase:statementValue gvspsv:P104 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "Bild"@de,
+        "image"@en ;
+    skos:altLabel "Abbild"@de,
+        "Abbildtheorie"@de,
+        "Abbildung"@de,
+        "Bild"@de,
+        "Commons image"@en,
+        "Datei eines Bildes"@de,
+        "Diagram"@de,
+        "File:"@en,
+        "Foto"@de,
+        "Grafik"@de,
+        "Wikimedia Commons image"@en,
+        "album artwork"@en,
+        "album cover"@en,
+        "artwork"@en,
+        "camera picture"@en,
+        "drawing"@en,
+        "graph"@en,
+        "graphic"@en,
+        "illustration"@en,
+        "image capture"@en,
+        "image of subject"@en,
+        "image on Commons"@en,
+        "image on Wikimedia Commons"@en,
+        "images"@en,
+        "img"@en,
+        "infobox image"@en,
+        "photo"@en,
+        "photograph"@en,
+        "picture"@en,
+        "portrait"@en,
+        "screen capture"@en,
+        "screenshot"@en,
+        "still capture"@en,
+        "still"@en ;
+    skos:prefLabel "Bild"@de,
+        "image"@en ;
+    gvsp:P2 gvss:P104-B15D88C7-254D-5063-8A2B-8E0D4B57B7CB ;
+    gvsp:P4 gvss:P104-211F5B65-FEBC-547C-9D65-48C58237B867 ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P18" .
+
+gvss:P104-211F5B65-FEBC-547C-9D65-48C58237B867
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:c8313c204bb8e206001414c170ac4edd54d33878 ;
+    gvsps:P4 "P18" .
+
+gvss:P104-B15D88C7-254D-5063-8A2B-8E0D4B57B7CB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvsref:c8313c204bb8e206001414c170ac4edd54d33878
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P18> .
+
+gvsp:P104
+    a owl:ObjectProperty .
+
+gvst:P104
+    a owl:ObjectProperty .
+
+gvspq:P104
+    a owl:ObjectProperty .
+
+gvspqv:P104
+    a owl:ObjectProperty .
+
+gvspr:P104
+    a owl:ObjectProperty .
+
+gvsprv:P104
+    a owl:ObjectProperty .
+
+gvsps:P104
+    a owl:ObjectProperty .
+
+gvspsv:P104
+    a owl:ObjectProperty .
+
+gvsno:P104
+    a owl:Class ;
+    owl:complementOf _:ba931c848e12d966c11e6bd628fd0277 .
+
+_:ba931c848e12d966c11e6bd628fd0277
+    a owl:Restriction ;
+    owl:onProperty gvst:P104 ;
+    owl:someValuesFrom owl:Thing .

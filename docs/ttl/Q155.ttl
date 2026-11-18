@@ -1,0 +1,113 @@
+# Q155: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/Q155.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "stone with one or more crosses carved into it, used as a memorial or grave marker"@en ;
+    dcterms:identifier "Q155" ;
+    dcterms:isPartOf gvscat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:Q155 ;
+    dcterms:title "cross slab"@en ;
+    schema:about gvs:Q155 ;
+    dcat:distribution gvsdist:Q155-html,
+        gvsdist:Q155-json,
+        gvsdist:Q155-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/Q155.html> .
+
+gvsdist:Q155-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q155, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/Q155.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:Q155-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q155, as archived from the Wikibase API"@en ;
+    dcat:byteSize "2299"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/Q155.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:Q155-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q155, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:Q155.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:Q155
+    a wikibase:Item ;
+    schema:description "stone with one or more crosses carved into it, used as a memorial or grave marker"@en ;
+    schema:name "cross slab"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "3"^^xsd:integer ;
+    rdfs:label "cross slab"@en ;
+    skos:altLabel "cross-slab"@en ;
+    skos:prefLabel "cross slab"@en ;
+    gvsp:P1 gvss:Q155-A6B8E28F-1890-5A1F-8F1C-377730D1B006 ;
+    gvsp:P2 gvss:Q155-E1BCD879-EF01-5175-90FB-E2F8A0FEB747 ;
+    gvsp:P4 gvss:Q155-2DFABF58-DD5C-52AB-8CCB-ADBF86664CA3 ;
+    gvst:P1 gvs:Q3 ;
+    gvst:P2 gvs:Q1 ;
+    gvst:P4 "Q141497173" .
+
+gvss:Q155-2DFABF58-DD5C-52AB-8CCB-ADBF86664CA3
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:363cebf872345803b81734fe12e65742694d51cd ;
+    gvsps:P4 "Q141497173" .
+
+gvss:Q155-A6B8E28F-1890-5A1F-8F1C-377730D1B006
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P1 gvs:Q3 .
+
+gvss:Q155-E1BCD879-EF01-5175-90FB-E2F8A0FEB747
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q1 .
+
+gvsref:363cebf872345803b81734fe12e65742694d51cd
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Q141497173> .

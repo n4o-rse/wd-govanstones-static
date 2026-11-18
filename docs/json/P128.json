@@ -1,0 +1,149 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Zeitalter"
+      },
+      {
+        "language": "de",
+        "value": "Zeitraum"
+      },
+      {
+        "language": "de",
+        "value": "Sportsaison"
+      },
+      {
+        "language": "de",
+        "value": "Theatersaison"
+      },
+      {
+        "language": "de",
+        "value": "Legislaturperiode"
+      },
+      {
+        "language": "de",
+        "value": "Epoche"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "era"
+      },
+      {
+        "language": "en",
+        "value": "historic era"
+      },
+      {
+        "language": "en",
+        "value": "epoch"
+      },
+      {
+        "language": "en",
+        "value": "historical period"
+      },
+      {
+        "language": "en",
+        "value": "sports season"
+      },
+      {
+        "language": "en",
+        "value": "theatre season"
+      },
+      {
+        "language": "en",
+        "value": "legislative period"
+      },
+      {
+        "language": "en",
+        "value": "historic period"
+      },
+      {
+        "language": "en",
+        "value": "period"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P128$50DBCC20-FED6-5D69-9092-64AE7CF5CBA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P128$DA2BA10A-7D01-5955-BD78-C96F0C75454F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2348"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2348"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zeitraum (historische Periode oder Zeitalter, Sportsaison, Theatersaison, Legislaturperiode o.ä.) in der das Subjekt auftritt"
+    },
+    "en": {
+      "language": "en",
+      "value": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred or with which it is associated"
+    }
+  },
+  "id": "P128",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Zeitraum"
+    },
+    "en": {
+      "language": "en",
+      "value": "time period"
+    }
+  },
+  "type": "property"
+}

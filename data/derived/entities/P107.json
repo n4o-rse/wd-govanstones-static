@@ -1,0 +1,167 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "IG account"
+      },
+      {
+        "language": "en",
+        "value": "IG username"
+      },
+      {
+        "language": "en",
+        "value": "IG profile"
+      },
+      {
+        "language": "en",
+        "value": "Instagram"
+      },
+      {
+        "language": "en",
+        "value": "Insta ID"
+      },
+      {
+        "language": "en",
+        "value": "igram"
+      },
+      {
+        "language": "en",
+        "value": "urinsta"
+      },
+      {
+        "language": "en",
+        "value": "ufinsta"
+      },
+      {
+        "language": "en",
+        "value": "Instagram page"
+      },
+      {
+        "language": "en",
+        "value": "https://www.instagram.com"
+      },
+      {
+        "language": "en",
+        "value": "www.instagram.com"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P107$E9267077-350E-5303-A947-15B607322E48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P107$06F90A76-9177-51F7-A2B7-83E684181EA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2003"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2003"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "P107$E2E9D1ED-F167-5B5F-A888-4758A0421730",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.instagram.com/$1/"
+          },
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2003"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Name des Instagram-Kontos eines Projekts bzw. einer Person"
+    },
+    "en": {
+      "language": "en",
+      "value": "item's username on Instagram"
+    }
+  },
+  "id": "P107",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Instagram-Benutzername"
+    },
+    "en": {
+      "language": "en",
+      "value": "Instagram username"
+    }
+  },
+  "type": "property"
+}

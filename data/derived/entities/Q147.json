@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Siorrachd Lannraig"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q147$0C9F0BCF-5FA9-574E-8966-0318F18B93F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q530296"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q530296"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "traditionelle Grafschaft in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "historic county of Scotland, UK"
+    }
+  },
+  "id": "Q147",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lanarkshire"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lanarkshire"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

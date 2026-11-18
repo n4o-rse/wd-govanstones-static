@@ -1,7 +1,7 @@
 # wd-govanstones-static
 
 A static, read-only Wikibase (GitHub Pages) of the **Govan Stones**, the early medieval carved stones of Govan Old in Glasgow.
-The items are those that the Wikidata WikiProject [GovanStones](https://www.wikidata.org/wiki/Q141962030) maintains. The site is built with
+The items are the collection [The Govan Stones](https://www.wikidata.org/wiki/Q42887850) at Wikidata and the stones that are its parts (the Wikidata WikiProject [GovanStones](https://www.wikidata.org/wiki/Q141962030) maintains them). The site is built with
 [wikibase-static](https://github.com/n4o-rse/wikibase-static) (0.27.0 or later) and has no model of its own: its properties are made from the
 Wikidata properties that the items use.
 

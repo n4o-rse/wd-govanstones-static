@@ -1,0 +1,182 @@
+# P110: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P110.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Stand- oder Aufbewahrungsort eines Objekts; Ort eines Ereignisses. Für administrative Einheiten als Zielobjekt benutze P131, für statistische Einheiten P8138, für sonstige geographische Zuordnungen benutze P706"@de,
+        "location of the object, structure or event; use P131 to indicate the containing administrative entity, P8138 for statistical entities, or P706 for geographic entities; use P7153 for locations associated with the object"@en ;
+    dcterms:identifier "P110" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P110 ;
+    dcterms:title "Ort"@de,
+        "location"@en ;
+    schema:about gvs:P110 ;
+    dcat:distribution gvsdist:P110-html,
+        gvsdist:P110-json,
+        gvsdist:P110-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P110.html> .
+
+gvsdist:P110-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P110, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P110.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P110-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P110, as archived from the Wikibase API"@en ;
+    dcat:byteSize "4312"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P110.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P110-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P110, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P110.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P110
+    a wikibase:Property ;
+    schema:description "Stand- oder Aufbewahrungsort eines Objekts; Ort eines Ereignisses. Für administrative Einheiten als Zielobjekt benutze P131, für statistische Einheiten P8138, für sonstige geographische Zuordnungen benutze P706"@de,
+        "location of the object, structure or event; use P131 to indicate the containing administrative entity, P8138 for statistical entities, or P706 for geographic entities; use P7153 for locations associated with the object"@en ;
+    schema:name "Ort"@de,
+        "location"@en ;
+    wikibase:claim gvsp:P110 ;
+    wikibase:directClaim gvst:P110 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P110 ;
+    wikibase:propertyType wikibase:WikibaseItem ;
+    wikibase:qualifier gvspq:P110 ;
+    wikibase:qualifierValue gvspqv:P110 ;
+    wikibase:reference gvspr:P110 ;
+    wikibase:referenceValue gvsprv:P110 ;
+    wikibase:statementProperty gvsps:P110 ;
+    wikibase:statementValue gvspsv:P110 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "Ort"@de,
+        "location"@en ;
+    skos:altLabel "Aufbewahrungsort"@de,
+        "Austragungssort"@de,
+        "Lage"@de,
+        "Standort"@de,
+        "Veranstaltungsort"@de,
+        "based in"@en,
+        "befindet sich in"@de,
+        "city"@en,
+        "exact location"@en,
+        "from"@en,
+        "held by"@en,
+        "in"@en,
+        "is in"@en,
+        "locale"@en,
+        "locality"@en,
+        "located in"@en,
+        "located"@en,
+        "near"@en,
+        "neighborhood"@en,
+        "neighbourhood"@en,
+        "place held"@en,
+        "place"@en,
+        "position"@en,
+        "region"@en,
+        "suburb"@en,
+        "town"@en,
+        "venue"@en,
+        "village"@en,
+        "whereabouts"@en ;
+    skos:prefLabel "Ort"@de,
+        "location"@en ;
+    gvsp:P2 gvss:P110-FA7A796C-F53D-54AF-8BFC-D90F1E1605C0 ;
+    gvsp:P4 gvss:P110-87761DB5-1D81-5F93-B07E-AC25EB923929 ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P276" .
+
+gvss:P110-87761DB5-1D81-5F93-B07E-AC25EB923929
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:41a62d14f613f2df702c1a55331908c2835e2656 ;
+    gvsps:P4 "P276" .
+
+gvss:P110-FA7A796C-F53D-54AF-8BFC-D90F1E1605C0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvsref:41a62d14f613f2df702c1a55331908c2835e2656
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P276> .
+
+gvsp:P110
+    a owl:ObjectProperty .
+
+gvst:P110
+    a owl:ObjectProperty .
+
+gvspq:P110
+    a owl:ObjectProperty .
+
+gvspqv:P110
+    a owl:ObjectProperty .
+
+gvspr:P110
+    a owl:ObjectProperty .
+
+gvsprv:P110
+    a owl:ObjectProperty .
+
+gvsps:P110
+    a owl:ObjectProperty .
+
+gvspsv:P110
+    a owl:ObjectProperty .
+
+gvsno:P110
+    a owl:Class ;
+    owl:complementOf _:d6573a0cced32f982a46595ed941733c .
+
+_:d6573a0cced32f982a46595ed941733c
+    a owl:Restriction ;
+    owl:onProperty gvst:P110 ;
+    owl:someValuesFrom owl:Thing .

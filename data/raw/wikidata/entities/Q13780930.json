@@ -1,0 +1,53 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "worldwide release"
+      },
+      {
+        "language": "en",
+        "value": "global"
+      },
+      {
+        "language": "en",
+        "value": "globally"
+      },
+      {
+        "language": "en",
+        "value": "WW"
+      },
+      {
+        "language": "en",
+        "value": "Global"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Veröffentlichung ohne territoriale Beschränkung"
+    },
+    "en": {
+      "language": "en",
+      "value": "published or operating in multiple or all jurisdictions on Earth; special value for \"place of publication\" (P291) and \"operating area\" (P2541)"
+    }
+  },
+  "id": "Q13780930",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "weltweit"
+    },
+    "en": {
+      "language": "en",
+      "value": "worldwide"
+    }
+  },
+  "lastrevid": 2505828271,
+  "modified": "2026-06-14T09:35:57Z",
+  "ns": 0,
+  "pageid": 15436852,
+  "title": "Q13780930",
+  "type": "item"
+}

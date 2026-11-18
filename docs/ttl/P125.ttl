@@ -1,0 +1,157 @@
+# P125: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P125.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "URL where external data on this item can be found"@en,
+        "URL, unter der externe Daten zu dem Thema gefunden werden können"@de ;
+    dcterms:identifier "P125" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P125 ;
+    dcterms:title "external data available at URL"@en,
+        "externe Daten"@de ;
+    schema:about gvs:P125 ;
+    dcat:distribution gvsdist:P125-html,
+        gvsdist:P125-json,
+        gvsdist:P125-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P125.html> .
+
+gvsdist:P125-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P125, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P125.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P125-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P125, as archived from the Wikibase API"@en ;
+    dcat:byteSize "2250"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P125.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P125-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P125, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P125.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P125
+    a wikibase:Property ;
+    schema:description "URL where external data on this item can be found"@en,
+        "URL, unter der externe Daten zu dem Thema gefunden werden können"@de ;
+    schema:name "external data available at URL"@en,
+        "externe Daten"@de ;
+    wikibase:claim gvsp:P125 ;
+    wikibase:directClaim gvst:P125 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P125 ;
+    wikibase:propertyType wikibase:Url ;
+    wikibase:qualifier gvspq:P125 ;
+    wikibase:qualifierValue gvspqv:P125 ;
+    wikibase:reference gvspr:P125 ;
+    wikibase:referenceValue gvsprv:P125 ;
+    wikibase:statementProperty gvsps:P125 ;
+    wikibase:statementValue gvspsv:P125 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "external data available at URL"@en,
+        "externe Daten"@de ;
+    skos:altLabel "Daten"@de,
+        "URL with external data"@en,
+        "data"@en,
+        "external data URL"@en ;
+    skos:prefLabel "external data available at URL"@en,
+        "externe Daten"@de ;
+    gvsp:P2 gvss:P125-3C108272-61EB-5BC3-8437-8317ACFF6B75 ;
+    gvsp:P4 gvss:P125-8F93A384-CDC9-5671-A680-3B1A5C162038 ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P1325" .
+
+gvss:P125-3C108272-61EB-5BC3-8437-8317ACFF6B75
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvss:P125-8F93A384-CDC9-5671-A680-3B1A5C162038
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:5e1855564fdeb0da23ff48d262ffad84c63dc705 ;
+    gvsps:P4 "P1325" .
+
+gvsref:5e1855564fdeb0da23ff48d262ffad84c63dc705
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P1325> .
+
+gvsp:P125
+    a owl:ObjectProperty .
+
+gvst:P125
+    a owl:ObjectProperty .
+
+gvspq:P125
+    a owl:ObjectProperty .
+
+gvspqv:P125
+    a owl:ObjectProperty .
+
+gvspr:P125
+    a owl:ObjectProperty .
+
+gvsprv:P125
+    a owl:ObjectProperty .
+
+gvsps:P125
+    a owl:ObjectProperty .
+
+gvspsv:P125
+    a owl:ObjectProperty .
+
+gvsno:P125
+    a owl:Class ;
+    owl:complementOf _:1cc8ce1db303457f4a2bec4f39c66524 .
+
+_:1cc8ce1db303457f4a2bec4f39c66524
+    a owl:Restriction ;
+    owl:onProperty gvst:P125 ;
+    owl:someValuesFrom owl:Thing .

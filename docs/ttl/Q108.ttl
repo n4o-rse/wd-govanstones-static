@@ -1,0 +1,120 @@
+# Q108: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/Q108.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Zusammenstellung von sorgfältig ausgewählten Objekten mit gemeinsamen Eigenschaften"@de,
+        "set of purposely gathered physical or digital objects with some common characteristics"@en ;
+    dcterms:identifier "Q108" ;
+    dcterms:isPartOf gvscat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:Q108 ;
+    dcterms:title "Sammlung"@de,
+        "collection"@en ;
+    schema:about gvs:Q108 ;
+    dcat:distribution gvsdist:Q108-html,
+        gvsdist:Q108-json,
+        gvsdist:Q108-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/Q108.html> .
+
+gvsdist:Q108-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q108, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/Q108.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:Q108-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q108, as archived from the Wikibase API"@en ;
+    dcat:byteSize "2588"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/Q108.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:Q108-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q108, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:Q108.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:Q108
+    a wikibase:Item ;
+    schema:description "Zusammenstellung von sorgfältig ausgewählten Objekten mit gemeinsamen Eigenschaften"@de,
+        "set of purposely gathered physical or digital objects with some common characteristics"@en ;
+    schema:name "Sammlung"@de,
+        "collection"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "3"^^xsd:integer ;
+    rdfs:label "Sammlung"@de,
+        "collection"@en ;
+    skos:altLabel "collections"@en,
+        "inventory"@en ;
+    skos:prefLabel "Sammlung"@de,
+        "collection"@en ;
+    gvsp:P1 gvss:Q108-2EBBF1D4-02A5-5FE4-B22F-D2C47EEF7B34 ;
+    gvsp:P2 gvss:Q108-B00B56ED-5199-5EAE-AA15-C11FC524EE9E ;
+    gvsp:P4 gvss:Q108-DC89C60A-6F0A-5891-8F7E-4A206A678065 ;
+    gvst:P1 gvs:Q3 ;
+    gvst:P2 gvs:Q1 ;
+    gvst:P4 "Q2668072" .
+
+gvss:Q108-2EBBF1D4-02A5-5FE4-B22F-D2C47EEF7B34
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P1 gvs:Q3 .
+
+gvss:Q108-B00B56ED-5199-5EAE-AA15-C11FC524EE9E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q1 .
+
+gvss:Q108-DC89C60A-6F0A-5891-8F7E-4A206A678065
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:d88ccf2db80caa4045471fa07ea2dddf43bba7e1 ;
+    gvsps:P4 "Q2668072" .
+
+gvsref:d88ccf2db80caa4045471fa07ea2dddf43bba7e1
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Q2668072> .

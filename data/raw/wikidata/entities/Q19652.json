@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Gemeinfrei"
+      },
+      {
+        "language": "de",
+        "value": "Public-Domain"
+      },
+      {
+        "language": "de",
+        "value": "Public Domain"
+      },
+      {
+        "language": "de",
+        "value": "frei von Urheberrechten"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "PD"
+      },
+      {
+        "language": "en",
+        "value": "out of copyright"
+      },
+      {
+        "language": "en",
+        "value": "DP"
+      },
+      {
+        "language": "en",
+        "value": "🅮"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Werke, welche keinem Urheberrecht unterliegen"
+    },
+    "en": {
+      "language": "en",
+      "value": "no exclusive intellectual property rights apply"
+    }
+  },
+  "id": "Q19652",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gemeinfreiheit"
+    },
+    "en": {
+      "language": "en",
+      "value": "public domain"
+    }
+  },
+  "lastrevid": 2528161576,
+  "modified": "2026-08-06T15:40:20Z",
+  "ns": 0,
+  "pageid": 22790,
+  "title": "Q19652",
+  "type": "item"
+}

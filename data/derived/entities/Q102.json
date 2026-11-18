@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glasgow"
+      },
+      {
+        "language": "en",
+        "value": "City of Glasgow"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q102$8120E5E0-8606-5AF4-89D1-C700B5F0A756",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55934339"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q55934339"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gemeinde in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "council area of Scotland, UK"
+    }
+  },
+  "id": "Q102",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Glasgow City"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

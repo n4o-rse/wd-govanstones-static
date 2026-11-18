@@ -1,0 +1,1831 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "كتالوج"
+      },
+      {
+        "language": "ar",
+        "value": "كاتالوج"
+      }
+    ],
+    "ast": [
+      {
+        "language": "ast",
+        "value": "catalogu"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "рэестар"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "catalogue"
+      },
+      {
+        "language": "en",
+        "value": "registry"
+      },
+      {
+        "language": "en",
+        "value": "exhibition catalogue"
+      },
+      {
+        "language": "en",
+        "value": "cat."
+      },
+      {
+        "language": "en",
+        "value": "register"
+      },
+      {
+        "language": "en",
+        "value": "listed in"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "catalogo"
+      }
+    ],
+    "fi": [
+      {
+        "language": "fi",
+        "value": "katalogi"
+      },
+      {
+        "language": "fi",
+        "value": "hakemisto"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "catalogue d'exposition"
+      }
+    ],
+    "hi": [
+      {
+        "language": "hi",
+        "value": "सूची"
+      }
+    ],
+    "id": [
+      {
+        "language": "id",
+        "value": "katalogus"
+      },
+      {
+        "language": "id",
+        "value": "registri"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "目録"
+      },
+      {
+        "language": "ja",
+        "value": "レジストリ"
+      },
+      {
+        "language": "ja",
+        "value": "レジストリー"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "목록"
+      },
+      {
+        "language": "ko",
+        "value": "다음 목록에 등록되어 있음"
+      },
+      {
+        "language": "ko",
+        "value": "다음 목록에 등록됨"
+      },
+      {
+        "language": "ko",
+        "value": "카탈로그"
+      },
+      {
+        "language": "ko",
+        "value": "카타로그"
+      },
+      {
+        "language": "ko",
+        "value": "다음의 목록에 등재되어 있음"
+      },
+      {
+        "language": "ko",
+        "value": "등재되어 있는 목록"
+      },
+      {
+        "language": "ko",
+        "value": "다음에 등재됨"
+      },
+      {
+        "language": "ko",
+        "value": "다음에 목록에 등재되어 있음"
+      },
+      {
+        "language": "ko",
+        "value": "등재한 곳"
+      },
+      {
+        "language": "ko",
+        "value": "등재처"
+      },
+      {
+        "language": "ko",
+        "value": "다음에 등재되어 있음"
+      },
+      {
+        "language": "ko",
+        "value": "작품목록"
+      },
+      {
+        "language": "ko",
+        "value": "작품 목록"
+      },
+      {
+        "language": "ko",
+        "value": "등재된 곳"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "register"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "register"
+      }
+    ],
+    "sw": [
+      {
+        "language": "sw",
+        "value": "orodha"
+      },
+      {
+        "language": "sw",
+        "value": "rekodi"
+      },
+      {
+        "language": "sw",
+        "value": "orodha ya maonyesho"
+      }
+    ],
+    "th": [
+      {
+        "language": "th",
+        "value": "สารบัญแฟ้ม"
+      }
+    ],
+    "tl": [
+      {
+        "language": "tl",
+        "value": "talaan"
+      },
+      {
+        "language": "tl",
+        "value": "listahan"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "kayıt adı"
+      },
+      {
+        "language": "tr",
+        "value": "fihrist adı"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "реєстр"
+      }
+    ],
+    "vi": [
+      {
+        "language": "vi",
+        "value": "mục lục"
+      }
+    ],
+    "yo": [
+      {
+        "language": "yo",
+        "value": "ìwé àkójọ"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P972$84000329-4a80-47e5-d27f-0d5fb9488440",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2352616",
+              "numeric-id": 2352616
+            }
+          },
+          "hash": "cda46b583c307ab9b18cc4e47a495de91a573355",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1659": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P528",
+                  "numeric-id": 528
+                }
+              },
+              "hash": "932884831e13b205de8826205434b114fc4d15fe",
+              "property": "P1659",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P7328",
+                  "numeric-id": 7328
+                }
+              },
+              "hash": "4b0a9fa7b79295baa3c4dd3beb8a0e7fa38c9386",
+              "property": "P1659",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1659"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1647": [
+      {
+        "id": "P972$42d3f6f4-43b0-3984-3eb6-64080c7eef27",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P361",
+              "numeric-id": 361
+            }
+          },
+          "hash": "09a5e3f5e10efb3268853a706b94ddbcfeaab432",
+          "property": "P1647",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P972$73c39b86-42f8-92ab-014a-577c81843738",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P528",
+              "numeric-id": 528
+            }
+          },
+          "hash": "932884831e13b205de8826205434b114fc4d15fe",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$fa40a566-4f34-b382-38bb-58bab09054c3",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P5008",
+              "numeric-id": 5008
+            }
+          },
+          "hash": "0067581045d2b5894dd4b4a46f72bc58149c6d06",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$f8917d65-4eae-58ef-d9ec-f82e096c889d",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P9969",
+              "numeric-id": 9969
+            }
+          },
+          "hash": "a6142b8421c4678ee4343c0afe1e50c58c701379",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$a4ad3164-4875-4a59-cb0c-9a3548c95791",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P608",
+              "numeric-id": 608
+            }
+          },
+          "hash": "e2c09469f5004c731c0cdd8c951ee0cddeb6a349",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$55ea90cc-4fb0-a135-9259-486690f84d38",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P1343",
+              "numeric-id": 1343
+            }
+          },
+          "hash": "ccc808a80ab0258a62906a22d81815caf3db597e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$be6e63ef-4e69-d4af-d182-afd76f55c84e",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P217",
+              "numeric-id": 217
+            }
+          },
+          "hash": "3d6aba9e297f1e6831c159ad42cd95baccd8cd0f",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$249506e2-477b-8b1d-0b1d-760be4bc2b98",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P195",
+              "numeric-id": 195
+            }
+          },
+          "hash": "dcac49c862a9d556fe49e6f83c5831bc0800750c",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$c6613acf-4bff-9e1c-0570-2b045274a7aa",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8768",
+              "numeric-id": 8768
+            }
+          },
+          "hash": "6b839cf47babb0a8abf703c113cd38fd8278b7c2",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P972$dd3a6185-421c-d095-5f67-31ca0f9e3733",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q219831",
+              "numeric-id": 219831
+            }
+          },
+          "hash": "463e44a7cc61e5d8c60026c6b80456af2bbb02f5",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P528": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "2016"
+              },
+              "hash": "3d5590045501f3c7c638011e801941d8db3ce3d0",
+              "property": "P528",
+              "snaktype": "value"
+            }
+          ],
+          "P972": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q16986324",
+                  "numeric-id": 16986324
+                }
+              },
+              "hash": "03129839f954510d6f22658099dc3eec6c76829f",
+              "property": "P972",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P528",
+          "P972"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$a9d9c387-4e92-e79c-6731-e5fa8cd9bfc9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60332815",
+              "numeric-id": 60332815
+            }
+          },
+          "hash": "af2bf6e871b1b32935c9872f50384f4d6431a698",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P972": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q55379663",
+                  "numeric-id": 55379663
+                }
+              },
+              "hash": "451f701e2ad30aca4149ba315b416cc62a2c7678",
+              "property": "P972",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P972"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P972$9CBD5572-A86A-4D79-B06F-64B1E4A32939",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510865",
+              "numeric-id": 21510865
+            }
+          },
+          "hash": "f682b0724a7ad8a25fffc7b602c4ecab3d8c6274",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2352616",
+                  "numeric-id": 2352616
+                }
+              },
+              "hash": "80e83d765b1e47b173f8052bb3f2f1ea18725404",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q36524",
+                  "numeric-id": 36524
+                }
+              },
+              "hash": "7082197be63b113887f196b3978ff6d15114ad61",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q3331189",
+                  "numeric-id": 3331189
+                }
+              },
+              "hash": "9a5033bc3deaf11376d5ba60fe856e0f4a3f2357",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q6545185",
+                  "numeric-id": 6545185
+                }
+              },
+              "hash": "8a6cf78bd1815bac249de047744b3b7a4c91cec5",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1172284",
+                  "numeric-id": 1172284
+                }
+              },
+              "hash": "69e5e8a83463b1d3a8334904963ab1110cb6e472",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q27560760",
+                  "numeric-id": 27560760
+                }
+              },
+              "hash": "5bb1ce7ab0e7981c79385b54afc35641dac307d0",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q166140",
+                  "numeric-id": 166140
+                }
+              },
+              "hash": "bd478a5873afd827d3bd3fe7715bcce2b88c6f3a",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q166118",
+                  "numeric-id": 166118
+                }
+              },
+              "hash": "9c679b60c94dedaa424608d656a1514310a91f26",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q3052382",
+                  "numeric-id": 3052382
+                }
+              },
+              "hash": "20ae61d64b1c6586fafccb1af8e87b5abac831a7",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q254972",
+                  "numeric-id": 254972
+                }
+              },
+              "hash": "ffd54955d17c48ca1c3397962a045d736eefa8a4",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q30208840",
+                  "numeric-id": 30208840
+                }
+              },
+              "hash": "8fb539b5b9fd607316a1edaf9f8fd42a67a51dd2",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$E38CD7D7-27D5-40B4-BE5D-11DECEAB256C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52558054",
+              "numeric-id": 52558054
+            }
+          },
+          "hash": "2e149c47183ca37d301a6f980f359b688f2ae117",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q49679",
+                  "numeric-id": 49679
+                }
+              },
+              "hash": "5936e2cea86afda4ae42cb94b7b3efae9299fa0e",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$49F65E48-6642-40CC-8B4F-F37D04975843",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q59712033",
+                  "numeric-id": 59712033
+                }
+              },
+              "hash": "26655a7e573da17226d4244ec74f59387afbf26c",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$38a4e872-40fb-f445-fcf9-65dceb39243c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "hash": "09d78ef81b215335f19221c8fe904b42bd86214b",
+              "property": "P2306",
+              "snaktype": "novalue"
+            }
+          ],
+          "P6607": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "We seem to have a small percentage of items where this property is used with catalog code as qualifier instead of the other way around"
+                }
+              },
+              "hash": "6733a10b5129b24b6af075c48238a892c6cd0060",
+              "property": "P6607",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "es",
+                  "text": "Parece que tenemos un pequeño porcentaje de artículos donde esta propiedad se usa con el código de catálogo como calificador en lugar de al revés."
+                }
+              },
+              "hash": "54548e4f96e3155c232b4d256c0d11bc20de65fa",
+              "property": "P6607",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "zh",
+                  "text": "我们发现有一小部分项目，其属性使用了目录代码作为限定符，而不是反过来使用。"
+                }
+              },
+              "hash": "fac12fc9f18d8c1b708033bd34d9bc79f8f8b4ff",
+              "property": "P6607",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P6607"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$1e5443ca-4844-9e94-ad27-cc38c5828d6a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828449",
+                  "numeric-id": 54828449
+                }
+              },
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$c6636112-4b1a-c59e-2663-2f156928ebad",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52558054",
+              "numeric-id": 52558054
+            }
+          },
+          "hash": "2e149c47183ca37d301a6f980f359b688f2ae117",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q55521408",
+                  "numeric-id": 55521408
+                }
+              },
+              "hash": "965a1e2af4f77089d31193d9f8af4acc1feb708c",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P6607": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "The Kalos Pokédex is not a numbering system, but a group of three numbering systems."
+                }
+              },
+              "hash": "65810e83b2d694fd591e4470e3099c266b4773ab",
+              "property": "P6607",
+              "snaktype": "value"
+            }
+          ],
+          "P9729": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18086671",
+                  "numeric-id": 18086671
+                }
+              },
+              "hash": "88c4ff5852505119ac8b672483942b81baae2d27",
+              "property": "P9729",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18089575",
+                  "numeric-id": 18089575
+                }
+              },
+              "hash": "83c2c8c00c4c59b5a4a249f9cd5b8faf6d15070e",
+              "property": "P9729",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18089574",
+                  "numeric-id": 18089574
+                }
+              },
+              "hash": "7638f205f5aaa9e49dd78451ba06ac0cb933598b",
+              "property": "P9729",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P2316",
+          "P6607",
+          "P9729"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P972$c713b58a-473b-c81f-50c6-d68bdf2d6e09",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "nb",
+              "text": "Brukes som elementets katalog eller som kvalifikator for P528  katalogkode"
+            }
+          },
+          "hash": "e9246efdac62f1d15301914a0adeddc2c570135f",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$f0b3f5f6-4304-fa0f-9a3f-6a6fca0860aa",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Used as the item's catalog or as a qualifier for the P528 catalog code"
+            }
+          },
+          "hash": "57e3622233be4960daececf7440d422aaee3bf37",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$7b446059-4955-b05e-4698-902bc29d4975",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "es",
+              "text": "Se utiliza como catálogo del elemento o como calificador para P528 código del catálogo"
+            }
+          },
+          "hash": "367ac2fb002a92633529de158743746c35f6ec4e",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P972$314da8a4-4e00-c7ab-6372-0ca92273a159",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611840",
+              "numeric-id": 23611840
+            }
+          },
+          "hash": "543f33af212bde6bc376f92acca2cc6404689d66",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P972$3315af7e-4fef-ab0c-f0d3-705beaa6e727",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15720608",
+              "numeric-id": 15720608
+            }
+          },
+          "hash": "9196867390719332d5be5200e3e9b82cc088b161",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P972$3bb6eee5-45fe-5cf9-f99f-8bb3728f114a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18618644",
+              "numeric-id": 18618644
+            }
+          },
+          "hash": "6b997d76741326be753c66f5742a2f4b27a2ee3d",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P972$3054751F-BE88-4C26-A12B-D7331FCA70E9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/15#P972"
+          },
+          "hash": "75bc8b1ddd2a7885a0958a3d3e6d00e8e9b3a942",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7087": [
+      {
+        "id": "P972$65605806-4a1d-263a-bfc9-ce46b2c15689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78645465",
+              "numeric-id": 78645465
+            }
+          },
+          "hash": "b52bc743aeacb133c248615f1f52162838ce76d2",
+          "property": "P7087",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fe807d23bb0a28d9b5588ad3b736973b3c1afe9e",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2019-12-15T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "fedddfe1921828c144fb17b47a2790cfd7b81c1d",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "catálogu del elementu, o, como calificador de P528, catálogu al que se refier el 'códigu de catálogu'"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "каталёг для адзінкі"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "katalog stavke, ili kao kvalifikator od P528, katalog za koji je broj važeći"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "catàleg de l'element, o, com a qualificador de P528, catàleg al qual es refereix el 'codi de catàleg'"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "katalog pro tuto položku, nebo jako vymezení u P528 – katalog, ke kterému „kód katalogu“ patří"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Binyɛra ni pɛi n-doli taba shɛm"
+    },
+    "de": {
+      "language": "de",
+      "value": "Katalog des Gegenstandes, oder als Qualifikation von P528, Katalog unter Angabe der Katalognummer"
+    },
+    "el": {
+      "language": "el",
+      "value": "κατάλογος για το αντικείμενο, ή, ως προσδιοριστικό για το P528, κατάλογος για τον οποίο ο αριθμός είναι δεκτός"
+    },
+    "en": {
+      "language": "en",
+      "value": "catalog for the item, or, as a qualifier of P528 – catalog for which the 'catalog code' is valid"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "catalogue for the item, or, as a qualifier of P528 – catalogue for which the 'catalogue code' is valid"
+    },
+    "es": {
+      "language": "es",
+      "value": "catálogo para el elemento, o si calificador de P528 catálogo para el cual el número es válido"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "catálagu pa l'elementu, o si calificaol de P528 catálagu pal que vali'l númiru"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "käytetään ominaisuuden P528 (luettelointitunnus) tarkenteena"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "catalogue de l'élément, ou, comme qualificatif de P528, catalogue dans lequel le numéro est valide"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "catálogo do elemento ou, como cualificador do P528 - catálogo para o que o \"código do catálogo\" é válido"
+    },
+    "id": {
+      "language": "id",
+      "value": "katalog butir, atau, sebagai penjelas P528 – katalog yang menjadikan \"kode katalog\" sahih"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "katalọgụ maka ihe ahụ, ma ọ bụ, dị ka ntozu nke P528 – katalọgụ nke 'koodu katalọgụ' bara uru."
+    },
+    "it": {
+      "language": "it",
+      "value": "catalogo dell'elemento o, se usato come qualificatore per P528, catalogo per il quale il codice di catalogo è valido"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "項目に関するカタログ（目録）。P528（カタログ番号）の修飾子として使われる場合は、その番号が用いられるカタログ。"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목 주제가 등재되어 있는 목록"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "katalog for subjektet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "catalogus van het item, of als qualifier van P528, de catalogus waarvoor het nummer geldig is"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "katalog for elementet"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "catalòg de l'element, o, coma qualificador per P528, catalòg pel qual lo numèro es valid"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "katalog dla pozycji lub jako kwalifikator P528"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "каталог элемента в основном значении или квалификатор для использования с каталожными кодами (P528)"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "catàlugu dû suggettu, o si s'adòpira comu qualificaturi dâ P528, catàlugu unni lu nùmmiru spicificatu ddani è vàlidu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "katalog za izdelek ali kot kvalifikator P582 - katalog, za katerega je 'katalogna koda' veljavna"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "каталог за ставку, или, као квалификатор за P528, за коју каталошки број важи"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "каталог за ставку, или, као квалификатор за P528, за коју каталошки број важи"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "katalog za stavku, ili, kao kvalifikator za P528, za koju kataloški broj važi"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "används tillsammans med P528"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "orodha kwa ajili ya bidhaa, au, kama sifa ya P528 - orodha ambayo \"code ya orodha\" ni halali"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "P528 \"katalog kodu\" için kullanılan kataloğun başlığı, adı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "каталог для елемента або, як кваліфікатор P528 – каталог, для якого чинний 'каталожний код'"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "用于项目的目录，或用作P528的修饰符——用于“目录编号”有效的目录"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "用于项的目录，或用作P528的限定符——用于“目录编号”有效的目录"
+    }
+  },
+  "id": "P972",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "katalogus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الفهرس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "catálogu"
+    },
+    "az": {
+      "language": "az",
+      "value": "kataloq"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "каталог"
+    },
+    "be": {
+      "language": "be",
+      "value": "каталог"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "каталёг"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "каталог"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ক্যাটালগ"
+    },
+    "br": {
+      "language": "br",
+      "value": "katalog"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "katalog"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "catàleg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "katalog"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "catalog"
+    },
+    "da": {
+      "language": "da",
+      "value": "katalog"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Pɛi n-doli taba"
+    },
+    "de": {
+      "language": "de",
+      "value": "Katalog"
+    },
+    "el": {
+      "language": "el",
+      "value": "κατάλογος"
+    },
+    "en": {
+      "language": "en",
+      "value": "catalog"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "catalogue"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "katalogo"
+    },
+    "es": {
+      "language": "es",
+      "value": "catálogo"
+    },
+    "et": {
+      "language": "et",
+      "value": "kataloog"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "katalogo"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "catálagu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاتالوگ"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "luettelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "catalogue"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "catalóg"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "catálogo"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "catalogey"
+    },
+    "he": {
+      "language": "he",
+      "value": "קטלוג"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सूचीपत्र"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "katalógus"
+    },
+    "id": {
+      "language": "id",
+      "value": "katalog"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "katalọgụ"
+    },
+    "it": {
+      "language": "it",
+      "value": "catalogo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カタログ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კატალოგი"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "katalog"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다음 목록에 등재됨"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "کیٹَلاگ"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "katalog"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Katalog"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "catalegh"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "katalogas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "katalogs"
+    },
+    "mai": {
+      "language": "mai",
+      "value": "सूचीपत्र"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "каталог"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "तालिका"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "katalog"
+    },
+    "ms-arab": {
+      "language": "ms-arab",
+      "value": "کاتالوݢ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "katalog"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Utstellkatalog"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "catalogus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "katalog"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "catalòg"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਕੈਟਾਲਾਗ"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "katalogu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "katalog"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "کَیٹالاگ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "catálogo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "catalog"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "каталог"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "catàlugu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "catalog"
+    },
+    "se": {
+      "language": "se",
+      "value": "kataloga"
+    },
+    "sjd": {
+      "language": "sjd",
+      "value": "каталогк"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "katalóg"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "katalog"
+    },
+    "smn": {
+      "language": "smn",
+      "value": "katalog"
+    },
+    "sms": {
+      "language": "sms",
+      "value": "kataloog"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "каталог"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "каталошки"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "kataloški"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "katalog"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "orodha"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "அட்டவணை"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "каталог"
+    },
+    "tg-cyrl": {
+      "language": "tg-cyrl",
+      "value": "каталог"
+    },
+    "th": {
+      "language": "th",
+      "value": "แค็ตตาล็อก"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "katalogo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kataloğun adı"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "каталог"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "каталог"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "каталог"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "درجہ بندی"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "catàłogo"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "danh mục"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "àkójọ"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "目錄"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "目录"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "目录"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "目录"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "目錄"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "編目"
+    }
+  },
+  "lastrevid": 2539474342,
+  "modified": "2026-09-02T14:51:22Z",
+  "ns": 120,
+  "pageid": 16751554,
+  "title": "Property:P972",
+  "type": "property"
+}

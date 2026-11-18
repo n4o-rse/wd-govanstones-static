@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Govan 42"
+      },
+      {
+        "language": "en",
+        "value": "Govan Stone 42"
+      }
+    ]
+  },
+  "claims": {
+    "P131": [
+      {
+        "id": "Q141961908$BD81CFA7-EBFA-4212-97C1-D7411385A870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1414040",
+              "numeric-id": 1414040
+            }
+          },
+          "hash": "9309fae6acac1544db303254f1325d2fc2dfaa7f",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1325": [
+      {
+        "id": "Q141961908$709157CD-8A22-4245-99E9-E0DA6680DE51",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/govan-42-373117713c804d9e8b9464ce9619ca18"
+          },
+          "hash": "f60b5d28d749f1a2618d16f5eea7e73b74f3a54f",
+          "property": "P1325",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14097": [
+      {
+        "id": "Q141961908$BF7C3041-B35A-4941-AC3B-6187D17DC670",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "373117713c804d9e8b9464ce9619ca18"
+          },
+          "hash": "728c59503ebe0fd884f0cc9db44f31f810f42803",
+          "property": "P14097",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q141961908$02255186-80B4-41A3-9A81-9CD6BDE12097",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q141961908$331843F8-7081-43E0-9F76-CC5D48E8EE20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42887850",
+              "numeric-id": 42887850
+            }
+          },
+          "hash": "868c5826e6d55f18a8c4516878a5fe48a85285a3",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q141961908$D4E8C8E9-61DC-4EFF-8163-FD9B3B05ADB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q220659",
+              "numeric-id": 220659
+            }
+          },
+          "hash": "c9c864916c2f756a3e9303f34b7889d583d8d480",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141961908$71C64196-3C55-4D01-B56C-14BB76ECA1C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141497173",
+              "numeric-id": 141497173
+            }
+          },
+          "hash": "6afaf73119865da50a19bd6036e0dbb7df5d63a8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P361": [
+      {
+        "id": "Q141961908$B941B476-FBDC-426E-AFFE-EFE188B3C496",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42887850",
+              "numeric-id": 42887850
+            }
+          },
+          "hash": "4704551b1c7c1028ea62a0ee1376931647dd0c85",
+          "property": "P361",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5008": [
+      {
+        "id": "Q141961908$0C07352D-53D8-4DC2-994A-9F974C7A610C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141962030",
+              "numeric-id": 141962030
+            }
+          },
+          "hash": "aa7f41e3ab1676afcfda4b66c810df7cb0962d88",
+          "property": "P5008",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7959": [
+      {
+        "id": "Q141961908$739D3D89-6031-421F-96E0-0F36BF5B2B52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q530296",
+              "numeric-id": 530296
+            }
+          },
+          "hash": "d77ea040f6982b06416ac20177f16ab251a9dd20",
+          "property": "P7959",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "early medieval recumbent cross-slab from Govan Old, Glasgow, Scotland (Govan 42 in Stirling Maxwell's numbering, no ECMS number)"
+    }
+  },
+  "id": "Q141961908",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Govan Stone 42"
+    }
+  },
+  "lastrevid": 2563405726,
+  "modified": "2026-11-01T13:42:35Z",
+  "ns": 0,
+  "pageid": 135562796,
+  "sitelinks": {},
+  "title": "Q141961908",
+  "type": "item"
+}

@@ -1,0 +1,214 @@
+# P101: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P101.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "administratives Gebiet, auf dem sich das Subjekt befindet. Für andere Orte oder Gebiete, und für Veranstaltungen: benutze P276 (Ort). Fällt das Subjekt nur teilweise in das Gebiet, benutze P1382 (teilweise übereinstimmend)."@de,
+        "the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity"@en ;
+    dcterms:identifier "P101" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P101 ;
+    dcterms:title "liegt in der Verwaltungseinheit"@de,
+        "located in the administrative territorial entity"@en ;
+    schema:about gvs:P101 ;
+    dcat:distribution gvsdist:P101-html,
+        gvsdist:P101-json,
+        gvsdist:P101-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P101.html> .
+
+gvsdist:P101-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P101, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P101.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P101-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P101, as archived from the Wikibase API"@en ;
+    dcat:byteSize "7366"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P101.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P101-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P101, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P101.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P101
+    a wikibase:Property ;
+    schema:description "administratives Gebiet, auf dem sich das Subjekt befindet. Für andere Orte oder Gebiete, und für Veranstaltungen: benutze P276 (Ort). Fällt das Subjekt nur teilweise in das Gebiet, benutze P1382 (teilweise übereinstimmend)."@de,
+        "the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity"@en ;
+    schema:name "liegt in der Verwaltungseinheit"@de,
+        "located in the administrative territorial entity"@en ;
+    wikibase:claim gvsp:P101 ;
+    wikibase:directClaim gvst:P101 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P101 ;
+    wikibase:propertyType wikibase:WikibaseItem ;
+    wikibase:qualifier gvspq:P101 ;
+    wikibase:qualifierValue gvspqv:P101 ;
+    wikibase:reference gvspr:P101 ;
+    wikibase:referenceValue gvsprv:P101 ;
+    wikibase:statementProperty gvsps:P101 ;
+    wikibase:statementValue gvspsv:P101 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "liegt in der Verwaltungseinheit"@de,
+        "located in the administrative territorial entity"@en ;
+    skos:altLabel "Bezirk"@de,
+        "Department"@de,
+        "Gemeinde"@de,
+        "Indian reservation"@en,
+        "Provinz"@de,
+        "Region"@de,
+        "Stadt"@de,
+        "Teil von Verwaltungseinheit"@de,
+        "Teil von"@de,
+        "administrativ übergeordnet"@de,
+        "administrative territorial entity"@en,
+        "administrative territory"@en,
+        "befindet sich in"@de,
+        "city"@en,
+        "findet statt in"@de,
+        "happens in"@en,
+        "in administrative unit"@en,
+        "in the administrative unit"@en,
+        "in"@en,
+        "is in administrative unit"@en,
+        "is in the Indian reservation of"@en,
+        "is in the Indian reserve of"@en,
+        "is in the administrative region of"@en,
+        "is in the administrative unit"@en,
+        "is in the arrondissement of"@en,
+        "is in the borough of"@en,
+        "is in the city of"@en,
+        "is in the commune of"@en,
+        "is in the county of"@en,
+        "is in the department of"@en,
+        "is in the district of"@en,
+        "is in the local government area of"@en,
+        "is in the municipality of"@en,
+        "is in the parish of"@en,
+        "is in the prefecture of"@en,
+        "is in the principal area of"@en,
+        "is in the province of"@en,
+        "is in the region of"@en,
+        "is in the rural city of"@en,
+        "is in the settlement of"@en,
+        "is in the shire of"@en,
+        "is in the state of"@en,
+        "is in the territory of"@en,
+        "is in the town of"@en,
+        "is in the village of"@en,
+        "is in the voivodeship of"@en,
+        "is in the ward of"@en,
+        "is located in"@en,
+        "ist in Verwaltungseinheit"@de,
+        "ist in"@de,
+        "liegt in Verwaltungseinheit"@de,
+        "liegt in"@de,
+        "locality"@en,
+        "located in administrative unit"@en,
+        "located in the administrative unit"@en,
+        "located in the territorial entity"@en,
+        "location (administrative territorial entity)"@en,
+        "region"@en,
+        "state"@en,
+        "territory"@en,
+        "town"@en ;
+    skos:prefLabel "liegt in der Verwaltungseinheit"@de,
+        "located in the administrative territorial entity"@en ;
+    gvsp:P2 gvss:P101-71864FD3-EB13-5D18-A24F-09AA2B16DC5B ;
+    gvsp:P4 gvss:P101-B843A82D-3824-562A-B971-C7BBDE1E513B ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P131" .
+
+gvss:P101-71864FD3-EB13-5D18-A24F-09AA2B16DC5B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvss:P101-B843A82D-3824-562A-B971-C7BBDE1E513B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:272ae0c20aac36e5434c0f887605c9fdbf9bf7e9 ;
+    gvsps:P4 "P131" .
+
+gvsref:272ae0c20aac36e5434c0f887605c9fdbf9bf7e9
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P131> .
+
+gvsp:P101
+    a owl:ObjectProperty .
+
+gvst:P101
+    a owl:ObjectProperty .
+
+gvspq:P101
+    a owl:ObjectProperty .
+
+gvspqv:P101
+    a owl:ObjectProperty .
+
+gvspr:P101
+    a owl:ObjectProperty .
+
+gvsprv:P101
+    a owl:ObjectProperty .
+
+gvsps:P101
+    a owl:ObjectProperty .
+
+gvspsv:P101
+    a owl:ObjectProperty .
+
+gvsno:P101
+    a owl:Class ;
+    owl:complementOf _:1b2fba38e6a138da2da93953d31056c4 .
+
+_:1b2fba38e6a138da2da93953d31056c4
+    a owl:Restriction ;
+    owl:onProperty gvst:P101 ;
+    owl:someValuesFrom owl:Thing .

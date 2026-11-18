@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "extremely old work"
+      },
+      {
+        "language": "en",
+        "value": "very old work"
+      },
+      {
+        "language": "en",
+        "value": "author must have died over 100 years ago"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q146$6EC69817-4E94-590F-8BC0-D695DFC0DAF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109229381"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q109229381"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "copyright determination method for works are clearly public domain worldwide due to their age (i.e. there is no way an author could have died less than 100 years ago); use more exact determination method if known"
+    }
+  },
+  "id": "Q146",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "public domain due to great age"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

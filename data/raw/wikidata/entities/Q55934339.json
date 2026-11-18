@@ -1,0 +1,37 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glasgow"
+      },
+      {
+        "language": "en",
+        "value": "City of Glasgow"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gemeinde in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "council area of Scotland, UK"
+    }
+  },
+  "id": "Q55934339",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Glasgow City"
+    }
+  },
+  "lastrevid": 2481300098,
+  "modified": "2026-04-14T07:05:37Z",
+  "ns": 0,
+  "pageid": 55884598,
+  "title": "Q55934339",
+  "type": "item"
+}

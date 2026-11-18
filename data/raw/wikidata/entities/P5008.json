@@ -1,0 +1,1513 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "قائمة أولويات مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "يحتوي على مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "مرّكز عليه من قبل مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "فهرس لمشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "قائمة الأولويات"
+      },
+      {
+        "language": "ar",
+        "value": "جزء من مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "تم إنشاؤه أو تعديله لمشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "تم إنشاؤه أو تعديله كجزء من مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "عنصر تم إنشاؤه أو تعديله لمشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "عنصر تم إنشاؤه أو تعديله كجزء من مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "مشروع ويكي"
+      },
+      {
+        "language": "ar",
+        "value": "محور تركيز مشروع ويكيميديا"
+      },
+      {
+        "language": "ar",
+        "value": "في قائمة تركيز مشروع ويكيميديا"
+      }
+    ],
+    "ast": [
+      {
+        "language": "ast",
+        "value": "llista d'interes pa un proyeutu de Wikimedia"
+      },
+      {
+        "language": "ast",
+        "value": "tien proyeutu de Wikimedia"
+      },
+      {
+        "language": "ast",
+        "value": "catálogu de proyeutu de Wikimedia"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "viquiprojecte"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "auf der Arbeitsliste des WikiProjektes"
+      },
+      {
+        "language": "de",
+        "value": "WikiProjekt"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Wikimedia project focus list"
+      },
+      {
+        "language": "en",
+        "value": "has Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "focused on by Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "catalog of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "focus list"
+      },
+      {
+        "language": "en",
+        "value": "part of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "included in Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "created or edited for Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "created or edited as part of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "item created or edited for Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "item created or edited as part of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "WikiProject"
+      },
+      {
+        "language": "en",
+        "value": "focus of Wikimedia project"
+      }
+    ],
+    "en-us": [
+      {
+        "language": "en-us",
+        "value": "Wikimedia project focus list"
+      },
+      {
+        "language": "en-us",
+        "value": "catalog of Wikimedia project"
+      },
+      {
+        "language": "en-us",
+        "value": "WikiProject"
+      }
+    ],
+    "eu": [
+      {
+        "language": "eu",
+        "value": "Wikimedia proiektuaren zerrendan dagoen edukia"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "liste d'intérêt pour le projet Wikimedia"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "no wikiproxecto"
+      }
+    ],
+    "lb": [
+      {
+        "language": "lb",
+        "value": "op der Fokuslëscht vum Wikimedia-Projet"
+      },
+      {
+        "language": "lb",
+        "value": "Wikimedia-Projet, dee sech mat dësem Element beschäftegt"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "di senarai fokus projek Wikimedia"
+      },
+      {
+        "language": "ms",
+        "value": "senarai tumpu projek Wikimedia"
+      },
+      {
+        "language": "ms",
+        "value": "senarai fokus projek Wikimedia"
+      }
+    ],
+    "nb": [
+      {
+        "language": "nb",
+        "value": "wikiprosjekt-liste"
+      },
+      {
+        "language": "nb",
+        "value": "wikiprosjekt-fokusliste"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "focuslijst"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "i fokus på Wikimedia-prosjektet"
+      },
+      {
+        "language": "nn",
+        "value": "fokusert på i prosjektet"
+      },
+      {
+        "language": "nn",
+        "value": "Wikimedia-fokusprosjekt"
+      },
+      {
+        "language": "nn",
+        "value": "fokusprosjekt"
+      }
+    ],
+    "sms": [
+      {
+        "language": "sms",
+        "value": "Wikiprojeeʹkt teeʹmmliistâst"
+      }
+    ],
+    "sr-ec": [
+      {
+        "language": "sr-ec",
+        "value": "Фокусна листа пројекта Викимедија"
+      },
+      {
+        "language": "sr-ec",
+        "value": "каталог пројекта Викимедија"
+      },
+      {
+        "language": "sr-ec",
+        "value": "WikiProject"
+      }
+    ],
+    "sr-el": [
+      {
+        "language": "sr-el",
+        "value": "Fokusna lista projekta Vikimedija"
+      },
+      {
+        "language": "sr-el",
+        "value": "katalog projekta Vikimedija"
+      },
+      {
+        "language": "sr-el",
+        "value": "WikiProject"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Wikimedia projesi odak listesi"
+      },
+      {
+        "language": "tr",
+        "value": "Wikimedia projesinin bir parçasıdır"
+      },
+      {
+        "language": "tr",
+        "value": "odak listesi"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "维基专题关注列表"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P5008$e2fd9454-47a4-0fba-00c1-d3f1969e3650",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51539995",
+              "numeric-id": 51539995
+            }
+          },
+          "hash": "ceb3c96823967531a7060dbbbdd59126feba92d9",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P5008$f930f74b-40d2-ed90-b512-56026198dac5",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P972",
+              "numeric-id": 972
+            }
+          },
+          "hash": "d6f1d1fca82f9667a04e9941c5ebf454e5a48ac2",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$5f0e8162-4255-ed96-96e1-621bca7ea28b",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P6104",
+              "numeric-id": 6104
+            }
+          },
+          "hash": "64719aa3e093fbc92c71c6b810cec32637ac916b",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$6a219a55-49c8-a75c-e23d-640ac20af7f4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2354",
+              "numeric-id": 2354
+            }
+          },
+          "hash": "d26bd8097f9d85dd0e2cda4a0234d59deea2972e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$ec071c84-4702-b720-9e07-a9e73a29d103",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P13459",
+              "numeric-id": 13459
+            }
+          },
+          "hash": "f132a3aec01f37083c3187f69d6a7ad4505b1ead",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P5008$67aaf569-414a-9602-0a6b-b8727c0652b4",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "WM project"
+            }
+          },
+          "hash": "2fa686546e0511ca58bf0d029443102b3b427453",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P5008$721cc53c-422c-5b1f-2a1c-a5a1541af6c1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132701",
+              "numeric-id": 132701
+            }
+          },
+          "hash": "9c83fa4ecd54b1ea500e2b8d610dc4529f4737d6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5008": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q28781198",
+                  "numeric-id": 28781198
+                }
+              },
+              "hash": "286949927bde54557a9a47753e37595c9e028612",
+              "property": "P5008",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5008"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$bc51b957-42ea-63ef-f71e-35a9d37969c4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98268",
+              "numeric-id": 98268
+            }
+          },
+          "hash": "ebf1d1c3abbcd69037bd3dd38ed908bdaac8e419",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5008": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q31805038",
+                  "numeric-id": 31805038
+                }
+              },
+              "hash": "440d4a7eb0ec0b4a35027fcc6de6f7fcc69ef1c6",
+              "property": "P5008",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5008"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$66b8074b-4992-f110-64df-e299a59c2752",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15143412",
+              "numeric-id": 15143412
+            }
+          },
+          "hash": "f773fd42666d747b132676628b3815f5b3afa5dd",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6104": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q98801351",
+                  "numeric-id": 98801351
+                }
+              },
+              "hash": "f36dedba7f0b8ece2233cf0498e0a13c4dbbe20e",
+              "property": "P6104",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6104"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$ec494c2d-4990-4a1d-01ee-9326abbc0cbd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98429907",
+              "numeric-id": 98429907
+            }
+          },
+          "hash": "8b645f23248a9809fece6e404b1a02b4135516cf",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5008": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q98970039",
+                  "numeric-id": 98970039
+                }
+              },
+              "hash": "7c27e93827974b5eb58ab38c6c2013736c952719",
+              "property": "P5008",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5008"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P5008$7ee9810d-4af3-14ef-c86c-cf95d1679709",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510865",
+              "numeric-id": 21510865
+            }
+          },
+          "hash": "f682b0724a7ad8a25fffc7b602c4ecab3d8c6274",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q16695773",
+                  "numeric-id": 16695773
+                }
+              },
+              "hash": "19fdf9daa8922932a4ea2a9ba3a7bd3e6f3ea607",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q128273850",
+                  "numeric-id": 128273850
+                }
+              },
+              "hash": "ab7c1f0af9afcf2aebf7181d2b69a0c2c7f32f23",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q51539995",
+                  "numeric-id": 51539995
+                }
+              },
+              "hash": "c8acaec2b39b77a6abc4534e7aa57d3336d8ffb2",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q16022392",
+                  "numeric-id": 16022392
+                }
+              },
+              "hash": "6c6d7e4a4a79fcbce0aca3d47ab5713433d70021",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21503252",
+                  "numeric-id": 21503252
+                }
+              },
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$7A405ABE-2BA4-4D42-90E8-8634A0AE80C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2316",
+          "P5314"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$D4D06072-38F7-4747-B301-A6373DA1E65B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934218",
+                  "numeric-id": 29934218
+                }
+              },
+              "hash": "2011ce818e9e134fba64bcf4fadca899ec905ad3",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P5008$641c4353-4030-fccf-1147-fe924ffb3a09",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "This property does not add notability to items. Items should not be created with this property if not otherwise notable for Wikidata. Don't use it when querying another property returns a comparable list."
+            }
+          },
+          "hash": "cdc751f47caa9c33be29a377f5b514fb63ffc0f5",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$245d6f58-48ae-1b0e-2ede-44e63e71cf39",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "de",
+              "text": "Die Präsenz dieser Eigenschaft impliziert kein Erfüllen der Relevanzkriterien, deshalb sollten Objekte nur dann erstellt werden, wenn sie anderweitig für Wikidata relevant sind. Diese Eigenschaft sollte nicht genutzt werden, wenn mit einer anderen, generischen Eigenschaft eine ähnliche Liste erstellt werden kann."
+            }
+          },
+          "hash": "4c75bd27c956ee19e72e56060042dbc09d56fc98",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$5285908f-4180-ccc4-5f13-a4b8944d6803",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "zh-hans",
+              "text": "此属性不会增加数据项的关注度，项不能在只有该属性而没有其他关注度的情况下创建。在查询另一属性将提供可比较列表时不要使用它。"
+            }
+          },
+          "hash": "9bd5234e2a20cb0731d54f51d4bc87e1dd40acd0",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$5108d2d6-4103-7585-5ae8-79faa655d35a",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "ast",
+              "text": "Esta propiedá nun añade notabilidá a los elementos, y estos nun tendríen de crease con esta propiedá si nun son notables d'otra manera pa Wikidata. Nun usar si al consultar otra propiedá apaez una llista comparable."
+            }
+          },
+          "hash": "8cd97ac043d89e8737c76735e10d4b16d5748f55",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$eb71d884-4d72-1af3-af94-1f68ad604bc8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "nl",
+              "text": "Deze eigenschap voegt geen relevantie toe aan items. Items moeten niet worden gemaakt met deze eigenschap als ze niet anders opmerkelijk zijn voor Wikidata. Gebruik het niet als een andere eigenschap een vergelijkbare lijst oplevert."
+            }
+          },
+          "hash": "1706ac0acc04c436a60015695170beb39ef75255",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$7cd793b4-428a-9397-2ca2-6adf8b05db8e",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "cs",
+              "text": "Tato vlastnost nepřidává položkám na významnosti. Položky by neměly být vytvářeny s touto vlastností, pokud nejsou pro Wikidata jinak pozoruhodné."
+            }
+          },
+          "hash": "fc57991e0121b330e5a0a56282917e43e27ed106",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$6c0fb120-46fb-3fd5-325c-e8c44063b502",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "uk",
+              "text": "Ця властивість не додає елементам значущості. Не слід створювати елементи з цією властивістю, якщо вони не є значущими для Вікіданих в інший спосіб. Не використовуйте її, якщо запит щодо іншої властивості повертає подібний список."
+            }
+          },
+          "hash": "c689ca9f4833ea09110abba38232d4078b17ba44",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$babf6f9f-4b67-33f6-f21d-4e3d38ac0ea8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "tr",
+              "text": "Bu özellik maddelere kayda değerlik katmaz. Vikiveri için başka türlü kayda değer değilse maddeler bu özellikle oluşturulmamalıdır. Başka bir özelliği sorguladığınızda karşılaştırılabilir bir liste döndürüyorsa bu özelliği kullanmayın"
+            }
+          },
+          "hash": "cc2c8cc5b0713f7c951609aefa42d02b53e3aca2",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5008$511ed46e-40c1-1920-d04e-964f372b7d3e",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "ota",
+              "text": "بو اوزلليك ماددلره كايدا دغرليك كاتماز. ويكيورى ايچين باشكا تورلو كايدا دغر دغيلسه ماددلر بو اوزلليكله اولوشتورولماماليدير. باشكا بير اوزلليغى سوركولاديغينيزدا كارشيلاشتيريلابيلير بير ليسته دوندورويورسا بو اوزلليغى كوللانمايين"
+            }
+          },
+          "hash": "476e442b68cad3c04a40a2aad918e2b2c53486ca",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P5008$1090b2d1-47a6-3c8a-6c82-1108072a6687",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611840",
+              "numeric-id": 23611840
+            }
+          },
+          "hash": "543f33af212bde6bc376f92acca2cc6404689d66",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P5008$f3113308-485c-3f0f-dc31-3b5ea7594054",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103824108",
+              "numeric-id": 103824108
+            }
+          },
+          "hash": "b986061530d644b6f59ee51b2cf2096065dec807",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P5008$3f804bfc-4949-9440-e78d-8b4c6d86d1f4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Wikidata_focus_list"
+          },
+          "hash": "a541b12cd7aab3940a0e61d65817b1644b13e3b3",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7087": [
+      {
+        "id": "P5008$3fb05202-454f-4a46-7fe5-ff32fdf53cc0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101006886",
+              "numeric-id": 101006886
+            }
+          },
+          "hash": "c68d0f630538b889754a2ce3c4ff686eb02cabfc",
+          "property": "P7087",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "خاصية تشير إلى أن العنصر له أهمية معينة لأحد مشاريع ويكيميديا. هذه الخاصية لا تضفي الملحوظية على العنصر. لا ينبغي إنشاء العناصر بهذه الخاصية إذا لم تكن ملحوظة بالنسبة لويكي بيانات. انظر أيضًا: P6104 وP972 وP2354"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "propiedá pa indicar qu'un elementu forma parte d'un grupu d'elementos de interés particular pal mantenimientu, alministración o desendolcu d'un proyectu de Wikimedia"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "уласьцівасьць дзеля пазначэньня, што элемэнт — частка групы элемэнтаў, якія прадстаўляюць асаблівую цікавасьць для падтрымкі, абслугоўваньня ці разьвіцьця"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "propietat que indica que l'element forma part d'un grup d'elements d'interès particular per al manteniment o desenvolupament del projecte Wikimedia. Veure també P6104, P972, P2354"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "vlastnost signalizující, že objekt je zařazen do pracovního seznamu projektu Wikimedia (portál, WikiProjekt atd.). Viz také P6104, P972 a P2354"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "di wuhirila wikimedia nini ni miri cho yɛl’ shɛŋa zaŋ ti wikidata"
+    },
+    "de": {
+      "language": "de",
+      "value": "die Eigenschaft signalisiert, dass das Objekt auf einer Arbeitsliste eines Wikimedia-Projektes (WikiProjekt, Redaktion, Portal, etc.) enthalten ist.  Siehe auch P6104, P972, P2354"
+    },
+    "el": {
+      "language": "el",
+      "value": "ιδιότητα που δείχνει ότι ένα αντικείμενο παρουσιάζει ιδιαίτερο ενδιαφέρον για ένα έργο ενός εγχειρήματος Wikimedia"
+    },
+    "en": {
+      "language": "en",
+      "value": "property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "property to indicate that an item is part of a group of items of particular interest for maintenance, management, or development.  See also P6104, P972, P2354"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354"
+    },
+    "es": {
+      "language": "es",
+      "value": "propiedad que indica que el elemento forma parte de un grupo de elementos de interés particular para el mantenimiento o desarrollo del proyecto Wikimedia. Ver también P6104, P972, P2354"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Wikimedia proiektu edo atari baten parte dela adierazten duen propietatea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tällä listalla oleva kohde on osa Wikimedian projektia, jonka tarkoituksena on huoltaa, lisätä tai kehittää sen aihepiiriä. Luettelo ei tee aiheesta merkittävää"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "propriété qui indique que l'élément fait partie d'un groupe d'éléments qui retient particulièrement l'attention du projet Wikimedia. Voir aussi P6104, P972, P2354"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "det objekt as üüb en list faan en Wikimedia projekt"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "propiedade que indica que o elemento forma parte dun grupo de elementos de interese particular para o mantemento ou desenvolvemento dun wikiproxecto wikimedia. Ver ademais  P6104, P972, P2354"
+    },
+    "it": {
+      "language": "it",
+      "value": "proprietà per indicare che la voce fa parte di una lista di lavoro di un particolare progetto Wikimedia (WikiProject, redazione, portale, ecc.). Vedi anche P6104, P972, P2354"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィキメディアサイトで特定の関心に合致する項目一覧を対象に、保守、管理または開発用の引数。注記：これを付与しても特筆性を担保しない。他の引数のない項目の登録、あるいはクエリの利便を期待した使用はおやめください。P6104、P972、P2354も参照"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위키미디어 프로젝트의 특정 목표로 설정된 대상"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "īpašība, kas norāda vienība ietilpst noteiktā sarakstā, kurai ir specifiska nozīme"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "propjetà biex turi li xi ħaġa hija t'interess partikolari f'proġett tal-Wikimedia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "item maakt deel uit van een werklijst van een bijzonder Wikimedia-project (wikiproject, portaal, etc.) - zie ook P6104, P972, P2354"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "proprietat per indicar que l'element fa partida d'una lista de trabalh d'un projècte Wikimèdia. Vejatz tanben P6104, P972, P2354"
+    },
+    "ota": {
+      "language": "ota",
+      "value": "بير اوكنين يونتيمى وه كليشتيريلمسى ايچين ايلكى الانينداكى اوكلرله بير پارچا اولدوغونو بليرتمك ايچين كوللانيلير. ديككات: بو اوزلليك ويكيورى ايچين ديككاته الينماز وه كلنديغى اوكيه ايريجاليكلار كلمز."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "własność wskazującą, że dany element jest częścią listy prac danego projektu Wikimedia (WikiProject, redakcja, portal, itp.). Patrz również P6104, P972, P2354"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "propriedade para indicar que o item faz parte de uma lista de trabalho de um determinado projecto Wikimedia (WikiProject, gabinete editorial, portal, etc.). Ver também P6104, P972, P2354"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "propriedade para indicar que um item faz parte de um certo grupo de itens de interesse para manutenção, organização e desenvolvimento.  Veja também P6104, P972, P2354"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "proprietate care arată că un element este parte a unui grup care este de interes în scopuri de întreținere, administrare sau dezvoltare. Această proprietate nu adaugă implicit notabilitate unui element"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "свойство, указывающее на то, что элемент является частью группы элементов, представляющих особый интерес для обслуживания, управлений или разработки. См. также P6104, P972, P2354"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "својство које означава да је ставка од посебног интереса за пројекат Викимедије. Ово својство не додаје значај. Ставке не би требало да се креирају са овим својством ако нису значајне за Википодатке. Види и P6104, P972, P2354"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "svojstvo koje označava da je stavka od posebnog interesa za projekat Vikimedije. Ovo svojstvo ne dodaje značaj. Stavke ne bi trebalo da se kreiraju sa ovim svojstvom ako nisu značajne za Vikipodatke. Vidi i P6104, P972, P2354"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "egenskap för att indikera att ett objekt är av särskilt intresse för ett Wikimedia-projekt men egenskapen lägger inte till notabilitet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "bir maddenin bir Wikimedia projesi için özellikle ilgi çekici olduğunu belirtmek için kullanılan özellik. Kayda değerlik eklemez. Eğer maddeler Vikiveri için kayda değer değilse bu özellik ile oluşturulmamalıdır. Ayrıca bkz P6104, P972, P2354"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "властивість, яка вказує на те, що елемент є частиною групи елементів, що представляють особливий інтерес для обслуговування, управління або розробки. див. також P6104, P972, P2354"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "属性来表明该项目是一个特定的维基媒体项目（WikiProject、编辑部、门户网站等）的工作列表的一部分。另见P6104、P972、P2354"
+    }
+  },
+  "id": "P5008",
+  "labels": {
+    "aig": {
+      "language": "aig",
+      "value": "Wikimeediya praajek dat lub um"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "على قائمة أولويات مشروع ويكيميديا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "llista d'interés pal proyeutu Wikimedia"
+    },
+    "az": {
+      "language": "az",
+      "value": "Vikimedia layihəsindəki iş siyahısı"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Викимедиа исемлеге"
+    },
+    "be": {
+      "language": "be",
+      "value": "рабочы спіс праекта Вікімедыя"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "рабочы сьпіс праекту Вікімэдыі"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "যে উইকিমিডিয়া প্রকল্পের তালিকাভুক্ত"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "na fokusnom spisku Wikimedia projekta"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "contingut a la llista de projecte Wikimedia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "na seznamu sledovaných stránek projektů Wikimedia"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Викимедиа проекчӗн ӗҫ ят-йышӗ"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ar restr sylw'r prosiect Wikimedia"
+    },
+    "da": {
+      "language": "da",
+      "value": "arbejdsliste for et Wikimediaprojekt"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Piɛbu shɛŋa wikimedia nini ni miri cho"
+    },
+    "de": {
+      "language": "de",
+      "value": "auf der Arbeitsliste des Wikimedia-Projektes"
+    },
+    "dsb": {
+      "language": "dsb",
+      "value": "na źěłowej lisćinje projekta Wikimedia"
+    },
+    "el": {
+      "language": "el",
+      "value": "κατάλογος εστίασης ενός εγχειρήματος Wikimedia"
+    },
+    "en": {
+      "language": "en",
+      "value": "on focus list of Wikimedia project"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "on focus list of Wikimedia project"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "on focus list of Wikimedia project"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "en fokuslisto de Vikimedia projekto"
+    },
+    "es": {
+      "language": "es",
+      "value": "lista de interés para el proyecto Wikimedia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Wikimedia projekti fookusnimekiri"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "honako Wikimedia proiektuaren zerrendan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "در فهرست تمرکز پروژه ویکی‌مدیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Wikimedia-projektin aiheluettelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "projet Wikimédia s’intéressant à l'élément"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "liste d'intérêt pour le projet Wikimedia"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "list faan en Wikimedia projekt"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "na lista de interese dun proxecto de Wikimedia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ברשימת מיקוד של מיזם ויקימדיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Wikimédia-műhely, amelynek érdekeltségébe tartozik"
+    },
+    "id": {
+      "language": "id",
+      "value": "berada dalam cakupan fokus dari proyek Wikimedia"
+    },
+    "io": {
+      "language": "io",
+      "value": "che intereso-listo di Wikimedia-projeto"
+    },
+    "it": {
+      "language": "it",
+      "value": "sulla focus list di un progetto Wikimedia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィキメディアプロジェクトの作業リスト"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვიკიპროექტის ყურადღების სიაშია"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "Wikimedia joybarınıń dıqqat orayında"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위키미디어 프로젝트의 집중 대상"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "op der Aarbechtslëscht vum Wikimedia-Projet"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "lista de interess per el proget Wikimedia"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "ietilpst Wikimedia projekta sarakstā"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "на работен список на Викимедиин проект"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "di senarai tumpu projek Wikimedia"
+    },
+    "ms-arab": {
+      "language": "ms-arab",
+      "value": "دسناراي تومڤو ڤروجيک ويکيميديا"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "fil-lista t'interess ta' proġett mill-Wikimedia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fokus for Wikimedia-prosjekt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "op focuslijst van Wikimedia-project"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "i fokus på prosjektet"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "contengut de la lista de projècte de Wikimèdia"
+    },
+    "ota": {
+      "language": "ota",
+      "value": "ويكيمديا پروژلرى اوداك ليستسي"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "w obszarze zainteresowania projektu Wikimedia"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "د ويکيمېډيا تمرکز پروژې لړليک کې"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "na lista de interesse do wikiprojeto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "na lista de interesse do wikiprojeto"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "pe lista de interes a proiectului Wikimedia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "рабочий список проекта Викимедиа"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱡᱟᱦᱟ ᱣᱤᱠᱤ ᱯᱚᱨᱛᱚᱱ ᱨᱮᱭᱟᱜ ᱦᱤᱸᱥ ᱠᱟᱱᱟ"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "لاڳاپيل فهرست وڪيميڊياي پراجيڪٽ"
+    },
+    "se": {
+      "language": "se",
+      "value": "Wikiprošeavtta fáddálisttus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "na delovnem seznamu projekta Wikimedie"
+    },
+    "smn": {
+      "language": "smn",
+      "value": "Wikiproojeekt fáddálistoost"
+    },
+    "sms": {
+      "language": "sms",
+      "value": "Wikiprojeeʹkt teemaliistâst"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "тема од интереса за Викимедијин пројекат"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "на листи фокуса Викимедијиног пројекта"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "na listi fokusa Vikimedijinog projekta"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "på fokuslista för Wikimedia-projekt"
+    },
+    "syl": {
+      "language": "syl",
+      "value": "ꠃꠁꠇꠤꠝꠤꠒꠤꠀ ꠙꠎꠦꠇ꠆ꠐꠞ ꠎꠦ ꠚꠇꠣꠍ ꠟꠤꠡ꠆ꠐꠅ"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "феҳристи кории лоиҳаи Викимедиа"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Wikimedia projeleri odak listesi"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Викимедиа проектының эшлекле исемлеге"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Викимедиа проектының эшлекле исемлеге"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "робочий список проєкту Вікімедіа"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ویکیمیڈیا منصوبے کا نقطۂ ارتکاز"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "lista de intaresi de Wikimèdia"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "có trong danh sách chú trọng của dự án Wikimedia"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ვიკიმედიაშ პროექტიშ ოღანკე ერკებული"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维基媒体项目关注列表"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "维基媒体项目关注列表"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维基媒体项目关注列表"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維基媒體項目關注列表"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維基媒體項目關注列表"
+    }
+  },
+  "lastrevid": 2563395906,
+  "modified": "2026-11-01T13:18:34Z",
+  "ns": 120,
+  "pageid": 52276562,
+  "title": "Property:P5008",
+  "type": "property"
+}

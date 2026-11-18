@@ -1,0 +1,317 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Govan 20"
+      },
+      {
+        "language": "en",
+        "value": "Govan Stone 20"
+      }
+    ]
+  },
+  "claims": {
+    "P131": [
+      {
+        "id": "Q141961894$237213D9-589F-45DB-9E8B-E406190D073A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1414040",
+              "numeric-id": 1414040
+            }
+          },
+          "hash": "9309fae6acac1544db303254f1325d2fc2dfaa7f",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1325": [
+      {
+        "id": "Q141961894$49D61AC5-8B47-484B-BB62-C3BF0D562511",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/govan-20-cccb2b8b49c84959acc7ff402afb7e26"
+          },
+          "hash": "721432bc52aca044ea4d095e60f36070406db1a0",
+          "property": "P1325",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14097": [
+      {
+        "id": "Q141961894$E20D37D4-C44D-4641-8B34-564B9BCF4E48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "cccb2b8b49c84959acc7ff402afb7e26"
+          },
+          "hash": "b88747735bd8719750929ea253cb983faa5fe174",
+          "property": "P14097",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q141961894$95598EBB-7AC1-49B9-A6A0-FC76B645B8C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q141961894$169A937D-78C3-43AE-A947-DE2635C9F480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42887850",
+              "numeric-id": 42887850
+            }
+          },
+          "hash": "868c5826e6d55f18a8c4516878a5fe48a85285a3",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P276": [
+      {
+        "id": "Q141961894$FA0FE465-C2CC-4B62-ACE6-1F22AAFFB62D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5588564",
+              "numeric-id": 5588564
+            }
+          },
+          "hash": "8705cb38f06048983634f255e5d68320ce8d09a8",
+          "property": "P276",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q141961894$39038282-A8D3-4F61-867E-BEAFCBCF2850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q220659",
+              "numeric-id": 220659
+            }
+          },
+          "hash": "c9c864916c2f756a3e9303f34b7889d583d8d480",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141961894$C7A84505-7399-40D9-B5D9-1E64332EF47C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141497173",
+              "numeric-id": 141497173
+            }
+          },
+          "hash": "6afaf73119865da50a19bd6036e0dbb7df5d63a8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P361": [
+      {
+        "id": "Q141961894$2A3DA6F7-9950-4ADC-B7BF-9AC9F47E5952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42887850",
+              "numeric-id": 42887850
+            }
+          },
+          "hash": "4704551b1c7c1028ea62a0ee1376931647dd0c85",
+          "property": "P361",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5008": [
+      {
+        "id": "Q141961894$70144185-0D81-44F7-AD3F-10BA85654383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141962030",
+              "numeric-id": 141962030
+            }
+          },
+          "hash": "aa7f41e3ab1676afcfda4b66c810df7cb0962d88",
+          "property": "P5008",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P528": [
+      {
+        "id": "Q141961894$FA223821-293A-4E76-ADB2-C4A23A744834",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "8"
+          },
+          "hash": "76014d639e9c237502e640db2b3517776e410af6",
+          "property": "P528",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P972": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q63131004",
+                  "numeric-id": 63131004
+                }
+              },
+              "hash": "7b1e0192d180b7c4eac1bbdd3db051570dc8e56d",
+              "property": "P972",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P972"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1cb79bd68ba6c6ed558ffdbb38df6ed1bbdaba4b",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://theses.gla.ac.uk/74266/"
+                  },
+                  "hash": "e704692721f59529980c7a04f060e580d3e5655d",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P7959": [
+      {
+        "id": "Q141961894$13ED5355-BE45-4E26-A777-6FCC3F572B4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q530296",
+              "numeric-id": 530296
+            }
+          },
+          "hash": "d77ea040f6982b06416ac20177f16ab251a9dd20",
+          "property": "P7959",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "early medieval recumbent cross-slab at Govan Old Parish Church, Glasgow, Scotland (Govan 20 in Stirling Maxwell's numbering, ECMS 8)"
+    }
+  },
+  "id": "Q141961894",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Govan Stone 20"
+    }
+  },
+  "lastrevid": 2563405574,
+  "modified": "2026-11-01T13:42:13Z",
+  "ns": 0,
+  "pageid": 135562782,
+  "sitelinks": {},
+  "title": "Q141961894",
+  "type": "item"
+}

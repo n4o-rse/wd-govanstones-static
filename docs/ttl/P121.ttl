@@ -1,0 +1,188 @@
+# P121: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P121.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Koordinaten eines sich auf der Erde befindlichen Objekts, momentan werden nur WGS84-basierte Koordinaten akzeptiert."@de,
+        "geocoordinates of the subject. For Earth, please note that only the WGS84 geodetic datum is currently supported"@en ;
+    dcterms:identifier "P121" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P121 ;
+    dcterms:title "coordinate location"@en,
+        "geographische Koordinaten"@de ;
+    schema:about gvs:P121 ;
+    dcat:distribution gvsdist:P121-html,
+        gvsdist:P121-json,
+        gvsdist:P121-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P121.html> .
+
+gvsdist:P121-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P121, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P121.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P121-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P121, as archived from the Wikibase API"@en ;
+    dcat:byteSize "4706"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P121.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P121-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P121, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P121.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P121
+    a wikibase:Property ;
+    schema:description "Koordinaten eines sich auf der Erde befindlichen Objekts, momentan werden nur WGS84-basierte Koordinaten akzeptiert."@de,
+        "geocoordinates of the subject. For Earth, please note that only the WGS84 geodetic datum is currently supported"@en ;
+    schema:name "coordinate location"@en,
+        "geographische Koordinaten"@de ;
+    wikibase:claim gvsp:P121 ;
+    wikibase:directClaim gvst:P121 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P121 ;
+    wikibase:propertyType wikibase:GlobeCoordinate ;
+    wikibase:qualifier gvspq:P121 ;
+    wikibase:qualifierValue gvspqv:P121 ;
+    wikibase:reference gvspr:P121 ;
+    wikibase:referenceValue gvsprv:P121 ;
+    wikibase:statementProperty gvsps:P121 ;
+    wikibase:statementValue gvspsv:P121 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "coordinate location"@en,
+        "geographische Koordinaten"@de ;
+    skos:altLabel "Geokoordinaten"@de,
+        "Koordinate"@de,
+        "Koordinaten"@de,
+        "Position"@de,
+        "co-ordinate location"@en,
+        "co-ordinates"@en,
+        "co-ords"@en,
+        "coordinates"@en,
+        "coords"@en,
+        "geo"@en,
+        "geocoordinates"@en,
+        "geografische Koordinate"@de,
+        "geographic coordinate"@en,
+        "geographic coordinates"@en,
+        "geographical coordinates"@en,
+        "geolocation"@en,
+        "geotag"@en,
+        "gps co-ordinate"@en,
+        "gps co-ordinates"@en,
+        "gps coordinate"@en,
+        "gps coordinates"@en,
+        "gps location"@en,
+        "gps"@en,
+        "latitude"@en,
+        "location on earth"@en,
+        "location on map"@en,
+        "location"@en,
+        "longitude"@en,
+        "point on a map"@en,
+        "point on earth"@en,
+        "point on the globe"@en,
+        "position"@en,
+        "wgs84"@en,
+        "wgs 84"@en,
+        "wgs-84"@en ;
+    skos:prefLabel "coordinate location"@en,
+        "geographische Koordinaten"@de ;
+    gvsp:P2 gvss:P121-3D3A51FC-89CC-5C97-A7B5-319E9F517202 ;
+    gvsp:P4 gvss:P121-A0076580-8302-5676-BA60-064A77DFCA61 ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P625" .
+
+gvss:P121-3D3A51FC-89CC-5C97-A7B5-319E9F517202
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvss:P121-A0076580-8302-5676-BA60-064A77DFCA61
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:927168ac9a96158317fb8aae52b5746e01e9f52d ;
+    gvsps:P4 "P625" .
+
+gvsref:927168ac9a96158317fb8aae52b5746e01e9f52d
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P625> .
+
+gvsp:P121
+    a owl:ObjectProperty .
+
+gvst:P121
+    a owl:DatatypeProperty .
+
+gvspq:P121
+    a owl:DatatypeProperty .
+
+gvspqv:P121
+    a owl:ObjectProperty .
+
+gvspr:P121
+    a owl:DatatypeProperty .
+
+gvsprv:P121
+    a owl:ObjectProperty .
+
+gvsps:P121
+    a owl:DatatypeProperty .
+
+gvspsv:P121
+    a owl:ObjectProperty .
+
+gvsno:P121
+    a owl:Class ;
+    owl:complementOf _:471b54d3361d630fb46760e70218340c .
+
+_:471b54d3361d630fb46760e70218340c
+    a owl:Restriction ;
+    owl:onProperty gvst:P121 ;
+    owl:someValuesFrom owl:Thing .

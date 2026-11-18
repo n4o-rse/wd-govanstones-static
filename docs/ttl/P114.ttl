@@ -1,0 +1,193 @@
+# P114: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P114.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Einheit, die Teil der aktuellen Einheit ist (nicht im administrativen Sinn)"@de,
+        "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670)."@en ;
+    dcterms:identifier "P114" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P114 ;
+    dcterms:title "besteht aus"@de,
+        "has part(s)"@en ;
+    schema:about gvs:P114 ;
+    dcat:distribution gvsdist:P114-html,
+        gvsdist:P114-json,
+        gvsdist:P114-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P114.html> .
+
+gvsdist:P114-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P114, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P114.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P114-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P114, as archived from the Wikibase API"@en ;
+    dcat:byteSize "4973"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P114.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P114-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P114, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P114.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P114
+    a wikibase:Property ;
+    schema:description "Einheit, die Teil der aktuellen Einheit ist (nicht im administrativen Sinn)"@de,
+        "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670)."@en ;
+    schema:name "besteht aus"@de,
+        "has part(s)"@en ;
+    wikibase:claim gvsp:P114 ;
+    wikibase:directClaim gvst:P114 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P114 ;
+    wikibase:propertyType wikibase:WikibaseItem ;
+    wikibase:qualifier gvspq:P114 ;
+    wikibase:qualifierValue gvspqv:P114 ;
+    wikibase:reference gvspr:P114 ;
+    wikibase:referenceValue gvsprv:P114 ;
+    wikibase:statementProperty gvsps:P114 ;
+    wikibase:statementValue gvspsv:P114 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "besteht aus"@de,
+        "has part(s)"@en ;
+    skos:altLabel "Bestandteile"@de,
+        "Elemente"@de,
+        "Holonym von"@de,
+        "Teile"@de,
+        "amalgamation of"@en,
+        "assembled from"@en,
+        "assembled out of"@en,
+        "composed of"@en,
+        "comprised of"@en,
+        "consists of"@en,
+        "contain"@en,
+        "contains"@en,
+        "created from"@en,
+        "created out of"@en,
+        "divided by"@en,
+        "enthält"@de,
+        "formed from"@en,
+        "formed out of"@en,
+        "had part"@en,
+        "has as part"@en,
+        "has branch"@en,
+        "has component"@en,
+        "has ingredient"@en,
+        "has ingredients"@en,
+        "has member"@en,
+        "has part or parts"@en,
+        "has part"@en,
+        "has parts"@en,
+        "has subclasses"@en,
+        "hat Bestandteil"@de,
+        "have part"@en,
+        "holonym of"@en,
+        "includes part"@en,
+        "includes"@en,
+        "incorporates"@en,
+        "ingredients"@en,
+        "made up of"@en,
+        "parts"@en,
+        "set of"@en,
+        "setzt sich zusammen aus"@de ;
+    skos:prefLabel "besteht aus"@de,
+        "has part(s)"@en ;
+    gvsp:P2 gvss:P114-5D1407FB-5E65-533C-BB14-2D0CEF3BC5A1 ;
+    gvsp:P4 gvss:P114-66B56A8E-AB19-598B-819A-04B54920F449 ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P527" .
+
+gvss:P114-5D1407FB-5E65-533C-BB14-2D0CEF3BC5A1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvss:P114-66B56A8E-AB19-598B-819A-04B54920F449
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:62b39fea35dbea5391cf1f2b40908ed712ea174e ;
+    gvsps:P4 "P527" .
+
+gvsref:62b39fea35dbea5391cf1f2b40908ed712ea174e
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P527> .
+
+gvsp:P114
+    a owl:ObjectProperty .
+
+gvst:P114
+    a owl:ObjectProperty .
+
+gvspq:P114
+    a owl:ObjectProperty .
+
+gvspqv:P114
+    a owl:ObjectProperty .
+
+gvspr:P114
+    a owl:ObjectProperty .
+
+gvsprv:P114
+    a owl:ObjectProperty .
+
+gvsps:P114
+    a owl:ObjectProperty .
+
+gvspsv:P114
+    a owl:ObjectProperty .
+
+gvsno:P114
+    a owl:Class ;
+    owl:complementOf _:42ac48ebec5f0629626705af8131fe13 .
+
+_:42ac48ebec5f0629626705af8131fe13
+    a owl:Restriction ;
+    owl:onProperty gvst:P114 ;
+    owl:someValuesFrom owl:Thing .

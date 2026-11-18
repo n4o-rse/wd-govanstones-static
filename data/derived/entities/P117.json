@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "urheberrechtlicher Status"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "copyright restriction"
+      },
+      {
+        "language": "en",
+        "value": "copyrighted"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P117$8D72D9B3-0240-5661-A1F9-0EF690753F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P117$FECEA49B-AD58-552D-9E7D-54C15E7F2415",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P6216"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P6216"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Urheberrechtsstatus für geistige Schöpfungen wie Kunstwerke, Publikationen, Software usw."
+    },
+    "en": {
+      "language": "en",
+      "value": "copyright status for intellectual creations like works of art, publications, software, etc."
+    }
+  },
+  "id": "P117",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Urheberrechtsstatus"
+    },
+    "en": {
+      "language": "en",
+      "value": "copyright status"
+    }
+  },
+  "type": "property"
+}

@@ -1,0 +1,169 @@
+# P102: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P102.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "(qualifier) role held by the predicate value (object) of a statement in the context of that statement; for the role of the item the statement appears on (subject), use P2868"@en,
+        "Rolle des Objekts der Aussage im konkreten Zusammenhang. Für die Rolle des Subjekts P2868 verwenden"@de ;
+    dcterms:identifier "P102" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P102 ;
+    dcterms:title "Objekt der Aussage fungiert als"@de,
+        "object of statement has role"@en ;
+    schema:about gvs:P102 ;
+    dcat:distribution gvsdist:P102-html,
+        gvsdist:P102-json,
+        gvsdist:P102-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P102.html> .
+
+gvsdist:P102-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P102, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P102.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P102-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P102, as archived from the Wikibase API"@en ;
+    dcat:byteSize "3375"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P102.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P102-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P102, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P102.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P102
+    a wikibase:Property ;
+    schema:description "(qualifier) role held by the predicate value (object) of a statement in the context of that statement; for the role of the item the statement appears on (subject), use P2868"@en,
+        "Rolle des Objekts der Aussage im konkreten Zusammenhang. Für die Rolle des Subjekts P2868 verwenden"@de ;
+    schema:name "Objekt der Aussage fungiert als"@de,
+        "object of statement has role"@en ;
+    wikibase:claim gvsp:P102 ;
+    wikibase:directClaim gvst:P102 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P102 ;
+    wikibase:propertyType wikibase:WikibaseItem ;
+    wikibase:qualifier gvspq:P102 ;
+    wikibase:qualifierValue gvspqv:P102 ;
+    wikibase:reference gvspr:P102 ;
+    wikibase:referenceValue gvsprv:P102 ;
+    wikibase:statementProperty gvsps:P102 ;
+    wikibase:statementValue gvspsv:P102 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "Objekt der Aussage fungiert als"@de,
+        "object of statement has role"@en ;
+    skos:altLabel "Objekt fungiert als"@de,
+        "Rolle"@de,
+        "Wert fungiert als"@de,
+        "als"@de,
+        "as"@en,
+        "circumstances of employment"@en,
+        "fungiert als"@de,
+        "has role"@en,
+        "object had role"@en,
+        "object has generic identity"@en,
+        "object has role"@en,
+        "object of qualified statement has role"@en,
+        "role of object"@en,
+        "role"@en,
+        "specifically"@en,
+        "value has role"@en ;
+    skos:prefLabel "Objekt der Aussage fungiert als"@de,
+        "object of statement has role"@en ;
+    gvsp:P2 gvss:P102-B1AEEB7E-2A32-57CE-AF1E-BDCED96B2C79 ;
+    gvsp:P4 gvss:P102-83ABB91F-1582-54B6-9ED1-BB20091AD4EF ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P3831" .
+
+gvss:P102-83ABB91F-1582-54B6-9ED1-BB20091AD4EF
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:8948c64391d22b23124c593878710c0c087e8250 ;
+    gvsps:P4 "P3831" .
+
+gvss:P102-B1AEEB7E-2A32-57CE-AF1E-BDCED96B2C79
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvsref:8948c64391d22b23124c593878710c0c087e8250
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P3831> .
+
+gvsp:P102
+    a owl:ObjectProperty .
+
+gvst:P102
+    a owl:ObjectProperty .
+
+gvspq:P102
+    a owl:ObjectProperty .
+
+gvspqv:P102
+    a owl:ObjectProperty .
+
+gvspr:P102
+    a owl:ObjectProperty .
+
+gvsprv:P102
+    a owl:ObjectProperty .
+
+gvsps:P102
+    a owl:ObjectProperty .
+
+gvspsv:P102
+    a owl:ObjectProperty .
+
+gvsno:P102
+    a owl:Class ;
+    owl:complementOf _:8547c5ea738a15a0ab5f567ec3608e04 .
+
+_:8547c5ea738a15a0ab5f567ec3608e04
+    a owl:Restriction ;
+    owl:onProperty gvst:P102 ;
+    owl:someValuesFrom owl:Thing .

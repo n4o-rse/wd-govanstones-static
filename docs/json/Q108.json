@@ -1,0 +1,115 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "inventory"
+      },
+      {
+        "language": "en",
+        "value": "collections"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q108$2EBBF1D4-02A5-5FE4-B22F-D2C47EEF7B34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q108$B00B56ED-5199-5EAE-AA15-C11FC524EE9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q108$DC89C60A-6F0A-5891-8F7E-4A206A678065",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2668072"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2668072"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zusammenstellung von sorgfältig ausgewählten Objekten mit gemeinsamen Eigenschaften"
+    },
+    "en": {
+      "language": "en",
+      "value": "set of purposely gathered physical or digital objects with some common characteristics"
+    }
+  },
+  "id": "Q108",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sammlung"
+    },
+    "en": {
+      "language": "en",
+      "value": "collection"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

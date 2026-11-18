@@ -1,0 +1,2245 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "حقبة"
+      },
+      {
+        "language": "ar",
+        "value": "فترة تاريخية"
+      },
+      {
+        "language": "ar",
+        "value": "عصر"
+      },
+      {
+        "language": "ar",
+        "value": "الحقبة"
+      }
+    ],
+    "ast": [
+      {
+        "language": "ast",
+        "value": "era"
+      },
+      {
+        "language": "ast",
+        "value": "época"
+      },
+      {
+        "language": "ast",
+        "value": "edá"
+      }
+    ],
+    "be": [
+      {
+        "language": "be",
+        "value": "гістарычны перыяд"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "эра"
+      },
+      {
+        "language": "be-tarask",
+        "value": "гістарычны пэрыяд"
+      }
+    ],
+    "bs": [
+      {
+        "language": "bs",
+        "value": "vremenski period"
+      },
+      {
+        "language": "bs",
+        "value": "era"
+      },
+      {
+        "language": "bs",
+        "value": "epoha"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "era"
+      },
+      {
+        "language": "ca",
+        "value": "època"
+      },
+      {
+        "language": "ca",
+        "value": "període històric"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "éra"
+      },
+      {
+        "language": "cs",
+        "value": "sezóna"
+      }
+    ],
+    "da": [
+      {
+        "language": "da",
+        "value": "æra"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Zeitalter"
+      },
+      {
+        "language": "de",
+        "value": "Zeitraum"
+      },
+      {
+        "language": "de",
+        "value": "Sportsaison"
+      },
+      {
+        "language": "de",
+        "value": "Theatersaison"
+      },
+      {
+        "language": "de",
+        "value": "Legislaturperiode"
+      },
+      {
+        "language": "de",
+        "value": "Epoche"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "era"
+      },
+      {
+        "language": "en",
+        "value": "historic era"
+      },
+      {
+        "language": "en",
+        "value": "epoch"
+      },
+      {
+        "language": "en",
+        "value": "historical period"
+      },
+      {
+        "language": "en",
+        "value": "sports season"
+      },
+      {
+        "language": "en",
+        "value": "theatre season"
+      },
+      {
+        "language": "en",
+        "value": "legislative period"
+      },
+      {
+        "language": "en",
+        "value": "historic period"
+      },
+      {
+        "language": "en",
+        "value": "period"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "era"
+      },
+      {
+        "language": "en-gb",
+        "value": "historic era"
+      },
+      {
+        "language": "en-gb",
+        "value": "epoch"
+      }
+    ],
+    "eo": [
+      {
+        "language": "eo",
+        "value": "epoko"
+      },
+      {
+        "language": "eo",
+        "value": "tempaĝo"
+      },
+      {
+        "language": "eo",
+        "value": "sporta sezono"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "época"
+      },
+      {
+        "language": "es",
+        "value": "periodo"
+      },
+      {
+        "language": "es",
+        "value": "período"
+      },
+      {
+        "language": "es",
+        "value": "edad"
+      },
+      {
+        "language": "es",
+        "value": "era"
+      },
+      {
+        "language": "es",
+        "value": "periodo historico"
+      },
+      {
+        "language": "es",
+        "value": "período histórico"
+      },
+      {
+        "language": "es",
+        "value": "periodo de tiempo"
+      }
+    ],
+    "eu": [
+      {
+        "language": "eu",
+        "value": "aroa"
+      },
+      {
+        "language": "eu",
+        "value": "sasoi"
+      },
+      {
+        "language": "eu",
+        "value": "epoka"
+      },
+      {
+        "language": "eu",
+        "value": "garai historiko"
+      },
+      {
+        "language": "eu",
+        "value": "aro historiko"
+      }
+    ],
+    "fa": [
+      {
+        "language": "fa",
+        "value": "عصر"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "ère"
+      },
+      {
+        "language": "fr",
+        "value": "période historique"
+      },
+      {
+        "language": "fr",
+        "value": "contexte historique"
+      },
+      {
+        "language": "fr",
+        "value": "saison sportive"
+      },
+      {
+        "language": "fr",
+        "value": "saison théâtrale"
+      },
+      {
+        "language": "fr",
+        "value": "période législative"
+      },
+      {
+        "language": "fr",
+        "value": "époque"
+      },
+      {
+        "language": "fr",
+        "value": "a eu lieu au cours de"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "era"
+      },
+      {
+        "language": "gl",
+        "value": "época"
+      },
+      {
+        "language": "gl",
+        "value": "idade"
+      },
+      {
+        "language": "gl",
+        "value": "período histórico"
+      },
+      {
+        "language": "gl",
+        "value": "período de tempo"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "עידן"
+      },
+      {
+        "language": "he",
+        "value": "תקופה היסטורית"
+      },
+      {
+        "language": "he",
+        "value": "עונה ספורטיבית"
+      },
+      {
+        "language": "he",
+        "value": "עונת ספורט"
+      },
+      {
+        "language": "he",
+        "value": "שנה עברית"
+      },
+      {
+        "language": "he",
+        "value": "שנה בלוח העברי"
+      },
+      {
+        "language": "he",
+        "value": "נקודת זמן בלוח העברי"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "epoca"
+      },
+      {
+        "language": "it",
+        "value": "periodo storico"
+      },
+      {
+        "language": "it",
+        "value": "stagione"
+      },
+      {
+        "language": "it",
+        "value": "era"
+      },
+      {
+        "language": "it",
+        "value": "legislatura"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "期"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "시기"
+      }
+    ],
+    "lv": [
+      {
+        "language": "lv",
+        "value": "ēra"
+      }
+    ],
+    "mk": [
+      {
+        "language": "mk",
+        "value": "историски период"
+      },
+      {
+        "language": "mk",
+        "value": "раздобје"
+      }
+    ],
+    "mnw": [
+      {
+        "language": "mnw",
+        "value": "ခေတ်"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "masa"
+      },
+      {
+        "language": "ms",
+        "value": "waktu"
+      },
+      {
+        "language": "ms",
+        "value": "latar masa"
+      },
+      {
+        "language": "ms",
+        "value": "tempoh"
+      }
+    ],
+    "mzn": [
+      {
+        "language": "mzn",
+        "value": "عصر"
+      },
+      {
+        "language": "mzn",
+        "value": "دوره"
+      }
+    ],
+    "nb": [
+      {
+        "language": "nb",
+        "value": "tidsperiode"
+      },
+      {
+        "language": "nb",
+        "value": "æra"
+      },
+      {
+        "language": "nb",
+        "value": "historisk æra"
+      },
+      {
+        "language": "nb",
+        "value": "epoke"
+      },
+      {
+        "language": "nb",
+        "value": "tidsepoke"
+      },
+      {
+        "language": "nb",
+        "value": "tidsalder"
+      },
+      {
+        "language": "nb",
+        "value": "tidsintervall"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "tijdperk"
+      },
+      {
+        "language": "nl",
+        "value": "tijdsperiode"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "æra"
+      }
+    ],
+    "oc": [
+      {
+        "language": "oc",
+        "value": "epòca"
+      },
+      {
+        "language": "oc",
+        "value": "èra"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "era"
+      },
+      {
+        "language": "pl",
+        "value": "epoka historyczna"
+      },
+      {
+        "language": "pl",
+        "value": "sezon sportowy"
+      },
+      {
+        "language": "pl",
+        "value": "okres legislacyjny"
+      },
+      {
+        "language": "pl",
+        "value": "epoka"
+      },
+      {
+        "language": "pl",
+        "value": "sezon"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "período"
+      },
+      {
+        "language": "pt",
+        "value": "época"
+      },
+      {
+        "language": "pt",
+        "value": "idade"
+      },
+      {
+        "language": "pt",
+        "value": "era"
+      },
+      {
+        "language": "pt",
+        "value": "era histórica"
+      },
+      {
+        "language": "pt",
+        "value": "período histórico"
+      },
+      {
+        "language": "pt",
+        "value": "época desportiva"
+      },
+      {
+        "language": "pt",
+        "value": "período legislativo"
+      },
+      {
+        "language": "pt",
+        "value": "época de espetáculo"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "era"
+      },
+      {
+        "language": "pt-br",
+        "value": "idade"
+      },
+      {
+        "language": "pt-br",
+        "value": "época"
+      },
+      {
+        "language": "pt-br",
+        "value": "período histórico"
+      },
+      {
+        "language": "pt-br",
+        "value": "escala de tempo geológico"
+      },
+      {
+        "language": "pt-br",
+        "value": "período temporal"
+      },
+      {
+        "language": "pt-br",
+        "value": "período de tempo"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "исторический период"
+      },
+      {
+        "language": "ru",
+        "value": "эпоха"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "era"
+      },
+      {
+        "language": "sl",
+        "value": "čas"
+      }
+    ],
+    "sq": [
+      {
+        "language": "sq",
+        "value": "periudhë kohore"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "ера"
+      },
+      {
+        "language": "sr",
+        "value": "епоха"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "çağı"
+      },
+      {
+        "language": "tr",
+        "value": "dönemi"
+      },
+      {
+        "language": "tr",
+        "value": "tarihi dönemi"
+      },
+      {
+        "language": "tr",
+        "value": "spor sezonu"
+      },
+      {
+        "language": "tr",
+        "value": "tiyatro sezonu"
+      },
+      {
+        "language": "tr",
+        "value": "yasama dönemi"
+      },
+      {
+        "language": "tr",
+        "value": "tarihsel dönemi"
+      }
+    ],
+    "udm": [
+      {
+        "language": "udm",
+        "value": "дыр кусыпез"
+      },
+      {
+        "language": "udm",
+        "value": "эраез"
+      },
+      {
+        "language": "udm",
+        "value": "эпохаез"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "період історичний"
+      },
+      {
+        "language": "uk",
+        "value": "ера"
+      },
+      {
+        "language": "uk",
+        "value": "епоха"
+      }
+    ],
+    "ur": [
+      {
+        "language": "ur",
+        "value": "عصر"
+      },
+      {
+        "language": "ur",
+        "value": "زمانہ"
+      }
+    ],
+    "vi": [
+      {
+        "language": "vi",
+        "value": "thời đại"
+      },
+      {
+        "language": "vi",
+        "value": "kỷ nguyên"
+      },
+      {
+        "language": "vi",
+        "value": "kỉ nguyên"
+      },
+      {
+        "language": "vi",
+        "value": "mùa"
+      },
+      {
+        "language": "vi",
+        "value": "thời kì"
+      },
+      {
+        "language": "vi",
+        "value": "đời"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "时代"
+      },
+      {
+        "language": "zh",
+        "value": "時代"
+      },
+      {
+        "language": "zh",
+        "value": "时间周期"
+      }
+    ],
+    "zh-cn": [
+      {
+        "language": "zh-cn",
+        "value": "时代"
+      }
+    ],
+    "zh-hans": [
+      {
+        "language": "zh-hans",
+        "value": "时代"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "時代"
+      }
+    ],
+    "zh-hk": [
+      {
+        "language": "zh-hk",
+        "value": "時代"
+      }
+    ],
+    "zh-mo": [
+      {
+        "language": "zh-mo",
+        "value": "時代"
+      }
+    ],
+    "zh-my": [
+      {
+        "language": "zh-my",
+        "value": "时代"
+      }
+    ],
+    "zh-sg": [
+      {
+        "language": "zh-sg",
+        "value": "时代"
+      }
+    ],
+    "zh-tw": [
+      {
+        "language": "zh-tw",
+        "value": "時代"
+      }
+    ]
+  },
+  "claims": {
+    "P13786": [
+      {
+        "id": "P2348$06bdfdac-4b50-13db-7827-30d630616109",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "historic:period"
+          },
+          "hash": "78697283f862fcd7bb66f7f77ecd3284b0508f9a",
+          "property": "P13786",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14692": [
+      {
+        "id": "P2348$DC94B20F-F0E8-4629-93D7-94BD8320C8A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q340"
+          },
+          "hash": "fe9331c5422b14b77960b421e8b0b894649071c7",
+          "property": "P14692",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P2348$f3743d64-48f8-c7f4-0a09-858554009916",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6428674",
+              "numeric-id": 6428674
+            }
+          },
+          "hash": "067587f074a22a7cff07577d6314205a37524b71",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$f4a7bcb4-4fe3-e275-4e2b-c076543d2c53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10688145",
+              "numeric-id": 10688145
+            }
+          },
+          "hash": "0d1e686c799a77ab569a9bbcecd1351330b8ede0",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$253fce74-4317-0ac3-aa88-d5cb9313fe57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27020041",
+              "numeric-id": 27020041
+            }
+          },
+          "hash": "c17204013a126e189f1fc54851135567e2e836fc",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$a2bbf0b5-433d-59bb-f82b-1d7e5e550aaa",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11514315",
+              "numeric-id": 11514315
+            }
+          },
+          "hash": "1ca2750f257e5ec1fe78cc4760c3f44313fc41f8",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$79a68492-4a8d-7a16-f062-32a7e15d15e1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50823455",
+              "numeric-id": 50823455
+            }
+          },
+          "hash": "69ca56391774717b9d30421b1cb180a425cf5272",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$5b354b55-451c-46ae-cba3-560c2b7d1b82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18602451",
+              "numeric-id": 18602451
+            }
+          },
+          "hash": "574dfb4f71d1575c54a651e6ef439550a15aa7c8",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$cbf68c3f-4f48-6d96-0726-d71068b4d6e0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5243421",
+              "numeric-id": 5243421
+            }
+          },
+          "hash": "e6141714df2a7a880b302554fbd5b40b5abdcea8",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P2348$381d1f4f-4251-1c75-2d0d-944306473340",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2408",
+              "numeric-id": 2408
+            }
+          },
+          "hash": "eff6b97baa4c4647ef910cdbf7e61217c416fadf",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$4e529f44-48ec-fb9e-5027-eb642ee51fd2",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P585",
+              "numeric-id": 585
+            }
+          },
+          "hash": "460b0b35143ccbea69929f897ad1ed96b8af00a5",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$3e1ddf8b-43ec-1773-da5a-1d93dafd137b",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3415",
+              "numeric-id": 3415
+            }
+          },
+          "hash": "92a2a22d5ec1c339d780cf6a1c605fb996ffdb4d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$587209b1-4f0d-126e-1bff-0d9020aac5c5",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3416",
+              "numeric-id": 3416
+            }
+          },
+          "hash": "cd7592edb0e289b84a8d38aeceeb3856e9acee98",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$5b5834b0-45c4-d03d-6b24-47cdfc94808a",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8411",
+              "numeric-id": 8411
+            }
+          },
+          "hash": "0021389682a4348c72b40e05f462f4352f3edbff",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$2299d8ef-4ace-01af-6269-e10d5601219d",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P7643",
+              "numeric-id": 7643
+            }
+          },
+          "hash": "267cfd429604dea12e1a7b051cdf5ddb149f8f82",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P2348$64d09bcd-45c7-b7d6-a25a-90e002229715",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1007510",
+              "numeric-id": 1007510
+            }
+          },
+          "hash": "5b7c8328c98b9ff79574e256a7fb0ae460d3666e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2348": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q130253",
+                  "numeric-id": 130253
+                }
+              },
+              "hash": "495400a0a78d510c134d2ab5ec3bba9308f01894",
+              "property": "P2348",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2348"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$961b0a8e-4d71-3458-037f-f513c63d3d78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25476906",
+              "numeric-id": 25476906
+            }
+          },
+          "hash": "88a77578f5ee688eb4c998a47c21b5d81f5ea6e9",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2348": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q30201458",
+                  "numeric-id": 30201458
+                }
+              },
+              "hash": "b7af4df92bbae693e13f478b16af9ae9aa3d0328",
+              "property": "P2348",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2348"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P2348$383B3D36-97C1-48D9-BD35-C58F84268D0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510864",
+              "numeric-id": 21510864
+            }
+          },
+          "hash": "6dc8a4d7709a521bc0d1672c9450283d7da7330b",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "57e0c059ce6c4f38e5ffd260c63684eb7c6e0e87",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$2FFF0C30-1B43-445E-AB9B-5C2D281FAECB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510864",
+              "numeric-id": 21510864
+            }
+          },
+          "hash": "6dc8a4d7709a521bc0d1672c9450283d7da7330b",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q201038",
+                  "numeric-id": 201038
+                }
+              },
+              "hash": "9c19cab4629df2f0adf251e39fd918d037f47521",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q17167",
+                  "numeric-id": 17167
+                }
+              },
+              "hash": "4384c509b9b5f7052fa5491feaf907dcec7b95b2",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2277",
+                  "numeric-id": 2277
+                }
+              },
+              "hash": "d4ba27f17442556c08a6b18170c4facde87ef316",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P580",
+                  "numeric-id": 580
+                }
+              },
+              "hash": "4910ca558b9b0401e91b11626f400278702811bc",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "rank": "deprecated",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$E7B965CF-417D-402A-B1C7-501EB4617211",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510864",
+              "numeric-id": 21510864
+            }
+          },
+          "hash": "6dc8a4d7709a521bc0d1672c9450283d7da7330b",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q201038",
+                  "numeric-id": 201038
+                }
+              },
+              "hash": "9c19cab4629df2f0adf251e39fd918d037f47521",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q17167",
+                  "numeric-id": 17167
+                }
+              },
+              "hash": "4384c509b9b5f7052fa5491feaf907dcec7b95b2",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2277",
+                  "numeric-id": 2277
+                }
+              },
+              "hash": "d4ba27f17442556c08a6b18170c4facde87ef316",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P582",
+                  "numeric-id": 582
+                }
+              },
+              "hash": "0720109791ffbb5500cf5a98c698a3156563cb72",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "rank": "deprecated",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$f7363c62-4333-2082-3f7a-186a6bbd90b6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25796498",
+              "numeric-id": 25796498
+            }
+          },
+          "hash": "d5e7d5e412e372792f72cf6fca2a6a1885c989ca",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$724c2d2f-40e1-ad9e-50cd-29d95c0c97aa",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828449",
+                  "numeric-id": 54828449
+                }
+              },
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$d7f49fea-4d54-f23a-e0e9-1ec7fc2b02e8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q51885771",
+                  "numeric-id": 51885771
+                }
+              },
+              "hash": "50f25c5b7cde1e593dbe352b8d168432da76f596",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P2348$5425cd0d-40e0-f23f-a17f-ca4ae7667309",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P275": [
+      {
+        "id": "P2348$0e4e4985-41a4-9705-48c7-bc5d12bf79c1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6938433",
+              "numeric-id": 6938433
+            }
+          },
+          "hash": "28a6efcc224656589c283263e9efa1effe56d682",
+          "property": "P275",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P2348$BF17C293-7E3F-497F-B0C7-B07905377DAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23909033",
+              "numeric-id": 23909033
+            }
+          },
+          "hash": "8ad4193f09ee78781fba2d1fba49cd28d4434970",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P2348$f756a7ef-4bc2-1f63-41f6-82beedb74239",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51077473",
+              "numeric-id": 51077473
+            }
+          },
+          "hash": "8e37559ebf77ea40f19aafa48fb8f520cf000f27",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2348$E4194737-4F72-4394-8BB8-11CA53746F09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70564278",
+              "numeric-id": 70564278
+            }
+          },
+          "hash": "c103994718f91e423ff1be14e9db2121817a9a47",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P2348$29136F1B-8F1C-46F6-B991-CD21A2796EBC",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/41#P2348"
+          },
+          "hash": "29a54523f8388e84331f330f838b1fbee48540f1",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6216": [
+      {
+        "id": "P2348$17eaced5-4e36-022e-676a-510420e9c57e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88088423",
+              "numeric-id": 88088423
+            }
+          },
+          "hash": "f88a8b9472789ca66067ed50ce20dc2650af5744",
+          "property": "P6216",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7087": [
+      {
+        "id": "P2348$3ab23e8f-4e56-5b58-4714-a3c730ae9d62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q84425196",
+              "numeric-id": 84425196
+            }
+          },
+          "hash": "c2817b38453c070d0b2ca3d7aa1dadb5be8f4b4a",
+          "property": "P7087",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الفترة الزمنية (الفترة التاريخية أو العصر؛ موسم رياضي، فترة تشريعية، إلخ) التي وقع فيه هذا الموضوع أو الحدث"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "era o periodu históricu nel qu'asocedió l'elementu"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "гістарычны пэрыяд, у якім адбылася падзея"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "era o període històric en el qual va tenir lloc el subjecte"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "časové období (historická éra, období dějin, sportovní sezóna atd.), za kterého se subjekt udál"
+    },
+    "da": {
+      "language": "da",
+      "value": "historisk periode eller æra hvori subjektet forekom"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zeitraum (historische Periode oder Zeitalter, Sportsaison, Theatersaison, Legislaturperiode o.ä.) in der das Subjekt auftritt"
+    },
+    "el": {
+      "language": "el",
+      "value": "ιστορική περίοδος ή εποχή, αθλητική περίοδος, περίοδος θεάτρου, νομοθετική περίοδος κ.λπ. στην οποία συνέβη το θέμα"
+    },
+    "en": {
+      "language": "en",
+      "value": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred or with which it is associated"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "historic period or era in which the subject occurred"
+    },
+    "es": {
+      "language": "es",
+      "value": "período de tiempo o época al que pertenece el elemento o en el que el elemento ocurrió"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "itemaren garai historikoa"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "epoca ala que perteneci l'elementu o ena que l'elementu aconteció"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دوره زمانی (تاریخی، زمان قانونی، فصل ورزشی، الخ)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "historiallinen ajanjakso, jolle tapahtuma sijoittui tai jolta kohde on peräisin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "période (époque historique ou ère, saison sportive ou théâtrale, période législative etc.) dans laquelle le sujet apparaît"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "período histórico non cal ocorreu"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "lokaci ko tsawon lokaci"
+    },
+    "he": {
+      "language": "he",
+      "value": "תקופת זמן (תקופה היסטורית או עידן, עונת ספורט, עונת תיאטרון, תקופת חקיקה וכו ') בה התרחש הנושא"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "oge (oge akụkọ ihe mere eme ma ọ bụ oge, oge egwuregwu, oge ihe nkiri, oge omebe iwu wdg) nke isiokwu ahụ mere ma ọ bụ nke ejikọtara ya."
+    },
+    "it": {
+      "language": "it",
+      "value": "periodo (periodo storico o era, stagione sportiva, teatrale, legislatura eccetera) nel quale si verificò od operò l'elemento"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "主題が発生した歴史的な期間や時代"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დროის პერიოდი (ისტორიული პერიოდი ან ერა, სპორტული სეზონი, თეატრალური სეზონი, საკანონმდებლო სესია და ა.შ.), რომელშიც მოხდა შემთხვევა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목의 주제가 발생한 역사적 시기 또는 시대"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "раздобје во историјата"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "tempoh masa ketika suatu kejadian itu berlaku. Cth: musim sukan, pilihanraya, kejadian bersejarah dll."
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "زمونی گدر"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "intervallet mellom to tidspunkter da aktuelt element inntraff, og der intervallet kan være navngitt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "tijdsperiode (historische periode, sportseizoen, theaterseizoen) waarin het onderwerp voorkwam"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "historisk periode"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "èra o periòde istoric que debanèt lo subjècte"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "okres (era lub epoka historyczna, sezon sportowy, sezon teatralny, okres legislacyjny itp.), w którym temat wystąpił"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "período histórico no qual o sujeito ocorreu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "período histórico no qual o assunto ocorreu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "период времени (исторический период или эра, спортивный сезон, театральный сезон, законодательная сессия и т. д.), в котором произошло событие"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱚᱠᱛᱚ (ᱱᱟᱜᱟᱢ ᱚᱠᱛᱚ ᱥᱮ ᱚᱠᱛᱚ, ᱠᱷᱮᱞ ᱚᱠᱛᱚ, ᱛᱷᱤᱭᱮᱴᱚᱨ ᱚᱠᱛᱚ, ᱵᱤᱫᱷᱟᱹ ᱚᱠᱛᱚ ᱮᱢᱟᱱ) ᱚᱠᱟ ᱨᱮ ᱥᱟᱛᱟᱢ ᱦᱩᱭ ᱞᱮᱱᱟ ᱥᱮ ᱚᱠᱟ ᱥᱟᱶ ᱱᱚᱣᱟ ᱡᱚᱲᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "periudha kohore (periudha ose epoka historike, sezoni sportiv, sezoni teatror, periudha legjislative etj.) në të cilën ka ndodhur lënda"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "historisk period eller era då något inföll"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "konunun geçtiği dönem (tarihi dönem veya dönem, spor sezonu, tiyatro sezonu, yasama dönemi vb.)"
+    },
+    "udm": {
+      "language": "udm",
+      "value": "дыр кусып (истори, спорт, театр, каткылдытон вакыт но о.а.), ку учыр луиз"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "історичний період, ера, епоха для поточного елемента"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "voqea sodir bo'lgan vaqt davri (tarixiy davr yoki davr, sport mavsumi, teatr mavsumi, qonunchilik sessiyasi va boshqalar)."
+    },
+    "vi": {
+      "language": "vi",
+      "value": "khoảng thời gian (giai đoạn hoặc thời đại lịch sử, mùa thể thao, mùa sân khấu, thời kỳ lập pháp, v.v.) trong đó chủ đề xảy ra"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "該主體發生的時間段（歷史時代、體育賽季、戲劇季、立法期等）"
+    }
+  },
+  "id": "P2348",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "tydperk"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الفترة الزمنية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الفترة الزمنية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "periodu"
+    },
+    "az": {
+      "language": "az",
+      "value": "dövr"
+    },
+    "be": {
+      "language": "be",
+      "value": "эпоха"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "эпоха"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "епоха"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সময়কাল"
+    },
+    "br": {
+      "language": "br",
+      "value": "prantad"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "vremensko razdoblje"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "període"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "зама"
+    },
+    "chr": {
+      "language": "chr",
+      "value": "ᏄᎵᏍᏔᏂᏙᎸ"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "سەردەم"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "období"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "epòka"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyfnod"
+    },
+    "da": {
+      "language": "da",
+      "value": "tidsperiode"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Saha tarisi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zeitraum"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Mabênê dewri"
+    },
+    "dsb": {
+      "language": "dsb",
+      "value": "cas"
+    },
+    "el": {
+      "language": "el",
+      "value": "χρονική περίοδος"
+    },
+    "en": {
+      "language": "en",
+      "value": "time period"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "time period"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "time period"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "periodo"
+    },
+    "es": {
+      "language": "es",
+      "value": "período de tiempo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "garaia"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "pedioru estóricu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دوران"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "aikakausi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "période"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "tidjrüm"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "tréimhse ama"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "linn"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "período"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "earish henndeeagh"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "zangon lokaci"
+    },
+    "he": {
+      "language": "he",
+      "value": "תקופה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "korszak"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ժամանակաշրջան"
+    },
+    "id": {
+      "language": "id",
+      "value": "periode waktu"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "oge oge"
+    },
+    "it": {
+      "language": "it",
+      "value": "periodo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "時代"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დროის პერიოდი"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಕಾಲಮಾನ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시대"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "کال آدن"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Period"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "period"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "laiko tarpas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "periods"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "период"
+    },
+    "mnw": {
+      "language": "mnw",
+      "value": "ကာလ အခိင်"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "zaman"
+    },
+    "my": {
+      "language": "my",
+      "value": "အချိန်ကာလ"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "دوران"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "tidsrom"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "periode"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "periode"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߕߎ߬ߡߊ ߥߎ߬ߛߎ"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "periòde"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "era"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "período de tempo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "período"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "perioadă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "эра"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱚᱠᱛᱮ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "vremenski period"
+    },
+    "shi": {
+      "language": "shi",
+      "value": "Asra"
+    },
+    "si": {
+      "language": "si",
+      "value": "කාල පරිච්ඡේදය"
+    },
+    "sjd": {
+      "language": "sjd",
+      "value": "э̄ра"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "obdobje"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "periudha kohore"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "историјски период"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "tidsperiod"
+    },
+    "syl": {
+      "language": "syl",
+      "value": "ꠡꠝꠄ ꠇꠣꠁꠟ"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "காலம்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "давр"
+    },
+    "tly": {
+      "language": "tly",
+      "value": "era"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "zaman aralığı"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "эра"
+    },
+    "udm": {
+      "language": "udm",
+      "value": "вакытэз"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "історичний період"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "دور"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "davr"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "perìodo"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thời kỳ"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ბორჯიშ შქაფონი"
+    },
+    "zgh": {
+      "language": "zgh",
+      "value": "ⴰⵣⵎⵣ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "時期"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "时期"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "时期"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "時期"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "時期"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "時期"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "时期"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "时期"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "時期"
+    }
+  },
+  "lastrevid": 2571066873,
+  "modified": "2026-11-17T20:30:27Z",
+  "ns": 120,
+  "pageid": 23582671,
+  "title": "Property:P2348",
+  "type": "property"
+}

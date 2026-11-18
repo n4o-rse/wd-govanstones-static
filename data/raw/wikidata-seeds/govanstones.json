@@ -1,0 +1,493 @@
+{
+ "head": {
+  "vars": [
+   "item",
+   "itemLabel",
+   "kind"
+  ]
+ },
+ "results": {
+  "bindings": [
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q136659904"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 02 (Hogback)",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q138806715"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 05",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q138806762"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 03",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q138806805"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 06",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q138806836"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 04",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961820"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 01 (Sarcophagus)",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961881"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 07 (Jordanhill Cross)",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961882"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 08 (Sun Stone)",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961883"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 09 (Cuddy Stane)",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961884"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 10 (Inverted Cross)",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961885"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 11",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961886"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 12",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961887"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 13",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961888"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 14",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961889"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 15",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961890"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 16",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961891"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 17",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961892"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 18",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961893"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 19",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961894"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 20",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961895"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 21",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961896"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 22",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961897"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 23",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961898"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 24",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961900"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 25",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961901"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 26",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961902"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 27",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961904"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 28",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961905"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 31",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961906"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 36",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q141961908"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "Govan Stone 42",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "stone"
+    }
+   },
+   {
+    "item": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q42887850"
+    },
+    "itemLabel": {
+     "type": "literal",
+     "value": "The Govan Stones",
+     "xml:lang": "en"
+    },
+    "kind": {
+     "type": "literal",
+     "value": "collection"
+    }
+   }
+  ]
+ }
+}

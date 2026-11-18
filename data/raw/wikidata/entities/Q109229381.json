@@ -1,0 +1,37 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "extremely old work"
+      },
+      {
+        "language": "en",
+        "value": "very old work"
+      },
+      {
+        "language": "en",
+        "value": "author must have died over 100 years ago"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "copyright determination method for works are clearly public domain worldwide due to their age (i.e. there is no way an author could have died less than 100 years ago); use more exact determination method if known"
+    }
+  },
+  "id": "Q109229381",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "public domain due to great age"
+    }
+  },
+  "lastrevid": 2441157548,
+  "modified": "2025-12-12T08:44:56Z",
+  "ns": 0,
+  "pageid": 104420288,
+  "title": "Q109229381",
+  "type": "item"
+}

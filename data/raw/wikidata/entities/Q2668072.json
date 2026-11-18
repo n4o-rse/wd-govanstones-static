@@ -1,0 +1,41 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "inventory"
+      },
+      {
+        "language": "en",
+        "value": "collections"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zusammenstellung von sorgfältig ausgewählten Objekten mit gemeinsamen Eigenschaften"
+    },
+    "en": {
+      "language": "en",
+      "value": "set of purposely gathered physical or digital objects with some common characteristics"
+    }
+  },
+  "id": "Q2668072",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sammlung"
+    },
+    "en": {
+      "language": "en",
+      "value": "collection"
+    }
+  },
+  "lastrevid": 2561769264,
+  "modified": "2026-10-28T18:54:57Z",
+  "ns": 0,
+  "pageid": 2570580,
+  "title": "Q2668072",
+  "type": "item"
+}

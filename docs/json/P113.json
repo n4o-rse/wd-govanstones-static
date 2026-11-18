@@ -1,0 +1,149 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "auf der Arbeitsliste des WikiProjektes"
+      },
+      {
+        "language": "de",
+        "value": "WikiProjekt"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Wikimedia project focus list"
+      },
+      {
+        "language": "en",
+        "value": "has Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "focused on by Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "catalog of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "focus list"
+      },
+      {
+        "language": "en",
+        "value": "part of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "included in Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "created or edited for Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "created or edited as part of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "item created or edited for Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "item created or edited as part of Wikimedia project"
+      },
+      {
+        "language": "en",
+        "value": "WikiProject"
+      },
+      {
+        "language": "en",
+        "value": "focus of Wikimedia project"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P113$1DD054C7-B057-5A14-B928-5AC51E80B3FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P113$012F77E2-1A6F-5727-888E-7225F744AEFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P5008"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P5008"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "die Eigenschaft signalisiert, dass das Objekt auf einer Arbeitsliste eines Wikimedia-Projektes (WikiProjekt, Redaktion, Portal, etc.) enthalten ist.  Siehe auch P6104, P972, P2354"
+    },
+    "en": {
+      "language": "en",
+      "value": "property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354"
+    }
+  },
+  "id": "P113",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "auf der Arbeitsliste des Wikimedia-Projektes"
+    },
+    "en": {
+      "language": "en",
+      "value": "on focus list of Wikimedia project"
+    }
+  },
+  "type": "property"
+}

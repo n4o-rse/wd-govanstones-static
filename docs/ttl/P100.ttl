@@ -1,0 +1,174 @@
+# P100: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P100.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "ID of a node in OpenStreetMap for the item"@en,
+        "Knoten in OpenStreetMap für den Eintrag, der im Allgemeinen auf Wikidata zurückverlinkt"@de ;
+    dcterms:identifier "P100" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P100 ;
+    dcterms:title "OpenStreetMap node ID"@en,
+        "OpenStreetMap-Knotenkennung"@de ;
+    schema:about gvs:P100 ;
+    dcat:distribution gvsdist:P100-html,
+        gvsdist:P100-json,
+        gvsdist:P100-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P100.html> .
+
+gvsdist:P100-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P100, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P100.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P100-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P100, as archived from the Wikibase API"@en ;
+    dcat:byteSize "3902"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P100.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P100-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P100, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P100.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P100
+    a wikibase:Property ;
+    schema:description "ID of a node in OpenStreetMap for the item"@en,
+        "Knoten in OpenStreetMap für den Eintrag, der im Allgemeinen auf Wikidata zurückverlinkt"@de ;
+    schema:name "OpenStreetMap node ID"@en,
+        "OpenStreetMap-Knotenkennung"@de ;
+    wikibase:claim gvsp:P100 ;
+    wikibase:directClaim gvst:P100 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P100 ;
+    wikibase:propertyType wikibase:ExternalId ;
+    wikibase:qualifier gvspq:P100 ;
+    wikibase:qualifierValue gvspqv:P100 ;
+    wikibase:reference gvspr:P100 ;
+    wikibase:referenceValue gvsprv:P100 ;
+    wikibase:statementProperty gvsps:P100 ;
+    wikibase:statementValue gvspsv:P100 ;
+    wikibase:statements "3"^^xsd:integer ;
+    rdfs:label "OpenStreetMap node ID"@en,
+        "OpenStreetMap-Knotenkennung"@de ;
+    skos:altLabel "OSM node ID"@en,
+        "OSM point ID"@en,
+        "OSM-Knoten-ID"@de,
+        "OSM-Knoten-Kennung"@de,
+        "OSM-Knotenpunkt-ID"@de,
+        "OSM-Knotenpunkt-Kennung"@de,
+        "Open Street Map node ID"@en,
+        "OpenStreetMap-Knoten-ID"@de,
+        "OpenStreetMap-Knotenpunkt-ID"@de,
+        "OpenStreetMap-Knotenpunkt-Kennung"@de,
+        "node ID in OpenStreetMap"@en,
+        "point ID in OpenStreetMap"@en ;
+    skos:prefLabel "OpenStreetMap node ID"@en,
+        "OpenStreetMap-Knotenkennung"@de ;
+    gvsp:P2 gvss:P100-63E5F187-3A78-5437-B81F-2F9C9AD74469 ;
+    gvsp:P4 gvss:P100-81F95BFA-D0C7-5CFB-80B5-A41F8E63D5E6 ;
+    gvsp:P5 gvss:P100-2CECC377-DA17-540C-8B55-BCEE6DE00B2E ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P11693" ;
+    gvst:P5 "https://www.openstreetmap.org/node/$1" .
+
+gvss:P100-2CECC377-DA17-540C-8B55-BCEE6DE00B2E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:f0168ba1968df00e270f6fa633669b0217fab9b9 ;
+    gvsps:P5 "https://www.openstreetmap.org/node/$1" .
+
+gvss:P100-63E5F187-3A78-5437-B81F-2F9C9AD74469
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvss:P100-81F95BFA-D0C7-5CFB-80B5-A41F8E63D5E6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:f0168ba1968df00e270f6fa633669b0217fab9b9 ;
+    gvsps:P4 "P11693" .
+
+gvsref:f0168ba1968df00e270f6fa633669b0217fab9b9
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P11693> .
+
+gvsp:P100
+    a owl:ObjectProperty .
+
+gvst:P100
+    a owl:DatatypeProperty .
+
+gvspq:P100
+    a owl:DatatypeProperty .
+
+gvspqv:P100
+    a owl:ObjectProperty .
+
+gvspr:P100
+    a owl:DatatypeProperty .
+
+gvsprv:P100
+    a owl:ObjectProperty .
+
+gvsps:P100
+    a owl:DatatypeProperty .
+
+gvspsv:P100
+    a owl:ObjectProperty .
+
+gvsno:P100
+    a owl:Class ;
+    owl:complementOf _:4d9cf54cc8852a3ea922ce33197fe19d .
+
+_:4d9cf54cc8852a3ea922ce33197fe19d
+    a owl:Restriction ;
+    owl:onProperty gvst:P100 ;
+    owl:someValuesFrom owl:Thing .

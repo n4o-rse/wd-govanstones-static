@@ -1,0 +1,47 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Leichenstein"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "gravestone"
+      },
+      {
+        "language": "en",
+        "value": "headstone"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "bearbeiteter Naturstein, der auf Friedhöfen meist am Kopfende eines Grabes freistehend aufgestellt ist"
+    },
+    "en": {
+      "language": "en",
+      "value": "stele or marker, usually stone, that is placed over a grave"
+    }
+  },
+  "id": "Q203443",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Grabstein"
+    },
+    "en": {
+      "language": "en",
+      "value": "tombstone"
+    }
+  },
+  "lastrevid": 2567584157,
+  "modified": "2026-11-10T14:07:48Z",
+  "ns": 0,
+  "pageid": 199917,
+  "title": "Q203443",
+  "type": "item"
+}

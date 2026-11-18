@@ -1,0 +1,119 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Sarkophagus"
+      },
+      {
+        "language": "de",
+        "value": "Steinsarg"
+      },
+      {
+        "language": "de",
+        "value": "Steinsarkophag"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q154$939F7A0B-D23B-53C4-BC63-AD091E69CD61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q154$42D6333D-840A-5050-92DE-005B985EE102",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q154$62198BB5-4F2E-59D3-A15C-F64DD3B61570",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48634"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q48634"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Leichenbehälter, häufig aus Stein"
+    },
+    "en": {
+      "language": "en",
+      "value": "box-like funeral receptacle"
+    }
+  },
+  "id": "Q154",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sarkophag"
+    },
+    "en": {
+      "language": "en",
+      "value": "sarcophagus"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

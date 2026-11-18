@@ -1,0 +1,30 @@
+{
+  "aliases": {},
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "historischer Abschnitt der europäischen Geschichte (etwa 790–1090), in dem die Wikinger relevant waren"
+    },
+    "en": {
+      "language": "en",
+      "value": "the period of European history characterised by Viking raids and trading"
+    }
+  },
+  "id": "Q213649",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wikingerzeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Viking Age"
+    }
+  },
+  "lastrevid": 2567223957,
+  "modified": "2026-11-09T17:42:32Z",
+  "ns": 0,
+  "pageid": 209078,
+  "title": "Q213649",
+  "type": "item"
+}

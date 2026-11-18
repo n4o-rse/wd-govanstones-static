@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "worldwide release"
+      },
+      {
+        "language": "en",
+        "value": "global"
+      },
+      {
+        "language": "en",
+        "value": "globally"
+      },
+      {
+        "language": "en",
+        "value": "WW"
+      },
+      {
+        "language": "en",
+        "value": "Global"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q145$790ECAD1-EE5B-5882-81B1-95E87210DB95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q13780930"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q13780930"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Veröffentlichung ohne territoriale Beschränkung"
+    },
+    "en": {
+      "language": "en",
+      "value": "published or operating in multiple or all jurisdictions on Earth; special value for \"place of publication\" (P291) and \"operating area\" (P2541)"
+    }
+  },
+  "id": "Q145",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "weltweit"
+    },
+    "en": {
+      "language": "en",
+      "value": "worldwide"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

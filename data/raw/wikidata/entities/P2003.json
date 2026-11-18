@@ -1,0 +1,3981 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "اسم المستخدم في إنستاجرام"
+      },
+      {
+        "language": "ar",
+        "value": "اسم المستخدم في انستقرام"
+      },
+      {
+        "language": "ar",
+        "value": "اسم المستخدم في انستاجرام"
+      },
+      {
+        "language": "ar",
+        "value": "اسم المستخدم في انستغرام"
+      },
+      {
+        "language": "ar",
+        "value": "إنستغرام"
+      },
+      {
+        "language": "ar",
+        "value": "اسم المستخدم في إنستجرام"
+      },
+      {
+        "language": "ar",
+        "value": "اسم المستخدم في انستجرام"
+      },
+      {
+        "language": "ar",
+        "value": "انستجرام"
+      },
+      {
+        "language": "ar",
+        "value": "إنستجرام"
+      }
+    ],
+    "ast": [
+      {
+        "language": "ast",
+        "value": "usuariu d'Instagram"
+      }
+    ],
+    "az": [
+      {
+        "language": "az",
+        "value": "IG hesabı"
+      },
+      {
+        "language": "az",
+        "value": "IG istifadəçi adı"
+      },
+      {
+        "language": "az",
+        "value": "IG profili"
+      }
+    ],
+    "be": [
+      {
+        "language": "be",
+        "value": "Instagram"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "Instagram"
+      },
+      {
+        "language": "be-tarask",
+        "value": "профіль Instagram"
+      }
+    ],
+    "bn": [
+      {
+        "language": "bn",
+        "value": "ইন্সটাগ্রাম আইডি"
+      },
+      {
+        "language": "bn",
+        "value": "ইন্সটাগ্রাম অ্যাকাউন্ট"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Instagram"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "Instagram"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "Instagram"
+      }
+    ],
+    "da": [
+      {
+        "language": "da",
+        "value": "Instagram-konto"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "IG account"
+      },
+      {
+        "language": "en",
+        "value": "IG username"
+      },
+      {
+        "language": "en",
+        "value": "IG profile"
+      },
+      {
+        "language": "en",
+        "value": "Instagram"
+      },
+      {
+        "language": "en",
+        "value": "Insta ID"
+      },
+      {
+        "language": "en",
+        "value": "igram"
+      },
+      {
+        "language": "en",
+        "value": "urinsta"
+      },
+      {
+        "language": "en",
+        "value": "ufinsta"
+      },
+      {
+        "language": "en",
+        "value": "Instagram page"
+      },
+      {
+        "language": "en",
+        "value": "https://www.instagram.com"
+      },
+      {
+        "language": "en",
+        "value": "www.instagram.com"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "Instagram"
+      }
+    ],
+    "eo": [
+      {
+        "language": "eo",
+        "value": "Instagram"
+      },
+      {
+        "language": "eo",
+        "value": "Instagram-identigilo"
+      },
+      {
+        "language": "eo",
+        "value": "uzantonomo ĉe Instagram"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "cuenta de Instagram"
+      },
+      {
+        "language": "es",
+        "value": "usuario de Instagram"
+      },
+      {
+        "language": "es",
+        "value": "perfil de Instagram"
+      }
+    ],
+    "eu": [
+      {
+        "language": "eu",
+        "value": "Instagram"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Instagram"
+      },
+      {
+        "language": "fr",
+        "value": "identifiant IG"
+      },
+      {
+        "language": "fr",
+        "value": "compte Instagram"
+      },
+      {
+        "language": "fr",
+        "value": "compte IG"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "אינסטגרם"
+      },
+      {
+        "language": "he",
+        "value": "מזהה אינסטגרם"
+      }
+    ],
+    "id": [
+      {
+        "language": "id",
+        "value": "akun IG"
+      },
+      {
+        "language": "id",
+        "value": "akun Instagram"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Instagram"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "Instagram識別子"
+      },
+      {
+        "language": "ja",
+        "value": "Instagramのユーザー識別子"
+      },
+      {
+        "language": "ja",
+        "value": "インスタグラム識別子"
+      },
+      {
+        "language": "ja",
+        "value": "インスタグラムのユーザー識別子"
+      },
+      {
+        "language": "ja",
+        "value": "インスタグラムのユーザー名"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "인스타그램"
+      },
+      {
+        "language": "ko",
+        "value": "인스타그램 사용자이름"
+      },
+      {
+        "language": "ko",
+        "value": "인스타그램 계정이름"
+      },
+      {
+        "language": "ko",
+        "value": "인스타그램 유저이름"
+      },
+      {
+        "language": "ko",
+        "value": "인스타그램 아이디"
+      },
+      {
+        "language": "ko",
+        "value": "공식 인스타그램"
+      },
+      {
+        "language": "ko",
+        "value": "Instagram 계정명"
+      },
+      {
+        "language": "ko",
+        "value": "Instagram ID"
+      },
+      {
+        "language": "ko",
+        "value": "인스타그램 ID"
+      }
+    ],
+    "lt": [
+      {
+        "language": "lt",
+        "value": "„Instagram“ vartotojo vardas"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "akaun Instagram"
+      },
+      {
+        "language": "ms",
+        "value": "IG"
+      },
+      {
+        "language": "ms",
+        "value": "Instagram"
+      }
+    ],
+    "ms-arab": [
+      {
+        "language": "ms-arab",
+        "value": "اکاءون اينستاݢرم"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "insta"
+      },
+      {
+        "language": "nl",
+        "value": "instragram"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "Instagram"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "conta do Instagram"
+      },
+      {
+        "language": "pt",
+        "value": "nome de utilizador no Instagram"
+      },
+      {
+        "language": "pt",
+        "value": "Instagram"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "conta do Instagram"
+      }
+    ],
+    "ro": [
+      {
+        "language": "ro",
+        "value": "nume de utilizator IG"
+      },
+      {
+        "language": "ro",
+        "value": "Instagram"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "учётная запись в Инстаграме"
+      },
+      {
+        "language": "ru",
+        "value": "Инстаграм"
+      },
+      {
+        "language": "ru",
+        "value": "аккаунт в Инстаграме"
+      },
+      {
+        "language": "ru",
+        "value": "аккаунт в Instagram"
+      },
+      {
+        "language": "ru",
+        "value": "Instagram"
+      },
+      {
+        "language": "ru",
+        "value": "имя профиля в Instagram"
+      },
+      {
+        "language": "ru",
+        "value": "код в Инстаграме"
+      },
+      {
+        "language": "ru",
+        "value": "Instagram-аккаунт"
+      },
+      {
+        "language": "ru",
+        "value": "Инстаграм-аккаунт"
+      },
+      {
+        "language": "ru",
+        "value": "аккаунт Instagram"
+      }
+    ],
+    "se": [
+      {
+        "language": "se",
+        "value": "Instagram-dovddaldat"
+      },
+      {
+        "language": "se",
+        "value": "Instagram"
+      }
+    ],
+    "smn": [
+      {
+        "language": "smn",
+        "value": "Instagram"
+      }
+    ],
+    "sms": [
+      {
+        "language": "sms",
+        "value": "Instagram"
+      }
+    ],
+    "sq": [
+      {
+        "language": "sq",
+        "value": "nofka në Instagram"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "кориснички налог на Инстаграму"
+      }
+    ],
+    "sw": [
+      {
+        "language": "sw",
+        "value": "Instagram"
+      }
+    ],
+    "th": [
+      {
+        "language": "th",
+        "value": "ชื่อผู้ใช้อินสตาแกรม"
+      },
+      {
+        "language": "th",
+        "value": "ชื่อบัญชีผู้ใช้อินสตาแกรม"
+      },
+      {
+        "language": "th",
+        "value": "บัญชีอินสตาแกรม"
+      },
+      {
+        "language": "th",
+        "value": "ไอจี"
+      },
+      {
+        "language": "th",
+        "value": "บัญชีผู้ใช้อินสตาแกรม"
+      },
+      {
+        "language": "th",
+        "value": "อินสตาแกรม"
+      },
+      {
+        "language": "th",
+        "value": "ชื่อบัญชีโปรไฟล์อินสตาแกรม"
+      }
+    ],
+    "tl": [
+      {
+        "language": "tl",
+        "value": "Instagram username"
+      },
+      {
+        "language": "tl",
+        "value": "akawnt sa Instagram"
+      },
+      {
+        "language": "tl",
+        "value": "pangalan sa Instagram"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "IG kullanıcı adı"
+      },
+      {
+        "language": "tr",
+        "value": "IG hesabı"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Інстаграм"
+      }
+    ],
+    "yue": [
+      {
+        "language": "yue",
+        "value": "IG帳號"
+      },
+      {
+        "language": "yue",
+        "value": "IG用戶名稱"
+      },
+      {
+        "language": "yue",
+        "value": "IG用戶名"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "IG用戶名"
+      }
+    ],
+    "zh-cn": [
+      {
+        "language": "zh-cn",
+        "value": "IG用户名"
+      }
+    ],
+    "zh-hans": [
+      {
+        "language": "zh-hans",
+        "value": "IG用户名"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "IG使用者名稱"
+      }
+    ],
+    "zh-hk": [
+      {
+        "language": "zh-hk",
+        "value": "IG用戶名稱"
+      }
+    ],
+    "zh-tw": [
+      {
+        "language": "zh-tw",
+        "value": "IG使用者名稱"
+      },
+      {
+        "language": "zh-tw",
+        "value": "Instagram用戶名"
+      }
+    ]
+  },
+  "claims": {
+    "P10726": [
+      {
+        "id": "P2003$E356779A-02D5-4544-ABC1-9B996C18C626",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116153535",
+              "numeric-id": 116153535
+            }
+          },
+          "hash": "973d1c0f293fce55d9208e662d1409aef28fcfa3",
+          "property": "P10726",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P13353": [
+      {
+        "id": "P2003$c3bf9e30-4561-68a7-8adb-20e325e23108",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8687",
+              "numeric-id": 8687
+            }
+          },
+          "hash": "cb86a1d504eb71cee4152f43ef1bb787264a602c",
+          "property": "P13353",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$7d2e8098-42ef-333d-3fe1-09aee32b16f4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P11892",
+              "numeric-id": 11892
+            }
+          },
+          "hash": "5db4ebbdea2679436aea81e881db858677d92def",
+          "property": "P13353",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$8517954A-1B24-4B3F-8343-2DBBD011EB10",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P6553",
+              "numeric-id": 6553
+            }
+          },
+          "hash": "42ea16f7d695869545bfa3e4d510f188ed394c81",
+          "property": "P13353",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5102": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q110143752",
+                  "numeric-id": 110143752
+                }
+              },
+              "hash": "809cf28fcd0b08af5c4c734f45c7e806a6f5ebfd",
+              "property": "P5102",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q133157060",
+                  "numeric-id": 133157060
+                }
+              },
+              "hash": "fb9f204cefe8916301b8f05ea80e6621d59a49cb",
+              "property": "P5102",
+              "snaktype": "value"
+            }
+          ],
+          "P518": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q5",
+                  "numeric-id": 5
+                }
+              },
+              "hash": "37e06ecf61ede50075e3bce66edd8213bd385f66",
+              "property": "P518",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P518",
+          "P5102"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P13786": [
+      {
+        "id": "P2003$1af9c9cf-4928-5475-f4a8-7f064f3b6b42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "contact:instagram"
+          },
+          "hash": "3b97eb47fbb99a0804805938f626630960414b22",
+          "property": "P13786",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$809b90c1-40ed-e8f5-f5a1-49eb22a8cf47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "instagram"
+          },
+          "hash": "86ab6b136c6acf76c310e09c0c27021d8eb7b987",
+          "property": "P13786",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14692": [
+      {
+        "id": "P2003$E6EC1E12-B50D-49B5-800A-8618F81E557B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2403"
+          },
+          "hash": "99a2a0eb84bc8a2eca405d13fffab5c535aa02f8",
+          "property": "P14692",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$8B830CD3-31DF-4278-ACF0-A662838BF557",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7855"
+          },
+          "hash": "983975c0dfa1f4c856449cfb1006c9c5b77abe04",
+          "property": "P14692",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P2003$86b4b574-4eeb-d064-4f69-40d1b9889a5e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65676181",
+              "numeric-id": 65676181
+            }
+          },
+          "hash": "3ddacdec45e26f65fadaaa9173c87e54ba6daadc",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P2003$f45c40d1-4430-0f45-8017-5815ba437305",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.instagram.com/$1/"
+          },
+          "hash": "8bb5ccdcb18f49e432a39431f8561d7e8cb8edf9",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ],
+          "P7452": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q71538638",
+                  "numeric-id": 71538638
+                }
+              },
+              "hash": "6dda267e2e52fa175f8036ecbf44db9ebb4e1344",
+              "property": "P7452",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P7452"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$f49e979e-4e57-9a4c-740b-cfed21625669",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.instagram.com/_u/$1"
+          },
+          "hash": "b8dce40e6dfbf5c9c1b586e3ae1e35388b57c18e",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2241": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q45403344",
+                  "numeric-id": 45403344
+                }
+              },
+              "hash": "74bd46d0bbe97d05804856f1f73b6a7480c68cec",
+              "property": "P2241",
+              "snaktype": "value"
+            }
+          ],
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P2241"
+        ],
+        "rank": "deprecated",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$8201adf7-42d2-6812-4795-ad64505772e8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.threads.com/@$1"
+          },
+          "hash": "ed47ae433f556d4be95a80ff5e76e00eea2b4b86",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1659": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11892",
+                  "numeric-id": 11892
+                }
+              },
+              "hash": "0e4ef64be7a4d36885f6db0bc9bb584115db8517",
+              "property": "P1659",
+              "snaktype": "value"
+            }
+          ],
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ],
+          "P518": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q120281745",
+                  "numeric-id": 120281745
+                }
+              },
+              "hash": "5f8deff5255de207264b0d0e0d5d2ae9fe377d1f",
+              "property": "P518",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P518",
+          "P1659"
+        ],
+        "rank": "deprecated",
+        "type": "statement"
+      }
+    ],
+    "P1647": [
+      {
+        "id": "P2003$b2f998ab-4ebf-35bc-a7ed-87d1a2b2ea4a",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P554",
+              "numeric-id": 554
+            }
+          },
+          "hash": "280cec896ddeb1272a5be4dc5d1612ef0fd140c9",
+          "property": "P1647",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P2003$e59278e3-41a5-381f-6fde-22282a56e983",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P4173",
+              "numeric-id": 4173
+            }
+          },
+          "hash": "7510ca2fb5d8b8af800998d16006534be538b986",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$6c32f8ca-428f-a9dd-e067-6c6bbb8c691a",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P11036",
+              "numeric-id": 11036
+            }
+          },
+          "hash": "eee4d51d8b679d99d01723c0eb352006da62f613",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$0b500db6-4ce1-1733-e3b6-608fe31caeb4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P11892",
+              "numeric-id": 11892
+            }
+          },
+          "hash": "0e4ef64be7a4d36885f6db0bc9bb584115db8517",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$962bdff6-459e-0e98-4b8f-732c7a4d64e4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P12546",
+              "numeric-id": 12546
+            }
+          },
+          "hash": "12b94945966e1422fd908f4302ad0fefc8b6c8d5",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$71c4be48-207f-4bd5-b9c6-d800edda67c4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P15018",
+              "numeric-id": 15018
+            }
+          },
+          "hash": "67985249ee4a2e681cb29aa088839fbf5072d850",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P2003$8EDC56FD-6B50-4027-BDC2-FA8816F3AA47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30",
+              "numeric-id": 30
+            }
+          },
+          "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P2003$ea66a66a-4be0-0538-c258-933fb4893160",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "([0-9a-z_](?:(?:[0-9a-z_]|(?:\\.(?!\\.))){0,28}(?:[0-9a-z_]))?)"
+          },
+          "hash": "0006521e7b28dea68b9193aa46d9b88fb28d3a79",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P2003$BF8D38EA-F443-4E10-BB24-8890E32FB57E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "mul",
+              "text": "Instagram"
+            }
+          },
+          "hash": "c028bb68045a6229ec47cc33facd0965766eefbf",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P2003$c5eac352-4195-0be4-2979-1cbfbbe44d12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83287",
+              "numeric-id": 83287
+            }
+          },
+          "hash": "665bb406baba48fceecda6b5d343913ca6ff4177",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2003": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "selenagomez"
+              },
+              "hash": "a676efd63d4bea096490d40de26392517e9e1526",
+              "property": "P2003",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2003"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$4e36d4d4-4494-f1c5-fb3a-71e90f64924b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q383541",
+              "numeric-id": 383541
+            }
+          },
+          "hash": "728ba8d3d2d30fa3cac6fd342bcbd420cdfa59d4",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2003": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "basshunter_se"
+              },
+              "hash": "a4ab83718aaa157495a792e20a5fc3177047f10b",
+              "property": "P2003",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2003"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$0600846d-4fe1-6d12-2f55-93db01a001e9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9543",
+              "numeric-id": 9543
+            }
+          },
+          "hash": "f70b166e95ac724cdb35a244daa89ae4ac26b8d1",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2003": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "beingsalmankhan"
+              },
+              "hash": "d6f98606d907023506e601112f90044b96f3b1d6",
+              "property": "P2003",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2003"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$876805e6-4592-f525-e0b4-50a6ccde3f87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104833757",
+              "numeric-id": 104833757
+            }
+          },
+          "hash": "ab9805f866d203edc7dc3279841890c61499e161",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2003": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "bhutanredcross"
+              },
+              "hash": "2c5aed4c93917e341ad193f85d3ee61aa887022d",
+              "property": "P2003",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2003"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$bc083ef4-4f89-127b-d73d-2f4b0f719591",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23548",
+              "numeric-id": 23548
+            }
+          },
+          "hash": "0d520e737ace1a8a4f2826c0b1754e504e97c947",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2003": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "nasa"
+              },
+              "hash": "4c0db765ea2bda2d60b3a930f65a040bd2cc5824",
+              "property": "P2003",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2003"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$f5b0856a-4569-2b77-b1c0-491131a83a3a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122351689",
+              "numeric-id": 122351689
+            }
+          },
+          "hash": "c29d565994b8a404634b765822e38a632a6a23c2",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2003": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "filipposfragkogiannis"
+              },
+              "hash": "1aa3b1d4d988c8fd7ebd31e85add46aacc8541a6",
+              "property": "P2003",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2003"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P2003$a50aab25-42e3-a92e-348b-e74a1aca911a",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://instagram.com"
+          },
+          "hash": "20d8ed175e0a971d0909c36b5e9ff5208cab2076",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$5ae398ac-4a63-5676-bafa-a88ed1107787",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.instagram.com/directory/profiles/"
+          },
+          "hash": "72f73580003e1893481ce677353a1865a0e6b6e5",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P2003$50E015AE-0908-473E-8E5E-03A36E901B76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q5",
+                  "numeric-id": 5
+                }
+              },
+              "hash": "6507af56cd83ccb72044b460a8b439e1746afa1a",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q16334295",
+                  "numeric-id": 16334295
+                }
+              },
+              "hash": "205cc3b2ec25a33f3cdbb571b34f217b3a55ff3f",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q386724",
+                  "numeric-id": 386724
+                }
+              },
+              "hash": "9af68f91baa1d1a8ac07c73c690ab423ac4c82ff",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1190554",
+                  "numeric-id": 1190554
+                }
+              },
+              "hash": "6a7b5662a5f0c4fe6061101f47de05cf9959adb1",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q340169",
+                  "numeric-id": 340169
+                }
+              },
+              "hash": "deb0bcdb6507c837519bb9aa1b1a90564d115893",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q15617994",
+                  "numeric-id": 15617994
+                }
+              },
+              "hash": "746c480fa743854efeab8d1e7021f4d4dc3a0f2c",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q11012",
+                  "numeric-id": 11012
+                }
+              },
+              "hash": "0a9c9d44146ee65ecc5f5444a5daa261f95e9298",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q104921473",
+                  "numeric-id": 104921473
+                }
+              },
+              "hash": "a117afa5d53122296605422276520ece8ca395b3",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q102345381",
+                  "numeric-id": 102345381
+                }
+              },
+              "hash": "1419a411dd9b413103d0080f0b9bc1e197f34f78",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q26401003",
+                  "numeric-id": 26401003
+                }
+              },
+              "hash": "855fed169caedd7efa875f9ddcd7f1a0c387730d",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q15632617",
+                  "numeric-id": 15632617
+                }
+              },
+              "hash": "aaa4ca36e39bffbe807599129a464e9e17470d78",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q431289",
+                  "numeric-id": 431289
+                }
+              },
+              "hash": "4570e0df36c58437a15fec3e43360e39e3dc2eee",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q56061",
+                  "numeric-id": 56061
+                }
+              },
+              "hash": "a4bb3b22bc768191a4ed214c5b677b8137bc9199",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q4164871",
+                  "numeric-id": 4164871
+                }
+              },
+              "hash": "aa3c68251f0ff2ca2083cfdd6911a4253f32d825",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q95074",
+                  "numeric-id": 95074
+                }
+              },
+              "hash": "265ccfbd021a4e58e205b62e064241f92d425a71",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q170584",
+                  "numeric-id": 170584
+                }
+              },
+              "hash": "5f18bceeb4f1493873cc3e3c33e61f6b7b8050b7",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q79913",
+                  "numeric-id": 79913
+                }
+              },
+              "hash": "00fb4a8fa2e1877b9cd07cba907756a1781be15b",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q43229",
+                  "numeric-id": 43229
+                }
+              },
+              "hash": "dbcd1925f127866d6f4f74d9a41b0778ceaa3d38",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21503252",
+                  "numeric-id": 21503252
+                }
+              },
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q62026391",
+                  "numeric-id": 62026391
+                }
+              },
+              "hash": "0b5129f8885b62f5606bb8acf8d7c40022ac2f8e",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$0CE876A6-4AE3-4815-AE3A-E4CDE1CD074C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q209330",
+                  "numeric-id": 209330
+                }
+              },
+              "hash": "9facd23af68743148a036906e90bcca92f88b603",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P553",
+                  "numeric-id": 553
+                }
+              },
+              "hash": "f27be06bc45dbad918c2b46af4576271ce3877ca",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$14372CAA-4311-4E4D-B4C7-58B2F6AC7C19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12546",
+                  "numeric-id": 12546
+                }
+              },
+              "hash": "a986457c6d220b95ae94119c7af2c8a15f1c2220",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P554",
+                  "numeric-id": 554
+                }
+              },
+              "hash": "8cf6efd24e072818eff25f34b87afefbe95a1e2d",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P407",
+                  "numeric-id": 407
+                }
+              },
+              "hash": "cf63fd2fdfb652c09618d474a9230d5548d6194c",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P580",
+                  "numeric-id": 580
+                }
+              },
+              "hash": "4910ca558b9b0401e91b11626f400278702811bc",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P582",
+                  "numeric-id": 582
+                }
+              },
+              "hash": "0720109791ffbb5500cf5a98c698a3156563cb72",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1534",
+                  "numeric-id": 1534
+                }
+              },
+              "hash": "70877b0595c6b85cabb09815182a6a5e3a554615",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P3744",
+                  "numeric-id": 3744
+                }
+              },
+              "hash": "e248cc5ce0f49073fdca89b35d81c30bfd640ade",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P8687",
+                  "numeric-id": 8687
+                }
+              },
+              "hash": "149f8f60e9a1432270875ab3cb45bd3c08a92bf2",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P3740",
+                  "numeric-id": 3740
+                }
+              },
+              "hash": "d30a4cae15fa820d105fb277292b24a78b957a12",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1552",
+                  "numeric-id": 1552
+                }
+              },
+              "hash": "ec1d369d76751c2fd30266f83f43ec5d84338d46",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P6477",
+                  "numeric-id": 6477
+                }
+              },
+              "hash": "a99bed4ee1d42a588d10844486c8dcf54dfbb613",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P6954",
+                  "numeric-id": 6954
+                }
+              },
+              "hash": "acd6dea37e8aa576f04d95a3aec6f6d030e8814a",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1001",
+                  "numeric-id": 1001
+                }
+              },
+              "hash": "99d90ce0fab2899054cbe01102d695aa31d5a57e",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P518",
+                  "numeric-id": 518
+                }
+              },
+              "hash": "3efd1f494ba2c1ac4bdc572df5784d4cca879442",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P585",
+                  "numeric-id": 585
+                }
+              },
+              "hash": "a6be4e7a327c415e1c8d7d72c7fe6e7f784d4f57",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P5102",
+                  "numeric-id": 5102
+                }
+              },
+              "hash": "4f27f7745f35fa635bef15fe91d44e9cb46c6c00",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P805",
+                  "numeric-id": 805
+                }
+              },
+              "hash": "8fd4092aebb06b7e8d6cbb2cb58038a51c556076",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P3831",
+                  "numeric-id": 3831
+                }
+              },
+              "hash": "07140c61c8ce2da1772b95cd4ec3b24a1a611435",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P2868",
+                  "numeric-id": 2868
+                }
+              },
+              "hash": "e9d201c66ee3b56503552b09e71b04821729a694",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1810",
+                  "numeric-id": 1810
+                }
+              },
+              "hash": "d53aa6fc223b6091453ce5ea594132f378cc4994",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1932",
+                  "numeric-id": 1932
+                }
+              },
+              "hash": "838c15caf5c5c3f942465dec6b4b3e6745350c11",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P921",
+                  "numeric-id": 921
+                }
+              },
+              "hash": "9d994911fa77a3c20367a5db32c9860665d9f70c",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P366",
+                  "numeric-id": 366
+                }
+              },
+              "hash": "71013eb49b4eb9e589f7cd63489641c5c1440129",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1706",
+                  "numeric-id": 1706
+                }
+              },
+              "hash": "c9f606c2806a55e9ef9a1c11d317ba1fc396475f",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P4070",
+                  "numeric-id": 4070
+                }
+              },
+              "hash": "3714cf3609050f0517f81a4655cb1357da31bbd1",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1319",
+                  "numeric-id": 1319
+                }
+              },
+              "hash": "4d5ae67f4ec02fe631936d1a30f729254651e10e",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P8555",
+                  "numeric-id": 8555
+                }
+              },
+              "hash": "beb122180ebd95f0bc1a00967301dd81b899a65f",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P8554",
+                  "numeric-id": 8554
+                }
+              },
+              "hash": "749196703a56da61182d6793cc3e2dd961ce7823",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1326",
+                  "numeric-id": 1326
+                }
+              },
+              "hash": "27715681015ae0e055f4884c5ceac44b5882eaab",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1065",
+                  "numeric-id": 1065
+                }
+              },
+              "hash": "85ce10fe51a96222af9720071e7f0d223c4e6260",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P2960",
+                  "numeric-id": 2960
+                }
+              },
+              "hash": "e753f8d23e137efdeb12ba2a67aa13e2876526aa",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P2241",
+                  "numeric-id": 2241
+                }
+              },
+              "hash": "b7b2b2d31ff3460e580b1cbaa9444277a00ce47c",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P7452",
+                  "numeric-id": 7452
+                }
+              },
+              "hash": "6b2485e2c2137f3688fe0dbb8af91308de46b999",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P813",
+                  "numeric-id": 813
+                }
+              },
+              "hash": "775eb3b58039bf38b2fe478a953bb838d1d0342d",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "64da87999d875adffdbc47f657c1d9d937c341a4",
+            "snaks": {
+              "P2306": [
+                {
+                  "datatype": "wikibase-property",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "property",
+                      "id": "P4070",
+                      "numeric-id": 4070
+                    }
+                  },
+                  "hash": "3714cf3609050f0517f81a4655cb1357da31bbd1",
+                  "property": "P2306",
+                  "snaktype": "value"
+                }
+              ],
+              "P5997": [
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Q11507487&diff=prev&oldid=2283380835"
+                  },
+                  "hash": "6606fea87acd4fbc2c81d22e618f97b25fade447",
+                  "property": "P5997",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P2306",
+              "P5997"
+            ]
+          },
+          {
+            "hash": "f372fbed989d2fb4a35b14bee4107e6351b6cee9",
+            "snaks": {
+              "P2306": [
+                {
+                  "datatype": "wikibase-property",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "property",
+                      "id": "P1932",
+                      "numeric-id": 1932
+                    }
+                  },
+                  "hash": "838c15caf5c5c3f942465dec6b4b3e6745350c11",
+                  "property": "P2306",
+                  "snaktype": "value"
+                }
+              ],
+              "P5997": [
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Q1062689&diff=prev&oldid=2283589269"
+                  },
+                  "hash": "db89f7accd148034925ffc9bf37405b2b3b63281",
+                  "property": "P5997",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P2306",
+              "P5997"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P2003$41cd832f-477f-5bc5-e9ab-784f99b35808",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P4155": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P4070",
+                  "numeric-id": 4070
+                }
+              },
+              "hash": "4635b00936a85d47eb747a1635a49a6ad41da743",
+              "property": "P4155",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4155"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "64da87999d875adffdbc47f657c1d9d937c341a4",
+            "snaks": {
+              "P2306": [
+                {
+                  "datatype": "wikibase-property",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "property",
+                      "id": "P4070",
+                      "numeric-id": 4070
+                    }
+                  },
+                  "hash": "3714cf3609050f0517f81a4655cb1357da31bbd1",
+                  "property": "P2306",
+                  "snaktype": "value"
+                }
+              ],
+              "P5997": [
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Q11507487&diff=prev&oldid=2283380835"
+                  },
+                  "hash": "6606fea87acd4fbc2c81d22e618f97b25fade447",
+                  "property": "P5997",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P2306",
+              "P5997"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P2003$e3ded654-4108-ea88-e032-1e6d7b6fabcc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "57e0c059ce6c4f38e5ffd260c63684eb7c6e0e87",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$2ca1b405-4d52-5402-c849-206a1abb5735",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "(?!.*\\.\\.)(?!.*\\.$)[^\\W][\\w.]{0,29}"
+              },
+              "hash": "3ca849df805ffb410ab4c80419af48f5b014d5db",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q61788155",
+                  "numeric-id": 61788155
+                }
+              },
+              "hash": "f38de56d56caec4245eb61d5fcc14339a8cabb04",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2303"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5ea5db608b33eff0a5246618ce2609a5b7706f0b",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2020-04-30T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "f597dec80b34e0081bcbcd93f7fa592bbf0b0fc5",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://regexr.com/3cg7r"
+                  },
+                  "hash": "af7fb04f8281c678b92070945d08c9fd4db48ae6",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P2003$16116554-86D5-47FA-A3FF-CBF983A4EA75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q59712033",
+                  "numeric-id": 59712033
+                }
+              },
+              "hash": "26655a7e573da17226d4244ec74f59387afbf26c",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$e282b114-4426-651b-1663-9438dacb5c04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828449",
+                  "numeric-id": 54828449
+                }
+              },
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$a6847061-4740-1c3f-67f4-c897d42c604d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": ".{1,100}|"
+              },
+              "hash": "ce998c3fa0b73da5214eba854552d5060c082170",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2667": [
+      {
+        "id": "P2003$8f459120-4e46-64be-34f8-618ad7c40839",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13107244",
+              "numeric-id": 13107244
+            }
+          },
+          "hash": "438b6ae039fa2b13cdde067307aac9d63b60e2e4",
+          "property": "P2667",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P2003$20923dd6-4384-06ea-cb58-f9cfa2ae7575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24025284",
+              "numeric-id": 24025284
+            }
+          },
+          "hash": "4572c19310f5dffc3f60e540cd40fcf6ece10ef8",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$ddefe34f-4981-9932-c1bb-ff13e36b4e1d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611840",
+              "numeric-id": 23611840
+            }
+          },
+          "hash": "543f33af212bde6bc376f92acca2cc6404689d66",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P2003$cdf590e2-4b97-fcc5-a66f-7222f590667b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28511268",
+              "numeric-id": 28511268
+            }
+          },
+          "hash": "862d9284069ec064ee2b32aaa96647794d896a0a",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2910": [
+      {
+        "id": "P2003$b2eab784-416d-fb69-ec42-e245320186f2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Instagram logo 2016.svg"
+          },
+          "hash": "22feb22b81c3cf756a2ba31f3f73f38dae6b9cc2",
+          "property": "P2910",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$9d11af49-4b78-1c68-dc6b-963e5b21d996",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Instagram logo 2022.svg"
+          },
+          "hash": "3a61d70dffcfcc68588afd184d947adb3150aac6",
+          "property": "P2910",
+          "snaktype": "value"
+        },
+        "rank": "preferred",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P2003$6f8d70b6-434d-d3d8-cd9f-ebe4d219c93a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105388954",
+              "numeric-id": 105388954
+            }
+          },
+          "hash": "0e89ff7d21b4427fc1234d0da9ea18ae3e9f5432",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$dd1527b8-42de-fe09-4be0-961fd202da8c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P2003$9DBE68A4-2D44-4A43-B667-8A141299EBB7",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/32#P2003"
+          },
+          "hash": "bfff69c51214552f282857617ecae9c524bd5419",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3303": [
+      {
+        "id": "P2003$daa96589-467f-be1a-2000-457c3ce03a58",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://unavatar.now.sh/instagram/$1"
+          },
+          "hash": "98e03508499912ab888e0f638be14a89d5217d4a",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2701": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1572121",
+                  "numeric-id": 1572121
+                }
+              },
+              "hash": "2d4f30732ea60dc33ea521fa6d4a11461f1a3c5f",
+              "property": "P2701",
+              "snaktype": "value"
+            }
+          ],
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2701",
+          "P407"
+        ],
+        "rank": "deprecated",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$5e8d5993-4b72-8aac-b19f-82e5e82eecd8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://imginn.com/$1"
+          },
+          "hash": "6f4d28d69ac6de2c152641cb228273dbd814fffa",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P2003$2bb4c994-48d5-b63d-ed6d-e80086534e7f",
+        "mainsnak": {
+          "datatype": "string",
+          "hash": "4af38e37263da7fdea0902f7ab278dc76c259e05",
+          "property": "P4354",
+          "snaktype": "novalue"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P2003$c4b96eba-452f-e367-9cb9-fb3bd0e221a6",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?instagram\\.com\\/(?!(?:explore|p|accounts)\\/)([^\\/?]+)"
+          },
+          "hash": "91d63230c3a3e5194833187ddaff6f9c9e369d2a",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10999": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "^(.+)\\s\\(@[^\\)]+\\)\\s•\\sInstagram photos and videos$"
+              },
+              "hash": "37bb19f647a0e0bd69bfad0fceb79693a436ec6c",
+              "property": "P10999",
+              "snaktype": "value"
+            }
+          ],
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "instagram.com"
+              },
+              "hash": "d7c3011530e90e7a0d101c459c3500a6270f5ed7",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ],
+          "P8967": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "\\1"
+              },
+              "hash": "afb1af0a2d83b3d2935f68626a6ac016c9f1f7bd",
+              "property": "P8967",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P8967",
+          "P10999",
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2003$1e9b6b3b-4806-1dfe-e194-28afb6147b4d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?instagram\\.com\\/accounts\\/login\\/\\?next=(?:https?%3A%2F%2F(?:www\\.)?instagram\\.com)?%2F([^\\/?%&]+)"
+          },
+          "hash": "b895aa453eb814fc52a20733faa4b1518d4abbac",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "instagram.com"
+              },
+              "hash": "d7c3011530e90e7a0d101c459c3500a6270f5ed7",
+              "property": "P13337",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "www.instagram.com"
+              },
+              "hash": "792f9119fa85dc3b8f45e380c704e88b5f2d7729",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P2003$5e8af8c8-4e98-e6f5-1337-ececd0facc2a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q209330",
+              "numeric-id": 209330
+            }
+          },
+          "hash": "9d73c84eafcc930baa99f01f34b3ae2e258c0206",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "acm": {
+      "language": "acm",
+      "value": "اسم اليوزر على الانستگرام و ثريدز"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "اسم مستخدم الموضوع على إنستغرام"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "назва ўліковага запісу ў Instagram"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইন্সটাগ্রামে আইটেমের ব্যবহারকারী নাম"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "nom d'usuari de l'ítem a Instagram"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "uživatelské jméno na sociální síti Instagram"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "enw'r defnyddiwr ar Instagram"
+    },
+    "da": {
+      "language": "da",
+      "value": "emnets brugernavn på Instagram"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "ŋun su Instagram binyara yuli"
+    },
+    "de": {
+      "language": "de",
+      "value": "Name des Instagram-Kontos eines Projekts bzw. einer Person"
+    },
+    "el": {
+      "language": "el",
+      "value": "όνομα χρήστη του αντικειμένου στον ιστότοπο της Instagram"
+    },
+    "en": {
+      "language": "en",
+      "value": "item's username on Instagram"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "item's username on Instagram"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "item's username on Instagram"
+    },
+    "es": {
+      "language": "es",
+      "value": "nombre de usuario en Instagram"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "el nombri d'usuariu n'Instagram"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نام کاربری موضوع در اینستاگرام"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "tämän kohteen käyttäjänimi Instagramissa"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "brúkaranavnið hjá viðkomandi á Instagram"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant pour une personne ou une organisation sur Instagram"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nome de usuario en Instagram"
+    },
+    "he": {
+      "language": "he",
+      "value": "שם המשתמש של הפריט באינסטגרם"
+    },
+    "id": {
+      "language": "id",
+      "value": "nama pengguna dari suatu butir di Instagram"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "aha njirimara ihe na Instagram"
+    },
+    "it": {
+      "language": "it",
+      "value": "nome utente su Instagram"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Instagramのユーザー名を記すための項目、https://www.instagram.com/に続く値"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Instagram әлеуметтік желісіндегі парағының аты"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목 주제의 인스타그램 계정명"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഇൻസ്റ്റഗ്രാമിൽ ഉപയോഗിക്കുന്ന പേര്"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "nama pengguna item di Instagram"
+    },
+    "ms-arab": {
+      "language": "ms-arab",
+      "value": "نام ڤڠݢونا اءيتم دأينستاݢرم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "objektets brukernavn på Instagram"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "gebruikersnaam van deze entiteit op Instagram"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "nazwa oficjalnego konta osoby lub instytucji w serwisie Instagram"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "د سکالو انسټاګرام کارننوم"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nome da conta do item no Instagram"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "nome de usuário do item no Instagram"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "nume de utilizator al item-ului pe Instagram"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "имя аккаунта персоны в Instagram"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱥᱟᱛᱟᱢ ᱟᱜ ᱤᱱᱥᱴᱟᱜᱽᱨᱟᱢ ᱟᱭ.ᱰᱤ"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "корисничко име на Инстаграму"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "корисничко име ставке на Инстаграму"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "objektets användarnamn på Instagram"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "ang pangalan ng tagagamit sa Instagram"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Instagram'daki bir hesabın kullanıcı adı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "назва облікового запису особи в Instagram"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Instagramdagi elementning foydalanuvchi nomi"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "喺Instagram上嘅帳號"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "此项在Instagram上的用户名"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "此项在Instagram上的用户名"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "此项在Instagram上的用户名"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "此項在Instagram上的使用者名稱"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "此項在Instagram上的用戶名"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "此項在Instagram上的用戶名"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "此项在Instagram的用户名"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "此项在Instagram上的用户名"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "此項在Instagram上的使用者名稱"
+    }
+  },
+  "id": "P2003",
+  "labels": {
+    "acm": {
+      "language": "acm",
+      "value": "يوزر الانستگرام"
+    },
+    "af": {
+      "language": "af",
+      "value": "Instagram"
+    },
+    "ak": {
+      "language": "ak",
+      "value": "Instagram ŋun su yuli"
+    },
+    "an": {
+      "language": "an",
+      "value": "Instagram"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "اسم المستخدم في إنستغرام"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اسم اليوزر فى انستجرام"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "nome d'usuariu d'Instagram"
+    },
+    "az": {
+      "language": "az",
+      "value": "Instagram istifadəçi adı"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Instagramдағы иҫәп яҙмаһы"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Instagram"
+    },
+    "be": {
+      "language": "be",
+      "value": "уліковы запіс у Instagram"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "уліковы запіс Instagram"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইন্সটাগ্রাম ব্যবহারকারী নাম"
+    },
+    "br": {
+      "language": "br",
+      "value": "anaouder Instagram"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "korisničko ime na Instagramu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "nom d'usuari d'Instagram"
+    },
+    "co": {
+      "language": "co",
+      "value": "Instagram"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "jméno na Instagramu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "enw defnyddiwr Instagram"
+    },
+    "da": {
+      "language": "da",
+      "value": "Instagram-brugernavn"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Instagram  ŋun su yuli"
+    },
+    "de": {
+      "language": "de",
+      "value": "Instagram-Benutzername"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Instagram"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Instagram"
+    },
+    "din": {
+      "language": "din",
+      "value": "rinke raan lui në Instagram"
+    },
+    "el": {
+      "language": "el",
+      "value": "όνομα χρήστη Instagram"
+    },
+    "en": {
+      "language": "en",
+      "value": "Instagram username"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Instagram username"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Instagram username"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Instagram-uzantonomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "nombre de usuario de Instagram"
+    },
+    "et": {
+      "language": "et",
+      "value": "Instagram"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Instagrameko erabiltzaile izena"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "nombri d'usuariu n'Instagram"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نشانی اینستاگرام"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Instagram-käyttäjänimi"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Instagram brúkaranavn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Instagram d'un profil"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Instagram"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Instagram"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ainm úsáideora Instagram"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Instagram"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nome de usuario de Instagram"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Instagram"
+    },
+    "he": {
+      "language": "he",
+      "value": "שם משתמש באינסטגרם"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "Instagram सदस्यनाम"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "korisničko ime na Instagramu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Instagram-felhasználónév"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Instagram"
+    },
+    "id": {
+      "language": "id",
+      "value": "nama pengguna Instagram"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Instagram"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Aha njirimara Instagram"
+    },
+    "io": {
+      "language": "io",
+      "value": "Instagram"
+    },
+    "is": {
+      "language": "is",
+      "value": "Instagram-notandanafn"
+    },
+    "it": {
+      "language": "it",
+      "value": "nome utente Instagram"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Instagramユーザー名"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Instagram"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Instagram қолданушы аты"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "인스타그램 계정명"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Instagram-Benotzernumm"
+    },
+    "li": {
+      "language": "li",
+      "value": "Instagram"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Instagram"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "„Instagram“ naudotojo vardas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Instagram lietotājvārds"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Instagram"
+    },
+    "min": {
+      "language": "min",
+      "value": "Instagram"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "корисничко име на Инстаграм"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഇൻസ്റ്റഗ്രാം ഉപയോക്തൃനാമം"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "nama pengguna Instagram"
+    },
+    "ms-arab": {
+      "language": "ms-arab",
+      "value": "نام ڤڠݢونا اينستاݢرم"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "اینستاگرام اکانت"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Instagram"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Instagram-brukernavn"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Instagram"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Instagram"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Instagram-gebruikersnaam"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Instagram-brukarnamn"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Instagram"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Instagram"
+    },
+    "or": {
+      "language": "or",
+      "value": "ଇନ୍ଟାଗ୍ରାମ ବ୍ୟବହାରକାରୀ ନାମ"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Instagram"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "nazwa użytkownika na Instagramie"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Instagram"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "انسټاګرام کارننوم"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nome do perfil no Instagram"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "nome de usuário no Instagram"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Instagram"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "nume de utilizator Instagram"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "учётная запись в Instagram"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱤᱱᱥᱴᱟᱜᱽᱨᱟᱢ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩ‌ᱢ"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Instagram"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Instagram"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Instagram"
+    },
+    "se": {
+      "language": "se",
+      "value": "Instagram-geavaheaddjinamma"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Instagram"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Instagram"
+    },
+    "smn": {
+      "language": "smn",
+      "value": "Instagram-kevtteenommâ"
+    },
+    "sms": {
+      "language": "sms",
+      "value": "Instagram-õõʹnninõmm"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "emri në Instagram"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Инстаграм"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Инстаграм"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Instagram"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Instagramkonto"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Instagram"
+    },
+    "syl": {
+      "language": "syl",
+      "value": "ꠁꠘ꠆ꠍꠐꠣꠉꠦꠞꠣꠝ ꠁꠃꠎꠣꠞꠘꠣꠝ"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இன்ஸ்ட்டாகிராம் பயனர் பெயர்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "номи корбар дар Instagram"
+    },
+    "th": {
+      "language": "th",
+      "value": "บัญชีโปรไฟล์อินสตาแกรม"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "pangalan ng tagagamit sa Instagram"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Instagram kullanıcı adı"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Instagram хисап язмасы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "обліковий запис в Instagram"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "انسٹا گرام صارف نام"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Instagram foydalanuvchi nomi"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID instagram"
+    },
+    "vep": {
+      "language": "vep",
+      "value": "profil' Instagram:as"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "tên người dùng Instagram"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Instagram"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Instagram"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Instagram"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Instagram"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "Instagram-იშ მახვარებუშ ჯოხო"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "Instagram帳號"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "Instagram用户名"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "Instagram用户名"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "Instagram用户名"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "Instagram使用者名稱"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "Instagram用戶名稱"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "Instagram用戶名"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "Instagram用户名"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "Instagram用户名"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "Instagram使用者名稱"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Instagram"
+    }
+  },
+  "lastrevid": 2569288338,
+  "modified": "2026-11-14T17:31:55Z",
+  "ns": 120,
+  "pageid": 22470555,
+  "title": "Property:P2003",
+  "type": "property"
+}

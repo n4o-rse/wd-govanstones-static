@@ -1,0 +1,228 @@
+# Q114: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/Q114.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "early medieval sculpted stone sarcophagus at Govan Old Parish Church, Glasgow, Scotland (Govan 1 in Stirling Maxwell's numbering, ECMS 1)"@en ;
+    dcterms:identifier "Q114" ;
+    dcterms:isPartOf gvscat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:Q114 ;
+    dcterms:title "Govan Stone 01 (Sarcophagus)"@en ;
+    schema:about gvs:Q114 ;
+    dcat:distribution gvsdist:Q114-html,
+        gvsdist:Q114-json,
+        gvsdist:Q114-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/Q114.html> .
+
+gvsdist:Q114-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q114, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/Q114.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:Q114-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q114, as archived from the Wikibase API"@en ;
+    dcat:byteSize "27853"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/Q114.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:Q114-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q114, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:Q114.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:Q114
+    a wikibase:Item ;
+    schema:description "early medieval sculpted stone sarcophagus at Govan Old Parish Church, Glasgow, Scotland (Govan 1 in Stirling Maxwell's numbering, ECMS 1)"@en ;
+    schema:name "Govan Stone 01 (Sarcophagus)"@en ;
+    wikibase:identifiers "2"^^xsd:integer ;
+    wikibase:statements "13"^^xsd:integer ;
+    rdfs:label "Govan Stone 01 (Sarcophagus)"@en ;
+    skos:altLabel "Govan 1"@en,
+        "Govan Sarcophagus"@en,
+        "Govan Stone 1"@en,
+        "The Govan Sarcophagus"@en ;
+    skos:prefLabel "Govan Stone 01 (Sarcophagus)"@en ;
+    gvsp:P2 gvss:Q114-06A28D6E-1671-578D-9BD2-48E22BC3AA6F,
+        gvss:Q114-A56A7476-1D24-5046-88B7-615822176344 ;
+    gvsp:P4 gvss:Q114-23F04B44-E922-5270-A677-BA2BB5343BC1 ;
+    gvsp:P101 gvss:Q114-96AEAE56-E22F-54B9-B71A-EEAF185D8CDC ;
+    gvsp:P103 gvss:Q114-986E3C75-7A77-51F7-8B41-B2379DDC960E ;
+    gvsp:P110 gvss:Q114-E2D4EACA-6795-5AFB-96DC-ABF50EEC0DCC ;
+    gvsp:P111 gvss:Q114-2E07F755-FF68-59BD-BEAE-158BEA3ACE41 ;
+    gvsp:P113 gvss:Q114-33644B1D-F9DA-59D5-BBCA-FBA036D02E20 ;
+    gvsp:P123 gvss:Q114-00F704C6-7D00-5D4C-BA90-07224CD89E29 ;
+    gvsp:P125 gvss:Q114-9C63590F-DB7D-5A51-9C01-0FD62836741B ;
+    gvsp:P126 gvss:Q114-24CB231D-E739-5515-9A01-92910C942DFE ;
+    gvsp:P127 gvss:Q114-AB80FAAB-0158-526D-A204-357FA976645A ;
+    gvsp:P129 gvss:Q114-AEF866CF-B643-5BAE-992C-0D681FD5D72A ;
+    gvst:P2 gvs:Q109,
+        gvs:Q154 ;
+    gvst:P4 "Q141961820" ;
+    gvst:P101 gvs:Q149 ;
+    gvst:P103 gvs:Q104 ;
+    gvst:P110 gvs:Q107 ;
+    gvst:P111 gvs:Q100 ;
+    gvst:P113 gvs:Q112 ;
+    gvst:P123 gvs:Q147 ;
+    gvst:P125 <https://sketchfab.com/3d-models/the-govan-sarcophagus-govan-1-985f3fbd7ded40e3b0f376f131da1df2> ;
+    gvst:P126 "985f3fbd7ded40e3b0f376f131da1df2" ;
+    gvst:P127 gvs:Q100 ;
+    gvst:P129 "1" .
+
+gvss:Q114-00F704C6-7D00-5D4C-BA90-07224CD89E29
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P123 gvs:Q147 .
+
+gvss:Q114-2E07F755-FF68-59BD-BEAE-158BEA3ACE41
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P111 gvs:Q100 .
+
+gvss:Q114-06A28D6E-1671-578D-9BD2-48E22BC3AA6F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P2 gvs:Q109 .
+
+gvss:Q114-9C63590F-DB7D-5A51-9C01-0FD62836741B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P125 <https://sketchfab.com/3d-models/the-govan-sarcophagus-govan-1-985f3fbd7ded40e3b0f376f131da1df2> .
+
+gvss:Q114-23F04B44-E922-5270-A677-BA2BB5343BC1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:f1614bff26716796fd7fa382a6e3088ffaa7d2eb ;
+    gvsps:P4 "Q141961820" .
+
+gvss:Q114-24CB231D-E739-5515-9A01-92910C942DFE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P126 "985f3fbd7ded40e3b0f376f131da1df2" .
+
+gvss:Q114-96AEAE56-E22F-54B9-B71A-EEAF185D8CDC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P101 gvs:Q149 .
+
+gvss:Q114-986E3C75-7A77-51F7-8B41-B2379DDC960E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P103 gvs:Q104 .
+
+gvss:Q114-33644B1D-F9DA-59D5-BBCA-FBA036D02E20
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P113 gvs:Q112 .
+
+gvss:Q114-A56A7476-1D24-5046-88B7-615822176344
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P2 gvs:Q154 .
+
+gvss:Q114-AB80FAAB-0158-526D-A204-357FA976645A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P127 gvs:Q100 .
+
+gvss:Q114-AEF866CF-B643-5BAE-992C-0D681FD5D72A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:8b685381b025088faae3f44a88fd20e40002c5c4,
+        gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvspq:P130 gvs:Q152 ;
+    gvsps:P129 "1" .
+
+gvss:Q114-E2D4EACA-6795-5AFB-96DC-ABF50EEC0DCC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:6217ae9c95ca75e9012975ef84e02f523f963903 ;
+    gvsps:P110 gvs:Q107 .
+
+gvsref:8b685381b025088faae3f44a88fd20e40002c5c4
+    a wikibase:Reference ;
+    gvspr:P6 <https://theses.gla.ac.uk/74266/> .
+
+gvsref:6217ae9c95ca75e9012975ef84e02f523f963903
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Q141961820> ;
+    gvspr:P7 "2026-11-01T00:00:00Z"^^xsd:dateTime ;
+    gvspr:P8 gvs:Q101 ;
+    gvsprv:P7 gvsv:d50e81492aced0c14aea2683f932caf1 .
+
+gvsref:f1614bff26716796fd7fa382a6e3088ffaa7d2eb
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Q141961820> .
+
+gvsv:d50e81492aced0c14aea2683f932caf1
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> ;
+    wikibase:timePrecision "11"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "2026-11-01T00:00:00Z"^^xsd:dateTime .

@@ -1,8 +1,19 @@
-# The Govan Stones: the items that the WikiProject GovanStones (Q141962030) maintains (P6104, "maintained by WikiProject").
-# The verb seeds-from-sparql runs this query at query.wikidata.org; the kind of every seed is "govanstones" (the name of this file).
-# If the answer is empty, the stones are not marked with P6104 yet: list their ids in wikidata-qids.txt instead (or as well).
-SELECT DISTINCT ?item ?itemLabel WHERE {
-  ?item wdt:P6104 wd:Q141962030 .
+# The Govan Stones: the collection item "The Govan Stones" (Q42887850) and the stones that are parts of it.
+# The first run (2026-11-18) showed that the WikiProject query (P6104 = Q141962030) finds only the collection itself, and that the
+# collection lists its stones with "has part(s)" (P527); "part of" (P361) is taken as well, in case a stone only says so itself.
+# The verb seeds-from-sparql runs this query at query.wikidata.org; ?kind becomes the column "kind" of the seed list.
+# More stones that these two lines do not reach go into wikidata-qids.txt.
+SELECT DISTINCT ?item ?itemLabel ?kind WHERE {
+  {
+    BIND(wd:Q42887850 AS ?item)
+    BIND("collection" AS ?kind)
+  } UNION {
+    wd:Q42887850 wdt:P527 ?item .
+    BIND("stone" AS ?kind)
+  } UNION {
+    ?item wdt:P361 wd:Q42887850 .
+    BIND("stone" AS ?kind)
+  }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,de,mul". }
 }
 ORDER BY ?item

@@ -1,0 +1,164 @@
+# P122: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P122.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "identifier for places on the Atlas Obscura website"@en ;
+    dcterms:identifier "P122" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P122 ;
+    dcterms:title "Atlas Obscura place ID"@en,
+        "Atlas-Obscura-Kennung"@de ;
+    schema:about gvs:P122 ;
+    dcat:distribution gvsdist:P122-html,
+        gvsdist:P122-json,
+        gvsdist:P122-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P122.html> .
+
+gvsdist:P122-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P122, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P122.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P122-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P122, as archived from the Wikibase API"@en ;
+    dcat:byteSize "3055"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P122.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P122-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P122, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P122.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P122
+    a wikibase:Property ;
+    schema:description "identifier for places on the Atlas Obscura website"@en ;
+    schema:name "Atlas Obscura place ID"@en,
+        "Atlas-Obscura-Kennung"@de ;
+    wikibase:claim gvsp:P122 ;
+    wikibase:directClaim gvst:P122 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P122 ;
+    wikibase:propertyType wikibase:ExternalId ;
+    wikibase:qualifier gvspq:P122 ;
+    wikibase:qualifierValue gvspqv:P122 ;
+    wikibase:reference gvspr:P122 ;
+    wikibase:referenceValue gvsprv:P122 ;
+    wikibase:statementProperty gvsps:P122 ;
+    wikibase:statementValue gvspsv:P122 ;
+    wikibase:statements "3"^^xsd:integer ;
+    rdfs:label "Atlas Obscura place ID"@en,
+        "Atlas-Obscura-Kennung"@de ;
+    skos:altLabel "AO ID"@en,
+        "Atlas Obscura identifier"@en,
+        "atlasobscura.com ID"@en,
+        "atlasobscura.com identifier"@en ;
+    skos:prefLabel "Atlas Obscura place ID"@en,
+        "Atlas-Obscura-Kennung"@de ;
+    gvsp:P2 gvss:P122-F92998F1-BD1B-5751-8ABE-6AEBAC9C2264 ;
+    gvsp:P4 gvss:P122-A044A039-9936-5930-95C1-3E3E8D7A09DD ;
+    gvsp:P5 gvss:P122-352805F3-518D-5D5E-AC11-B410EADD843E ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P7772" ;
+    gvst:P5 "https://www.atlasobscura.com/places/$1" .
+
+gvss:P122-352805F3-518D-5D5E-AC11-B410EADD843E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:3aa3c3c3df2611d187725ebce67196cd83d76fb6 ;
+    gvsps:P5 "https://www.atlasobscura.com/places/$1" .
+
+gvss:P122-A044A039-9936-5930-95C1-3E3E8D7A09DD
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:3aa3c3c3df2611d187725ebce67196cd83d76fb6 ;
+    gvsps:P4 "P7772" .
+
+gvss:P122-F92998F1-BD1B-5751-8ABE-6AEBAC9C2264
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvsref:3aa3c3c3df2611d187725ebce67196cd83d76fb6
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P7772> .
+
+gvsp:P122
+    a owl:ObjectProperty .
+
+gvst:P122
+    a owl:DatatypeProperty .
+
+gvspq:P122
+    a owl:DatatypeProperty .
+
+gvspqv:P122
+    a owl:ObjectProperty .
+
+gvspr:P122
+    a owl:DatatypeProperty .
+
+gvsprv:P122
+    a owl:ObjectProperty .
+
+gvsps:P122
+    a owl:DatatypeProperty .
+
+gvspsv:P122
+    a owl:ObjectProperty .
+
+gvsno:P122
+    a owl:Class ;
+    owl:complementOf _:4d08a8307d3dbf609a6f2a1273e5a1a6 .
+
+_:4d08a8307d3dbf609a6f2a1273e5a1a6
+    a owl:Restriction ;
+    owl:onProperty gvst:P122 ;
+    owl:someValuesFrom owl:Thing .

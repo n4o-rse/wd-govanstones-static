@@ -1,0 +1,175 @@
+# P108: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P108.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "das Subjekt der Aussage hat mindestens eine Instanz der Objektklasse als Bestandteil"@de,
+        "the subject has one or more parts of the object class"@en ;
+    dcterms:identifier "P108" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P108 ;
+    dcterms:title "enthält Elemente von"@de,
+        "has part(s) of the class"@en ;
+    schema:about gvs:P108 ;
+    dcat:distribution gvsdist:P108-html,
+        gvsdist:P108-json,
+        gvsdist:P108-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P108.html> .
+
+gvsdist:P108-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P108, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P108.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P108-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P108, as archived from the Wikibase API"@en ;
+    dcat:byteSize "3795"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P108.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P108-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P108, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P108.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P108
+    a wikibase:Property ;
+    schema:description "das Subjekt der Aussage hat mindestens eine Instanz der Objektklasse als Bestandteil"@de,
+        "the subject has one or more parts of the object class"@en ;
+    schema:name "enthält Elemente von"@de,
+        "has part(s) of the class"@en ;
+    wikibase:claim gvsp:P108 ;
+    wikibase:directClaim gvst:P108 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P108 ;
+    wikibase:propertyType wikibase:WikibaseItem ;
+    wikibase:qualifier gvspq:P108 ;
+    wikibase:qualifierValue gvspqv:P108 ;
+    wikibase:reference gvspr:P108 ;
+    wikibase:referenceValue gvsprv:P108 ;
+    wikibase:statementProperty gvsps:P108 ;
+    wikibase:statementValue gvspsv:P108 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "enthält Elemente von"@de,
+        "has part(s) of the class"@en ;
+    skos:altLabel "Gruppe von"@de,
+        "Klasse von"@de,
+        "Menge von"@de,
+        "beinhaltet"@de,
+        "besteht aus Elementen von"@de,
+        "besteht aus Instanzen von"@de,
+        "constitutent(s) are classified as"@en,
+        "enthält Instanzen von"@de,
+        "has component type"@en,
+        "has component type(s)"@en,
+        "has component types"@en,
+        "has members of the class"@en,
+        "has part of class"@en,
+        "has part of the class"@en,
+        "has part(s) forming subclass of"@en,
+        "has parts of class"@en,
+        "has parts of the class"@en,
+        "hat Bestandteile aus Klasse"@de,
+        "part of class"@en,
+        "part of the class"@en,
+        "parts of class"@en,
+        "parts of the class"@en ;
+    skos:prefLabel "enthält Elemente von"@de,
+        "has part(s) of the class"@en ;
+    gvsp:P2 gvss:P108-CEB56953-624B-550E-A8F5-941BF8EB1259 ;
+    gvsp:P4 gvss:P108-CB64F5EB-0CA9-5820-B308-6BCDAAFF6ECF ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P2670" .
+
+gvss:P108-CB64F5EB-0CA9-5820-B308-6BCDAAFF6ECF
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:3952c37db4caffb8a36b92cebd4629674dfb6ef2 ;
+    gvsps:P4 "P2670" .
+
+gvss:P108-CEB56953-624B-550E-A8F5-941BF8EB1259
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvsref:3952c37db4caffb8a36b92cebd4629674dfb6ef2
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P2670> .
+
+gvsp:P108
+    a owl:ObjectProperty .
+
+gvst:P108
+    a owl:ObjectProperty .
+
+gvspq:P108
+    a owl:ObjectProperty .
+
+gvspqv:P108
+    a owl:ObjectProperty .
+
+gvspr:P108
+    a owl:ObjectProperty .
+
+gvsprv:P108
+    a owl:ObjectProperty .
+
+gvsps:P108
+    a owl:ObjectProperty .
+
+gvspsv:P108
+    a owl:ObjectProperty .
+
+gvsno:P108
+    a owl:Class ;
+    owl:complementOf _:fc8834d308b699c987c94de6829250af .
+
+_:fc8834d308b699c987c94de6829250af
+    a owl:Restriction ;
+    owl:onProperty gvst:P108 ;
+    owl:someValuesFrom owl:Thing .

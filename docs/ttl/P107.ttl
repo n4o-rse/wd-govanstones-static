@@ -1,0 +1,173 @@
+# P107: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P107.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Name des Instagram-Kontos eines Projekts bzw. einer Person"@de,
+        "item's username on Instagram"@en ;
+    dcterms:identifier "P107" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P107 ;
+    dcterms:title "Instagram username"@en,
+        "Instagram-Benutzername"@de ;
+    schema:about gvs:P107 ;
+    dcat:distribution gvsdist:P107-html,
+        gvsdist:P107-json,
+        gvsdist:P107-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P107.html> .
+
+gvsdist:P107-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P107, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P107.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P107-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P107, as archived from the Wikibase API"@en ;
+    dcat:byteSize "3629"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P107.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P107-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P107, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P107.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P107
+    a wikibase:Property ;
+    schema:description "Name des Instagram-Kontos eines Projekts bzw. einer Person"@de,
+        "item's username on Instagram"@en ;
+    schema:name "Instagram username"@en,
+        "Instagram-Benutzername"@de ;
+    wikibase:claim gvsp:P107 ;
+    wikibase:directClaim gvst:P107 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P107 ;
+    wikibase:propertyType wikibase:ExternalId ;
+    wikibase:qualifier gvspq:P107 ;
+    wikibase:qualifierValue gvspqv:P107 ;
+    wikibase:reference gvspr:P107 ;
+    wikibase:referenceValue gvsprv:P107 ;
+    wikibase:statementProperty gvsps:P107 ;
+    wikibase:statementValue gvspsv:P107 ;
+    wikibase:statements "3"^^xsd:integer ;
+    rdfs:label "Instagram username"@en,
+        "Instagram-Benutzername"@de ;
+    skos:altLabel "IG account"@en,
+        "IG profile"@en,
+        "IG username"@en,
+        "Insta ID"@en,
+        "Instagram page"@en,
+        "Instagram"@en,
+        "https://www.instagram.com"@en,
+        "igram"@en,
+        "ufinsta"@en,
+        "urinsta"@en,
+        "www.instagram.com"@en ;
+    skos:prefLabel "Instagram username"@en,
+        "Instagram-Benutzername"@de ;
+    gvsp:P2 gvss:P107-E9267077-350E-5303-A947-15B607322E48 ;
+    gvsp:P4 gvss:P107-06F90A76-9177-51F7-A2B7-83E684181EA0 ;
+    gvsp:P5 gvss:P107-E2E9D1ED-F167-5B5F-A888-4758A0421730 ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P2003" ;
+    gvst:P5 "https://www.instagram.com/$1/" .
+
+gvss:P107-06F90A76-9177-51F7-A2B7-83E684181EA0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:ebcb1cf420c692627c6daa8ed4636fb1014b82e5 ;
+    gvsps:P4 "P2003" .
+
+gvss:P107-E2E9D1ED-F167-5B5F-A888-4758A0421730
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:ebcb1cf420c692627c6daa8ed4636fb1014b82e5 ;
+    gvsps:P5 "https://www.instagram.com/$1/" .
+
+gvss:P107-E9267077-350E-5303-A947-15B607322E48
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvsref:ebcb1cf420c692627c6daa8ed4636fb1014b82e5
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P2003> .
+
+gvsp:P107
+    a owl:ObjectProperty .
+
+gvst:P107
+    a owl:DatatypeProperty .
+
+gvspq:P107
+    a owl:DatatypeProperty .
+
+gvspqv:P107
+    a owl:ObjectProperty .
+
+gvspr:P107
+    a owl:DatatypeProperty .
+
+gvsprv:P107
+    a owl:ObjectProperty .
+
+gvsps:P107
+    a owl:DatatypeProperty .
+
+gvspsv:P107
+    a owl:ObjectProperty .
+
+gvsno:P107
+    a owl:Class ;
+    owl:complementOf _:6b3af85a69f881068fad8d0698f47c1e .
+
+_:6b3af85a69f881068fad8d0698f47c1e
+    a owl:Restriction ;
+    owl:onProperty gvst:P107 ;
+    owl:someValuesFrom owl:Thing .

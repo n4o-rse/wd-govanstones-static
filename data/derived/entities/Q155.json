@@ -1,0 +1,103 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "cross-slab"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q155$A6B8E28F-1890-5A1F-8F1C-377730D1B006",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q155$E1BCD879-EF01-5175-90FB-E2F8A0FEB747",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q155$2DFABF58-DD5C-52AB-8CCB-ADBF86664CA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q141497173"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q141497173"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "stone with one or more crosses carved into it, used as a memorial or grave marker"
+    }
+  },
+  "id": "Q155",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "cross slab"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

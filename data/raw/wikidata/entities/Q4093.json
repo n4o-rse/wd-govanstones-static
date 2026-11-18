@@ -1,0 +1,41 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glasgow, Scotland"
+      },
+      {
+        "language": "en",
+        "value": "Glasgow, UK"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Großstadt in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "city in Scotland, United Kingdom"
+    }
+  },
+  "id": "Q4093",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Glasgow"
+    },
+    "en": {
+      "language": "en",
+      "value": "Glasgow"
+    }
+  },
+  "lastrevid": 2570656701,
+  "modified": "2026-11-17T01:51:07Z",
+  "ns": 0,
+  "pageid": 5011,
+  "title": "Q4093",
+  "type": "item"
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Govan Old Parish Church, 866, 868 Govan Road, Glasgow"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q107$438DBBCB-0E66-574C-BF3E-9A555A3D64E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5588564"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q5588564"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kirchengebäude im Vereinigten Königreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "church in Glasgow, Scotland, UK"
+    }
+  },
+  "id": "Q107",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Govan Old Parish Church"
+    },
+    "en": {
+      "language": "en",
+      "value": "Govan Old Parish Church"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,191 @@
+# P124: the part of the RDF export of Govan Stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of 2026-11-18T00:00:00Z
+# Licence: CC0 1.0
+# The prefixes gvs:, gvst:, gvsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only gvs:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix gvs: <https://n4o-rse.github.io/wd-govanstones-static/entity/> .
+@prefix gvscat: <https://n4o-rse.github.io/wd-govanstones-static/catalog/> .
+@prefix gvsdata: <https://n4o-rse.github.io/wd-govanstones-static/ttl/> .
+@prefix gvsdist: <https://n4o-rse.github.io/wd-govanstones-static/distribution/> .
+@prefix gvsno: <https://n4o-rse.github.io/wd-govanstones-static/prop/novalue/> .
+@prefix gvsp: <https://n4o-rse.github.io/wd-govanstones-static/prop/> .
+@prefix gvspq: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/> .
+@prefix gvspqv: <https://n4o-rse.github.io/wd-govanstones-static/prop/qualifier/value/> .
+@prefix gvspr: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/> .
+@prefix gvsprv: <https://n4o-rse.github.io/wd-govanstones-static/prop/reference/value/> .
+@prefix gvsps: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/> .
+@prefix gvspsv: <https://n4o-rse.github.io/wd-govanstones-static/prop/statement/value/> .
+@prefix gvsref: <https://n4o-rse.github.io/wd-govanstones-static/reference/> .
+@prefix gvss: <https://n4o-rse.github.io/wd-govanstones-static/entity/statement/> .
+@prefix gvst: <https://n4o-rse.github.io/wd-govanstones-static/prop/direct/> .
+@prefix gvsv: <https://n4o-rse.github.io/wd-govanstones-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/wd-govanstones-static/ttl/P124.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "URL für die Homepage des Subjektes"@de,
+        "URL of the official page of an item (current or former). Usage: If a listed URL no longer points to the official website, do not remove it, but see the \"Hijacked or dead websites\" section of the Talk page"@en ;
+    dcterms:identifier "P124" ;
+    dcterms:isPartOf gvscat:properties ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject gvs:P124 ;
+    dcterms:title "official website"@en,
+        "offizielle Website"@de ;
+    schema:about gvs:P124 ;
+    dcat:distribution gvsdist:P124-html,
+        gvsdist:P124-json,
+        gvsdist:P124-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-govanstones-static/P124.html> .
+
+gvsdist:P124-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P124, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-govanstones-static/P124.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+gvsdist:P124-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P124, as archived from the Wikibase API"@en ;
+    dcat:byteSize "4959"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/wd-govanstones-static/json/P124.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+gvsdist:P124-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "P124, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL gvsdata:P124.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+gvs:P124
+    a wikibase:Property ;
+    schema:description "URL für die Homepage des Subjektes"@de,
+        "URL of the official page of an item (current or former). Usage: If a listed URL no longer points to the official website, do not remove it, but see the \"Hijacked or dead websites\" section of the Talk page"@en ;
+    schema:name "official website"@en,
+        "offizielle Website"@de ;
+    wikibase:claim gvsp:P124 ;
+    wikibase:directClaim gvst:P124 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue gvsno:P124 ;
+    wikibase:propertyType wikibase:Url ;
+    wikibase:qualifier gvspq:P124 ;
+    wikibase:qualifierValue gvspqv:P124 ;
+    wikibase:reference gvspr:P124 ;
+    wikibase:referenceValue gvsprv:P124 ;
+    wikibase:statementProperty gvsps:P124 ;
+    wikibase:statementValue gvspsv:P124 ;
+    wikibase:statements "2"^^xsd:integer ;
+    rdfs:label "official website"@en,
+        "offizielle Website"@de ;
+    skos:altLabel "Homepage"@de,
+        "Internetadresse"@de,
+        "Internetauftritt"@de,
+        "Internetseite"@de,
+        "Seite (offiziell)"@de,
+        "Site (offiziell)"@de,
+        "URL (official)"@en,
+        "URL of subject"@en,
+        "URL official"@en,
+        "URL"@de,
+        "URL"@en,
+        "Webadresse"@de,
+        "Webpräsenz"@de,
+        "Webseite (offiziell)"@de,
+        "Webseite"@de,
+        "Website (offiziell)"@de,
+        "Website"@de,
+        "home page (official)"@en,
+        "home page"@en,
+        "homepage (official)"@en,
+        "homepage"@en,
+        "official URL"@en,
+        "official homepage"@en,
+        "official page"@en,
+        "official site"@en,
+        "official web site"@en,
+        "offizielle Homepage"@de,
+        "offizielle Webseite"@de,
+        "personal website"@en,
+        "site (official)"@en,
+        "site official"@en,
+        "site"@en,
+        "web address"@en,
+        "web site"@en,
+        "website (official)"@en,
+        "website official"@en,
+        "website"@en,
+        "www site (official)"@en ;
+    skos:prefLabel "official website"@en,
+        "offizielle Website"@de ;
+    gvsp:P2 gvss:P124-7A4E2A0A-DAE1-50EA-BB74-4B959B418859 ;
+    gvsp:P4 gvss:P124-A8830B2A-9EA4-5153-B730-D907643FE0CE ;
+    gvst:P2 gvs:Q2 ;
+    gvst:P4 "P856" .
+
+gvss:P124-7A4E2A0A-DAE1-50EA-BB74-4B959B418859
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    gvsps:P2 gvs:Q2 .
+
+gvss:P124-A8830B2A-9EA4-5153-B730-D907643FE0CE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom gvsref:5fedfaebb6f17a4bf714c8af2458cc6d051a1c29 ;
+    gvsps:P4 "P856" .
+
+gvsref:5fedfaebb6f17a4bf714c8af2458cc6d051a1c29
+    a wikibase:Reference ;
+    gvspr:P6 <https://www.wikidata.org/wiki/Property:P856> .
+
+gvsp:P124
+    a owl:ObjectProperty .
+
+gvst:P124
+    a owl:ObjectProperty .
+
+gvspq:P124
+    a owl:ObjectProperty .
+
+gvspqv:P124
+    a owl:ObjectProperty .
+
+gvspr:P124
+    a owl:ObjectProperty .
+
+gvsprv:P124
+    a owl:ObjectProperty .
+
+gvsps:P124
+    a owl:ObjectProperty .
+
+gvspsv:P124
+    a owl:ObjectProperty .
+
+gvsno:P124
+    a owl:Class ;
+    owl:complementOf _:fe74a121e453ed4570688b5e446f8459 .
+
+_:fe74a121e453ed4570688b5e446f8459
+    a owl:Restriction ;
+    owl:onProperty gvst:P124 ;
+    owl:someValuesFrom owl:Thing .

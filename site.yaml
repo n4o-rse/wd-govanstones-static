@@ -16,6 +16,8 @@ languages:
 formatter_property: P5
 # The licence is the default of the package, CC0 (the data of Wikidata are CC0). The images are not copied: they stay at Wikimedia
 # Commons with their own licences and are only linked.
-# No logo yet (`logo:` takes a file of this repository or a URL); no colour of its own: the pages use the BeaverBridge palette.
+# The logo: a pen drawing of the hogback stones in the church of Govan Old; it is copied into docs/assets/logo/.
+logo: assets/logo.png
+# No colour of its own: the pages use the BeaverBridge palette.
 # The date of the data (the CSV tables carry no modification time of their own). Set it again when the data change.
-# data_as_of: 2026-11-18
+data_as_of: 2026-11-18

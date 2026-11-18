@@ -1,0 +1,29 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "cross-slab"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "stone with one or more crosses carved into it, used as a memorial or grave marker"
+    }
+  },
+  "id": "Q141497173",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "cross slab"
+    }
+  },
+  "lastrevid": 2547515592,
+  "modified": "2026-09-18T18:05:56Z",
+  "ns": 0,
+  "pageid": 135056535,
+  "title": "Q141497173",
+  "type": "item"
+}

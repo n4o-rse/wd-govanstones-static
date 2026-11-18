@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Webseite"
+      },
+      {
+        "language": "de",
+        "value": "Internetauftritt"
+      },
+      {
+        "language": "de",
+        "value": "URL"
+      },
+      {
+        "language": "de",
+        "value": "Webadresse"
+      },
+      {
+        "language": "de",
+        "value": "Internetadresse"
+      },
+      {
+        "language": "de",
+        "value": "Webpräsenz"
+      },
+      {
+        "language": "de",
+        "value": "offizielle Webseite"
+      },
+      {
+        "language": "de",
+        "value": "Website"
+      },
+      {
+        "language": "de",
+        "value": "Homepage"
+      },
+      {
+        "language": "de",
+        "value": "offizielle Homepage"
+      },
+      {
+        "language": "de",
+        "value": "Website (offiziell)"
+      },
+      {
+        "language": "de",
+        "value": "Webseite (offiziell)"
+      },
+      {
+        "language": "de",
+        "value": "Site (offiziell)"
+      },
+      {
+        "language": "de",
+        "value": "Seite (offiziell)"
+      },
+      {
+        "language": "de",
+        "value": "Internetseite"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "site"
+      },
+      {
+        "language": "en",
+        "value": "web address"
+      },
+      {
+        "language": "en",
+        "value": "home page"
+      },
+      {
+        "language": "en",
+        "value": "homepage"
+      },
+      {
+        "language": "en",
+        "value": "official page"
+      },
+      {
+        "language": "en",
+        "value": "official web site"
+      },
+      {
+        "language": "en",
+        "value": "website (official)"
+      },
+      {
+        "language": "en",
+        "value": "web site"
+      },
+      {
+        "language": "en",
+        "value": "official URL"
+      },
+      {
+        "language": "en",
+        "value": "home page (official)"
+      },
+      {
+        "language": "en",
+        "value": "official site"
+      },
+      {
+        "language": "en",
+        "value": "website"
+      },
+      {
+        "language": "en",
+        "value": "URL (official)"
+      },
+      {
+        "language": "en",
+        "value": "homepage (official)"
+      },
+      {
+        "language": "en",
+        "value": "official homepage"
+      },
+      {
+        "language": "en",
+        "value": "www site (official)"
+      },
+      {
+        "language": "en",
+        "value": "site official"
+      },
+      {
+        "language": "en",
+        "value": "website official"
+      },
+      {
+        "language": "en",
+        "value": "site (official)"
+      },
+      {
+        "language": "en",
+        "value": "URL"
+      },
+      {
+        "language": "en",
+        "value": "URL official"
+      },
+      {
+        "language": "en",
+        "value": "personal website"
+      },
+      {
+        "language": "en",
+        "value": "URL of subject"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P124$7A4E2A0A-DAE1-50EA-BB74-4B959B418859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P124$A8830B2A-9EA4-5153-B730-D907643FE0CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P856"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P856"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "url",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "URL für die Homepage des Subjektes"
+    },
+    "en": {
+      "language": "en",
+      "value": "URL of the official page of an item (current or former). Usage: If a listed URL no longer points to the official website, do not remove it, but see the \"Hijacked or dead websites\" section of the Talk page"
+    }
+  },
+  "id": "P124",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "offizielle Website"
+    },
+    "en": {
+      "language": "en",
+      "value": "official website"
+    }
+  },
+  "type": "property"
+}
